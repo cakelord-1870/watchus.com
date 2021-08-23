@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://watchus.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://watchus.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://watchus.com/collections/fairy-tale-earrings.atom"/>
+  <title>Watchus</title>
+  <updated>2018-03-23T12:40:17-04:00</updated>
+  <author>
+    <name>Watchus</name>
+  </author>
+  <entry>
+    <id>https://watchus.com/products/579547037726</id>
+    <published>2018-03-23T12:40:17-04:00</published>
+    <updated>2018-03-23T12:40:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/unicorn-earrings"/>
+    <title>Unicorn Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/unicorn-earrings.jpg?v=1527020845"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fairy Tale</s:tag>
+    <s:tag>Unicorn</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/579547037726</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>E530SC-Blue</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/579547004958</id>
+    <published>2018-03-23T12:40:17-04:00</published>
+    <updated>2018-03-23T12:40:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/mermaid-charm-garnet-earrings"/>
+    <title>Mermaid Charm Garnet Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/mermaid-charm-garnet-earrings.jpg?v=1527020841"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mermaid Charm Garnet Earrings Sterling Silver Plated with .925 Sterling Silver Ear Wire.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fairy Tale</s:tag>
+    <s:tag>Mermaid</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/579547004958</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>E079S Garnet</s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/579546939422</id>
+    <published>2018-03-23T12:40:17-04:00</published>
+    <updated>2018-03-23T12:40:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/mermaid-fresh-water-pearl-charm-earrings"/>
+    <title>Mermaid Pearl Charm Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/mermaid-pearl-charm-earrings.jpg?v=1527020836"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mermaid Charm With Fresh Water Pearl and .925 Earring Wires.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fairy Tale</s:tag>
+    <s:tag>Mermaid</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/579546939422</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>C079S Pearl</s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/579547725854</id>
+    <published>2018-03-23T12:40:15-04:00</published>
+    <updated>2018-03-23T12:40:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/pink-fairy-earrings"/>
+    <title>Pink Fairy Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/pink-fairy-earrings.jpg?v=1527020915"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: </strong></p>
+<p><strong>Style Number:åÊ</strong>E0223225</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>.925 Sterling Earwires</li>
+<li>Height: 1<sup>1/2"</sup> XåÊWidth: <sup>7/8"</sup>
+</li>
+<li>Weight: 8g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fairy</s:tag>
+    <s:tag>Fairy Tale</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/579547725854</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>E0223225</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/579547791390</id>
+    <published>2018-03-23T12:40:14-04:00</published>
+    <updated>2018-03-23T12:40:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/purple-unicorn-earrings"/>
+    <title>Purple Unicorn Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/purple-unicorn-earrings.jpg?v=1527020923"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: </strong></p>
+<p><strong>Style Number:åÊ</strong>E0223530</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>.925 Sterling Earwires</li>
+<li>Height: 1<sup>1/2"</sup> XåÊWidth: <sup>7/8"</sup>
+</li>
+<li>Weight: 8g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Animal</s:tag>
+    <s:tag>Fairy Tale</s:tag>
+    <s:tag>Unicorn</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/579547791390</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>E0223530</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/579547758622</id>
+    <published>2018-03-23T12:40:14-04:00</published>
+    <updated>2018-03-23T12:40:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/green-mermaid-earrings"/>
+    <title>Green Mermaid Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/green-mermaid-earrings.jpg?v=1527020919"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: </strong></p>
+<p><strong>Style Number:åÊ</strong>E0221079</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>.925 Sterling Earwires</li>
+<li>Height: 1<sup>1/2"</sup> XåÊWidth: <sup>7/8"</sup>
+</li>
+<li>Weight: 8g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fairy Tale</s:tag>
+    <s:tag>Mermaid</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/579547758622</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>E0221079</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/579548250142</id>
+    <published>2018-03-23T12:40:13-04:00</published>
+    <updated>2018-03-23T12:40:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/green-four-leaf-clover-earrings"/>
+    <title>Green Four Leaf Clover Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/green-four-leaf-clover-earrings.jpg?v=1527020975"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: </strong></p>
+<p><strong>Style Number:åÊ</strong>E1321033</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>.925 Sterling Earwires</li>
+<li>Height: 1<sup>1/2"</sup> XåÊWidth: <sup>7/8"</sup>
+</li>
+<li>Weight: 8g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clover</s:tag>
+    <s:tag>Fairy Tale</s:tag>
+    <s:tag>St Patrick&apos;s Day</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/579548250142</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>E1321033</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+</feed>

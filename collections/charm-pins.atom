@@ -1,0 +1,811 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://watchus.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://watchus.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://watchus.com/collections/charm-pins.atom"/>
+  <title>Watchus</title>
+  <updated>2019-12-30T12:18:09-05:00</updated>
+  <author>
+    <name>Watchus</name>
+  </author>
+  <entry>
+    <id>https://watchus.com/products/9653236417</id>
+    <published>2019-12-30T12:18:09-05:00</published>
+    <updated>2019-12-30T12:18:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/copy-of-shop-hop-charm-pin"/>
+    <title>Copy of Shop Hop Charm Pin</title>
+    <s:type>Charms,Charms by Category,Jewelry Supplies,Charm Jewelry,Silver Charms</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/copy-of-shop-hop-charm-pin.jpeg?v=1521834351"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Charms,Charms by Category,Jewelry Supplies,Charm Jewelry,Silver Charms<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>J002S</p>
+<p>Shop Hop Charm Pin</p>
+<p>Pin slides off for you to put Beads and Charms. Then you slide in back on.</p>
+<p>Copyrighted from Watchus! Designed by Nancy Dreishpoon.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Charm Pins</s:tag>
+    <s:tag>Jewelry Charm Pins</s:tag>
+    <s:tag>Quilting Charms</s:tag>
+    <s:tag>Quilting Pewter Charms</s:tag>
+    <s:tag>Quilting Silver Charm</s:tag>
+    <s:tag>Shop Hop</s:tag>
+    <s:tag>Wholesale Charms</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/9653236417</id>
+      <title>Default</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>b001S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247822717</id>
+    <published>2015-06-28T17:29:48-04:00</published>
+    <updated>2015-06-28T17:29:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/five-charm-ring"/>
+    <title>Five Charm Necklace Ring</title>
+    <s:type>Jewelry Supplies</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/five-charm-necklace-ring.jpg?v=1527015521"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Jewelry Supplies<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Five Charm Necklace Ring. This ring fits 5 charms; it is perfect for necklaces, pendants and all jewelry. Create your own theme memory piece. </p>
+<ul>
+<li><strong>Imitation Rhodium Plated</strong></li>
+<li><strong>Made in the U.S.A.</strong></li>
+<li><strong>Three Dimensional</strong></li>
+<li><strong>Designed by Nancy Dreishpoon</strong></li>
+<li><strong>Copyrighted</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Charm Pins</s:tag>
+    <s:tag>Charm Rings</s:tag>
+    <s:tag>Components</s:tag>
+    <s:tag>Jewelry Charm Pins</s:tag>
+    <s:tag>Jewelry Components</s:tag>
+    <s:tag>Key Rings</s:tag>
+    <s:tag>New Jewelry Supplies</s:tag>
+    <s:tag>Sterling Jewelry Findings</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247822717</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>C937S</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247833245</id>
+    <published>2014-02-24T02:06:45-05:00</published>
+    <updated>2014-02-24T02:06:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/titanium-painted-kilt-charm-pin"/>
+    <title>Titanium Painted Kilt Charm Pin</title>
+    <s:type>Jewelry Supplies</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/titanium-painted-kilt-charm-pin.jpg?v=1527019930"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Jewelry Supplies<br>
+        <strong>Price: </strong>
+            1.00 - 2.00
+            <a href="https://watchus.com/products/titanium-painted-kilt-charm-pin">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Charm Pins</s:tag>
+    <s:tag>Jewelry Charm Pins</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247833245</id>
+      <title>Default</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku>J8494</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247833245</id>
+      <title>Default 6+</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku>J8494</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247833245</id>
+      <title>Default 12+</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku>J8494</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247833245</id>
+      <title>Default 24+</title>
+      <s:price currency="USD">1.25</s:price>
+      <s:sku>J8494</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247833245</id>
+      <title>Default 144+</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>J8494</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247832397</id>
+    <published>2014-02-24T02:05:40-05:00</published>
+    <updated>2014-02-24T02:05:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/star-moon-charm-pin"/>
+    <title>Star Moon Charm Pin</title>
+    <s:type>Jewelry Supplies</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/star-moon-charm-pin.jpg?v=1527019540"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Jewelry Supplies<br>
+        <strong>Price: </strong>
+            3.00 - 4.00
+            <a href="https://watchus.com/products/star-moon-charm-pin">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Charm Pins</s:tag>
+    <s:tag>Jewelry Charm Pins</s:tag>
+    <s:tag>Jewelry Components</s:tag>
+    <s:tag>New Charm Jewelry</s:tag>
+    <s:tag>New Jewelry Supplies</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247832397</id>
+      <title>Default</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>J069P</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832397</id>
+      <title>Default 6+</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>J069P</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832397</id>
+      <title>Default 12+</title>
+      <s:price currency="USD">3.75</s:price>
+      <s:sku>J069P</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832397</id>
+      <title>Default 24+</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>J069P</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832397</id>
+      <title>Default 144+</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>J069P</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247831649</id>
+    <published>2014-02-24T02:04:52-05:00</published>
+    <updated>2014-02-24T02:04:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/silver-kilt-pin-3-rings"/>
+    <title>Silver Kilt Pin - DIY</title>
+    <s:type>Jewelry Supplies</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/silver-kilt-pin-diy.jpg?v=1575396112"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Jewelry Supplies<br>
+        <strong>Price: </strong>
+            1.00 - 7.50
+            <a href="https://watchus.com/products/silver-kilt-pin-3-rings">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>DYI</li>
+</ul>
+<p>Silver Kilt Charm Pin. 3 Rings.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Charm Pins</s:tag>
+    <s:tag>Jewelry Charm Pins</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247831649</id>
+      <title>Default</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>J8401</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247831649</id>
+      <title>Default 6+</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku>J8401</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247831649</id>
+      <title>Default 12+</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku>J8401</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247831649</id>
+      <title>Default 24+</title>
+      <s:price currency="USD">1.25</s:price>
+      <s:sku>J8401</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247831649</id>
+      <title>Default 144+</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>J8401</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247831249</id>
+    <published>2014-02-24T02:04:31-05:00</published>
+    <updated>2014-02-24T02:04:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/shop-hop-charm-pin"/>
+    <title>Shop Hop Charm Pin Slide Pin Out to Add Charms and Beads to make your own jewelry</title>
+    <s:type>Charms,Charms by Category,Jewelry Supplies,Charm Jewelry,Silver Charms</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/shop-hop-charm-pin-slide-pin-out-to-add-charms-and-beads-to-make-your-own-jewelry.jpg?v=1527019041"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Charms,Charms by Category,Jewelry Supplies,Charm Jewelry,Silver Charms<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>J002S</p>
+<p>Shop Hop Charm Pin</p>
+<p>This Shop Hop Pin is a One of a Kind. There are none like this pin in the world.</p>
+<p>Pin slides off for you to put Beads and Charms. Then you slide in back on.</p>
+<p>Copyrighted from Watchus! Designed by Nancy Dreishpoon.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Charm Pins</s:tag>
+    <s:tag>Jewelry Charm Pins</s:tag>
+    <s:tag>Quilting Charms</s:tag>
+    <s:tag>Quilting Pewter Charms</s:tag>
+    <s:tag>Quilting Silver Charm</s:tag>
+    <s:tag>Shop Hop</s:tag>
+    <s:tag>Wholesale Charms</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247831249</id>
+      <title>Default 144+</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>J002S</s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247825941</id>
+    <published>2014-02-24T02:00:01-05:00</published>
+    <updated>2014-02-24T02:00:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/lady-bug-charm-pin"/>
+    <title>Lady Bug Charm Pin</title>
+    <s:type>Charms,Jewelry Supplies,Charm Jewelry,New Products,Sale</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/lady-bug-charm-pin.jpg?v=1527016887"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Charms,Jewelry Supplies,Charm Jewelry,New Products,Sale<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bug Charms</s:tag>
+    <s:tag>Charm Pins</s:tag>
+    <s:tag>Jewelry Charm Pins</s:tag>
+    <s:tag>Jewelry Components</s:tag>
+    <s:tag>New Charm Jewelry</s:tag>
+    <s:tag>New Jewelry Supplies</s:tag>
+    <s:tag>Sale Jewelry Supplies</s:tag>
+    <s:tag>Zoo Charms</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247825941</id>
+      <title>Default</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>J177P</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247823673</id>
+    <published>2014-02-24T01:58:04-05:00</published>
+    <updated>2014-02-24T01:58:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/gold-kilt-charm-pin"/>
+    <title>Gold Kilt Charm Pin</title>
+    <s:type>Jewelry Supplies</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/gold-kilt-charm-pin.jpg?v=1527015985"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Jewelry Supplies<br>
+        <strong>Price: </strong>
+            1.00 - 2.00
+            <a href="https://watchus.com/products/gold-kilt-charm-pin">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Charm Pins</s:tag>
+    <s:tag>Jewelry Charm Pins</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247823673</id>
+      <title>Default</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku>J8402</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247823673</id>
+      <title>Default 6+</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku>J8402</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247823673</id>
+      <title>Default 12+</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku>J8402</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247823673</id>
+      <title>Default 24+</title>
+      <s:price currency="USD">1.25</s:price>
+      <s:sku>J8402</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247823673</id>
+      <title>Default 144+</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>J8402</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247821933</id>
+    <published>2014-02-24T01:56:35-05:00</published>
+    <updated>2014-02-24T01:56:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/dragon-fly-charm-pin"/>
+    <title>Dragon Fly Charm Pin</title>
+    <s:type>Jewelry Supplies</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Jewelry Supplies<br>
+        <strong>Price: </strong>
+            3.00 - 4.00
+            <a href="https://watchus.com/products/dragon-fly-charm-pin">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Charm Pins</s:tag>
+    <s:tag>Jewelry Charm Pins</s:tag>
+    <s:tag>Jewelry Components</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247821933</id>
+      <title>Default</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>J151P</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247821933</id>
+      <title>Default 6+</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>J151P</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247821933</id>
+      <title>Default 12+</title>
+      <s:price currency="USD">3.75</s:price>
+      <s:sku>J151P</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247821933</id>
+      <title>Default 24+</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>J151P</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247821933</id>
+      <title>Default 144+</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>J151P</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247819393</id>
+    <published>2014-02-24T01:53:32-05:00</published>
+    <updated>2014-02-24T01:53:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/butterfly-charm-pin"/>
+    <title>Butterfly  Charm Pin</title>
+    <s:type>Jewelry Supplies</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Jewelry Supplies<br>
+        <strong>Price: </strong>
+            3.00 - 4.00
+            <a href="https://watchus.com/products/butterfly-charm-pin">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Charm Pins</s:tag>
+    <s:tag>Jewelry Charm Pins</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247819393</id>
+      <title>Default</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>J150P</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247819393</id>
+      <title>Default 6+</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>J150P</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247819393</id>
+      <title>Default 12+</title>
+      <s:price currency="USD">3.75</s:price>
+      <s:sku>J150P</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247819393</id>
+      <title>Default 24+</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>J150P</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247819393</id>
+      <title>Default 144+</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>J150P</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247819229</id>
+    <published>2014-02-24T01:53:21-05:00</published>
+    <updated>2014-02-24T01:53:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/brass-kilt-charm-pin"/>
+    <title>Brass Kilt Charm Pin</title>
+    <s:type>Jewelry Supplies</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/brass-kilt-charm-pin.jpg?v=1527014100"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Jewelry Supplies<br>
+        <strong>Price: </strong>
+            1.00 - 2.00
+            <a href="https://watchus.com/products/brass-kilt-charm-pin">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Charm Pins</s:tag>
+    <s:tag>Jewelry Charm Pins</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247819229</id>
+      <title>Default</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku>J8405</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247819229</id>
+      <title>Default 6+</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku>J8405</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247819229</id>
+      <title>Default 12+</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku>J8405</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247819229</id>
+      <title>Default 24+</title>
+      <s:price currency="USD">1.25</s:price>
+      <s:sku>J8405</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247819229</id>
+      <title>Default 144+</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>J8405</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247818841</id>
+    <published>2014-02-24T01:53:00-05:00</published>
+    <updated>2014-02-24T01:53:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/blank-silver-plated-charm-pin"/>
+    <title>Blank Silver Plated Charm Pin</title>
+    <s:type>Jewelry Supplies</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/blank-silver-plated-charm-pin.jpg?v=1527013938"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Jewelry Supplies<br>
+        <strong>Price: </strong>
+            3.00 - 6.00
+            <a href="https://watchus.com/products/blank-silver-plated-charm-pin">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Charm Pins</s:tag>
+    <s:tag>Jewelry Charm Pins</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247818841</id>
+      <title>Default</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>J001S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247818841</id>
+      <title>Default 6+</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>J001S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247818841</id>
+      <title>Default 12+</title>
+      <s:price currency="USD">3.75</s:price>
+      <s:sku>J001S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247818841</id>
+      <title>Default 24+</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>J001S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247818841</id>
+      <title>Default 144+</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>J001S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247818797</id>
+    <published>2014-02-24T01:53:00-05:00</published>
+    <updated>2014-02-24T01:53:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/blank-pewter-charm-pin"/>
+    <title>Blank Pewter Charm Pin</title>
+    <s:type>Jewelry Supplies</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/blank-pewter-charm-pin.jpg?v=1527013933"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Jewelry Supplies<br>
+        <strong>Price: </strong>
+            3.00 - 4.00
+            <a href="https://watchus.com/products/blank-pewter-charm-pin">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Charm Pins</s:tag>
+    <s:tag>Jewelry Charm Pins</s:tag>
+    <s:tag>Jewelry Components</s:tag>
+    <s:tag>Sterling Jewelry Findings</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247818797</id>
+      <title>Default</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>J001P</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247818797</id>
+      <title>Default 6+</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>J001P</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247818797</id>
+      <title>Default 12+</title>
+      <s:price currency="USD">3.75</s:price>
+      <s:sku>J001P</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247818797</id>
+      <title>Default 24+</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>J001P</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247818797</id>
+      <title>Default 144+</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>J001P</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+</feed>

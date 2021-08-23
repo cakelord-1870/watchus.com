@@ -1,0 +1,910 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://watchus.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://watchus.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://watchus.com/collections/gold-food-charms.atom"/>
+  <title>Watchus</title>
+  <updated>2018-03-19T10:29:14-04:00</updated>
+  <author>
+    <name>Watchus</name>
+  </author>
+  <entry>
+    <id>https://watchus.com/products/247821113</id>
+    <published>2018-03-19T10:29:14-04:00</published>
+    <updated>2018-03-19T10:29:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/cork-in-corkscrew-gold-plated-charms"/>
+    <title>Cork in Corkscrew Gold Plated Charms</title>
+    <s:type>Charm - Medium</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/cork-in-corkscrew-gold-plated-charms.jpg?v=1527014821"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Medium<br>
+        <strong>Price: </strong>
+            4.80 - 9.00
+            <a href="https://watchus.com/products/cork-in-corkscrew-gold-plated-charms">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bold Medium Gold Charms 1</s:tag>
+    <s:tag>Gold Food Charms</s:tag>
+    <s:tag>Gold Kitchen Charms</s:tag>
+    <s:tag>Gold Tool Charms</s:tag>
+    <s:tag>Italian Charms</s:tag>
+    <s:tag>Kitchen Utensils Charms</s:tag>
+    <s:tag>Medium Charms</s:tag>
+    <s:tag>New Charms</s:tag>
+    <s:tag>Tools Charms</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:tag>Wine &amp; Festivities Charms</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247821113</id>
+      <title>1+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C593G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247821113</id>
+      <title>2+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C593G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247821113</id>
+      <title>4+</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>C593G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247821113</id>
+      <title>6+</title>
+      <s:price currency="USD">5.40</s:price>
+      <s:sku>C593G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247821113</id>
+      <title>8+</title>
+      <s:price currency="USD">4.80</s:price>
+      <s:sku>C593G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247833841</id>
+    <published>2014-02-24T02:07:00-05:00</published>
+    <updated>2014-02-24T02:07:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/wine-glass-plated-gold-charms"/>
+    <title>Wine Glass Plated Gold Charms</title>
+    <s:type>Charm - Medium</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/wine-glass-plated-gold-charms.jpg?v=1527020258"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Medium<br>
+        <strong>Price: </strong>
+            4.80 - 9.00
+            <a href="https://watchus.com/products/wine-glass-plated-gold-charms">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wine Glass Charms. 24 Karat Gold finish. Made in USA. Designed  by Nancy Dreishpoon.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Birthday Pewter Charms</s:tag>
+    <s:tag>Bold Medium Gold Charms 1</s:tag>
+    <s:tag>Food Charms</s:tag>
+    <s:tag>Gold Charms</s:tag>
+    <s:tag>Gold Food Charms</s:tag>
+    <s:tag>Gold Holiday Charms</s:tag>
+    <s:tag>Gold Kitchen Charms</s:tag>
+    <s:tag>Gold Travel Charms</s:tag>
+    <s:tag>Holiday Charms</s:tag>
+    <s:tag>Italian Charms</s:tag>
+    <s:tag>Kitchen Charms</s:tag>
+    <s:tag>Kitchen Utensils Charms</s:tag>
+    <s:tag>Medium Charms</s:tag>
+    <s:tag>Party Charms</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:tag>Wine &amp; Festivities Charms</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247833841</id>
+      <title>1+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C516G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247833841</id>
+      <title>2+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C516G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247833841</id>
+      <title>4+</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>C516G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247833841</id>
+      <title>6+</title>
+      <s:price currency="USD">5.40</s:price>
+      <s:sku>C516G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247833841</id>
+      <title>8+</title>
+      <s:price currency="USD">4.80</s:price>
+      <s:sku>C516G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247833697</id>
+    <published>2014-02-24T02:07:00-05:00</published>
+    <updated>2014-02-24T02:07:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/watermelon-plated-gold-charms"/>
+    <title>Watermelon Plated Gold Charms - C319G</title>
+    <s:type>Charm - Medium</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/watermelon-plated-gold-charms-c319g.jpg?v=1527020185"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Medium<br>
+        <strong>Price: </strong>
+            4.80 - 9.00
+            <a href="https://watchus.com/products/watermelon-plated-gold-charms">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Watermelon Plated Gold Charms. 24 Karat Gold finish. Made in USA. Designed by Nancy Dreishpoon.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bold Medium Gold Charms 1</s:tag>
+    <s:tag>Farm Pewter Charms</s:tag>
+    <s:tag>Food Charms</s:tag>
+    <s:tag>Fruit Charms</s:tag>
+    <s:tag>Garden Pewter Charms</s:tag>
+    <s:tag>Gold Charms</s:tag>
+    <s:tag>Gold Food Charms</s:tag>
+    <s:tag>Gold Garden Charms</s:tag>
+    <s:tag>Medium Charms</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247833697</id>
+      <title>1+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C319G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247833697</id>
+      <title>2+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C319G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247833697</id>
+      <title>4+</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>C319G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247833697</id>
+      <title>6+</title>
+      <s:price currency="USD">5.40</s:price>
+      <s:sku>C319G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247833697</id>
+      <title>8+</title>
+      <s:price currency="USD">4.80</s:price>
+      <s:sku>C319G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247833045</id>
+    <published>2014-02-24T02:06:30-05:00</published>
+    <updated>2014-02-24T02:06:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/teaspoon-charm-1"/>
+    <title>Teaspoon Charm</title>
+    <s:type>Charm - Medium</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/teaspoon-charm.jpeg?v=1527019829"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Medium<br>
+        <strong>Price: </strong>
+            4.80 - 9.00
+            <a href="https://watchus.com/products/teaspoon-charm-1">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Charms</s:tag>
+    <s:tag>Bold Medium Gold Charms 1</s:tag>
+    <s:tag>Gold Charms</s:tag>
+    <s:tag>Gold Food Charms</s:tag>
+    <s:tag>Gold Kitchen Charms</s:tag>
+    <s:tag>Kitchen Charms</s:tag>
+    <s:tag>Kitchen Utensils Charms</s:tag>
+    <s:tag>Medium Charms</s:tag>
+    <s:tag>Review - Handle</s:tag>
+    <s:tag>tea charms</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:tag>W:0.3 in/7.62 mm x H:1 in/25.4 mm  |  0.7</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247833045</id>
+      <title>1+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C159G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247833045</id>
+      <title>2+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C159G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247833045</id>
+      <title>4+</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>C159G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247833045</id>
+      <title>6+</title>
+      <s:price currency="USD">5.40</s:price>
+      <s:sku>C159G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247833045</id>
+      <title>8+</title>
+      <s:price currency="USD">4.80</s:price>
+      <s:sku>C159G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247832985</id>
+    <published>2014-02-24T02:06:00-05:00</published>
+    <updated>2014-02-24T02:06:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/24k-gold-plated-teapot-charm"/>
+    <title>Gold Teapot Charm</title>
+    <s:type>Charm - Medium</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/gold-teapot-charm.jpg?v=1558374970"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Medium<br>
+        <strong>Price: </strong>
+            4.80 - 9.00
+            <a href="https://watchus.com/products/24k-gold-plated-teapot-charm">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Teapot Charm Gold Plated 5 mils 24 karat gold with a light antique. </p>
+<p>Designed by Nancy Dreishpoon</p>
+<ul class="ul1">
+<li class="li1">
+<span class="s1"></span>Copyrighted</li>
+<li class="li1">
+<span class="s1"></span>Three Dimensional</li>
+<li class="li1">
+<span class="s1"></span>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bold Medium Gold Charms 1</s:tag>
+    <s:tag>Gold Charms</s:tag>
+    <s:tag>Gold Food Charms</s:tag>
+    <s:tag>Gold Kitchen Charms</s:tag>
+    <s:tag>Kitchen Charms</s:tag>
+    <s:tag>Kitchen Utensils Charms</s:tag>
+    <s:tag>Medium Charms</s:tag>
+    <s:tag>Party Charms</s:tag>
+    <s:tag>Size: W:0.7 in/17.78 mm x H:0.6 in/15.24 mm | 2.4 g</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247832985</id>
+      <title>1+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C161G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832985</id>
+      <title>2+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C161G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832985</id>
+      <title>4+</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>C161G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832985</id>
+      <title>6+</title>
+      <s:price currency="USD">5.40</s:price>
+      <s:sku>C161G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832985</id>
+      <title>8+</title>
+      <s:price currency="USD">4.80</s:price>
+      <s:sku>C161G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247832689</id>
+    <published>2014-02-24T02:06:00-05:00</published>
+    <updated>2014-02-24T02:06:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/strawberry-plated-gold-charms"/>
+    <title>Strawberry Plated Gold Charms - C332G</title>
+    <s:type>Charm - Medium</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/strawberry-plated-gold-charms-c332g.jpg?v=1527019615"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Medium<br>
+        <strong>Price: </strong>
+            4.80 - 9.00
+            <a href="https://watchus.com/products/strawberry-plated-gold-charms">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Strawberry Plated Gold Charms. 24 Karat Gold Plated. Made in USA. Designed by Nancy Dreishpoon.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bold Medium Gold Charms 1</s:tag>
+    <s:tag>Farm Pewter Charms</s:tag>
+    <s:tag>Food Charms</s:tag>
+    <s:tag>Fruit Charms</s:tag>
+    <s:tag>Garden Pewter Charms</s:tag>
+    <s:tag>Gold Charms</s:tag>
+    <s:tag>Gold Food Charms</s:tag>
+    <s:tag>Gold Garden Charms</s:tag>
+    <s:tag>Medium Charms</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247832689</id>
+      <title>1+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C332G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832689</id>
+      <title>2+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C332G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832689</id>
+      <title>4+</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>C332G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832689</id>
+      <title>6+</title>
+      <s:price currency="USD">5.40</s:price>
+      <s:sku>C332G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832689</id>
+      <title>8+</title>
+      <s:price currency="USD">4.80</s:price>
+      <s:sku>C332G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247828493</id>
+    <published>2014-02-24T02:02:00-05:00</published>
+    <updated>2014-02-24T02:02:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/pea-pod-plated-gold-charms"/>
+    <title>Pea Pod Plated Gold Charms - C318G</title>
+    <s:type>Charm - Medium</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/pea-pod-plated-gold-charms-c318g.jpg?v=1527017966"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Medium<br>
+        <strong>Price: </strong>
+            4.80 - 9.00
+            <a href="https://watchus.com/products/pea-pod-plated-gold-charms">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pea Pod Plated Gold Charms. 24 Karat Gold finish. Made in USA. Designed by Nancy Dreishpoon.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bold Medium Gold Charms 1</s:tag>
+    <s:tag>Fairy Tale Pewter Charms</s:tag>
+    <s:tag>Farm Pewter Charms</s:tag>
+    <s:tag>Food Charms</s:tag>
+    <s:tag>Fruit Charms</s:tag>
+    <s:tag>Garden Pewter Charms</s:tag>
+    <s:tag>Gold Charms</s:tag>
+    <s:tag>Gold Food Charms</s:tag>
+    <s:tag>Gold Garden Charms</s:tag>
+    <s:tag>Medium Charms</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247828493</id>
+      <title>1+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C318G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247828493</id>
+      <title>2+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C318G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247828493</id>
+      <title>4+</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>C318G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247828493</id>
+      <title>6+</title>
+      <s:price currency="USD">5.40</s:price>
+      <s:sku>C318G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247828493</id>
+      <title>8+</title>
+      <s:price currency="USD">4.80</s:price>
+      <s:sku>C318G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247825773</id>
+    <published>2014-02-24T01:59:00-05:00</published>
+    <updated>2014-02-24T01:59:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/knife-charm-1"/>
+    <title>Knife Charm</title>
+    <s:type>Charm - Medium</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/knife-charm.jpeg?v=1527016838"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Medium<br>
+        <strong>Price: </strong>
+            4.80 - 9.00
+            <a href="https://watchus.com/products/knife-charm-1">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This gold charm has a little rose pattern engraved on the handle of the knife. It is part of a series, called, Tea Rose.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bold Medium Gold Charms 1</s:tag>
+    <s:tag>Gold Charms</s:tag>
+    <s:tag>Gold Food Charms</s:tag>
+    <s:tag>Gold Kitchen Charms</s:tag>
+    <s:tag>Kitchen Charms</s:tag>
+    <s:tag>Kitchen Utensils Charms</s:tag>
+    <s:tag>Medium Charms</s:tag>
+    <s:tag>Review - Handle</s:tag>
+    <s:tag>tea charms</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:tag>W:0.2 in/5.08 mm x H:1 in/25.4 mm  |  0.6 g</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247825773</id>
+      <title>1+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C167G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247825773</id>
+      <title>2+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C167G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247825773</id>
+      <title>4+</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>C167G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247825773</id>
+      <title>6+</title>
+      <s:price currency="USD">5.40</s:price>
+      <s:sku>C167G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247825773</id>
+      <title>8+</title>
+      <s:price currency="USD">4.80</s:price>
+      <s:sku>C167G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247822949</id>
+    <published>2014-02-24T01:57:27-05:00</published>
+    <updated>2014-02-24T01:57:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/fork-charm-1"/>
+    <title>Fork Charm</title>
+    <s:type>Charm - Medium</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/fork-charm.jpeg?v=1527015643"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Medium<br>
+        <strong>Price: </strong>
+            4.80 - 9.00
+            <a href="https://watchus.com/products/fork-charm-1">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This gold charm has a little rose pattern engraved on the handle of the fork. It is part of a series, called, Tea Rose.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bold Medium Gold Charms 1</s:tag>
+    <s:tag>Gold Charms</s:tag>
+    <s:tag>Gold Food Charms</s:tag>
+    <s:tag>Gold Kitchen Charms</s:tag>
+    <s:tag>Kitchen Charms</s:tag>
+    <s:tag>Medium Charms</s:tag>
+    <s:tag>Review - Handle</s:tag>
+    <s:tag>tea charms</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:tag>W:0.2 in/5.08 mm x H:1 in/25.4 mm  |  0.9 g</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247822949</id>
+      <title>1+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C168G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247822949</id>
+      <title>2+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C168G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247822949</id>
+      <title>4+</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>C168G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247822949</id>
+      <title>6+</title>
+      <s:price currency="USD">5.40</s:price>
+      <s:sku>C168G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247822949</id>
+      <title>8+</title>
+      <s:price currency="USD">4.80</s:price>
+      <s:sku>C168G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247821129</id>
+    <published>2014-02-24T01:55:00-05:00</published>
+    <updated>2014-02-24T01:55:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/plated-corkscrew-gold-charm"/>
+    <title>12 pieces - 24 Karat Gold Plated Corkscrew Charm</title>
+    <s:type>Charms - Gold</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/12-pieces-24-karat-gold-plated-corkscrew-charm.jpg?v=1527014829"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Charms - Gold<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>C519G</p>
+<p>12 pieces - 24 Karat Gold Plated Corkscrew Charm</p>
+<p>Made in USA</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Birthday Charms</s:tag>
+    <s:tag>Birthday Pewter Charms</s:tag>
+    <s:tag>Fun Pewter Charms</s:tag>
+    <s:tag>Fun Silver Charms</s:tag>
+    <s:tag>Gold Charms</s:tag>
+    <s:tag>Gold Food Charms</s:tag>
+    <s:tag>Gold Holiday Charms</s:tag>
+    <s:tag>Gold Kitchen Charms</s:tag>
+    <s:tag>Kitchen Utensils Charms</s:tag>
+    <s:tag>Sale Charms</s:tag>
+    <s:tag>Tools Charms</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:tag>Wine &amp; Festivities Charms</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247821129</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C519G</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247820541</id>
+    <published>2014-02-24T01:54:00-05:00</published>
+    <updated>2014-02-24T01:54:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/cherries-plated-gold-charms"/>
+    <title>Cherries Plated Gold Charms - C345G</title>
+    <s:type>Charm - Medium</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/cherries-plated-gold-charms-c345g.jpg?v=1527014643"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Medium<br>
+        <strong>Price: </strong>
+            4.80 - 9.00
+            <a href="https://watchus.com/products/cherries-plated-gold-charms">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cherries Plated Gold Charms. 24 Karat Gold finish. Made in USA. Designed by Nancy Dreishpoon.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bold Medium Gold Charms 1</s:tag>
+    <s:tag>Food Charms</s:tag>
+    <s:tag>Fruit Charms</s:tag>
+    <s:tag>Garden Pewter Charms</s:tag>
+    <s:tag>Gold Charms</s:tag>
+    <s:tag>Gold Food Charms</s:tag>
+    <s:tag>Gold Garden Charms</s:tag>
+    <s:tag>Medium Charms</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247820541</id>
+      <title>1+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C345G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247820541</id>
+      <title>2+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C345G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247820541</id>
+      <title>4+</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>C345G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247820541</id>
+      <title>6+</title>
+      <s:price currency="USD">5.40</s:price>
+      <s:sku>C345G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247820541</id>
+      <title>8+</title>
+      <s:price currency="USD">4.80</s:price>
+      <s:sku>C345G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247819337</id>
+    <published>2014-02-24T01:53:00-05:00</published>
+    <updated>2014-02-24T01:53:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/bread-plated-gold-charms"/>
+    <title>Bread Plated Gold Charms</title>
+    <s:type>Charm - Medium</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/bread-plated-gold-charms.jpg?v=1527014149"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Medium<br>
+        <strong>Price: </strong>
+            4.80 - 9.00
+            <a href="https://watchus.com/products/bread-plated-gold-charms">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bold Medium Gold Charms 1</s:tag>
+    <s:tag>Food Charms</s:tag>
+    <s:tag>Gold Charms</s:tag>
+    <s:tag>Gold Food Charms</s:tag>
+    <s:tag>Gold Hobby Charms</s:tag>
+    <s:tag>Gold Religious Charms</s:tag>
+    <s:tag>Hobby Charms</s:tag>
+    <s:tag>Holiday Charms</s:tag>
+    <s:tag>Kitchen Charms</s:tag>
+    <s:tag>Medium Charms</s:tag>
+    <s:tag>Religious Charms</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247819337</id>
+      <title>1+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C535G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247819337</id>
+      <title>2+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C535G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247819337</id>
+      <title>4+</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>C535G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247819337</id>
+      <title>6+</title>
+      <s:price currency="USD">5.40</s:price>
+      <s:sku>C535G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247819337</id>
+      <title>8+</title>
+      <s:price currency="USD">4.80</s:price>
+      <s:sku>C535G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+</feed>

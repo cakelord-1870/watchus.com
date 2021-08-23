@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://watchus.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://watchus.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://watchus.com/collections/food-bangle-bracelets.atom"/>
+  <title>Watchus</title>
+  <updated>2018-04-11T09:53:27-04:00</updated>
+  <author>
+    <name>Watchus</name>
+  </author>
+  <entry>
+    <id>https://watchus.com/products/581055774750</id>
+    <published>2018-04-11T09:53:27-04:00</published>
+    <updated>2018-04-11T09:53:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/gingerbread-man-candy-cane-bangle-bracelet"/>
+    <title>Gingerbread Man Candy Cane Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/gingerbread-man-candy-cane-bangle-bracelet.jpg?v=1527021524"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Oh no, not the gum drop buttons! This gingerbread man looks good enough to eat. Don't take a bite too soon though because he is sterling silver plated. He sits on top of an expandable bangle made by SamandNan in Derby, Connecticut. He is the perfect Christmas Gift for mom, sister, best friend or grandma. Give the gift of Love.</p>
+<p>B639570S</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Food</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581055774750</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B639570S</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581056036894</id>
+    <published>2018-04-11T09:53:24-04:00</published>
+    <updated>2018-04-11T09:53:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/pumpkin-candy-bangle-bracelet"/>
+    <title>Pumpkin Candy Expandable Charm Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/pumpkin-candy-expandable-charm-bangle-bracelet.jpg?v=1527021555"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Sterling plated adjustable jack o lantern bangle with two charms. The bracelet size is 2 3/4" and weighs .32 lbs. Made in Derby Connecticut by Sam and Nan.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fairy Tale</s:tag>
+    <s:tag>Food</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581056036894</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B317565S</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581056233502</id>
+    <published>2018-04-11T09:53:23-04:00</published>
+    <updated>2018-04-11T09:53:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/witch-bangle-bracelet"/>
+    <title>Witch Candy Expandable Charm Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/witch-candy-expandable-charm-bangle-bracelet.jpg?v=1527021576"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sterling plated adjustable bangle with charms. The bangle size is 2 3/4" and weighs 0.28 lbs. Made in Derby Connecticut by Sam and Nan</p>
+<p><strong>B290565S</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fairy</s:tag>
+    <s:tag>Food</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581056233502</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B290565S</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581057806366</id>
+    <published>2018-04-11T09:53:14-04:00</published>
+    <updated>2018-04-11T09:53:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/charm-teapot-lemon-bangle-bracelet"/>
+    <title>Teapot - Lemon Charm Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/teapot-lemon-charm-bangle-bracelet.jpg?v=1527021751"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Sit down, relax and have a cuppa tea. The perfect accessory for any tea party this bangle features our lovely teapot and refreshing slice of lemon charms.<br></strong></p>
+<p><strong>Our Charm Bangle Bracelet is Handmade by SamandNan in America.<br></strong></p>
+<p><strong>Style Number: </strong>B161328S</p>
+<p><strong>Features: </strong><span style="text-decoration: underline;">Expandable and Hand Made in America</span> !</p>
+<p><strong>Note: </strong>Please add (2) weeks delivery time for 24K Gold Plated!</p>
+<ul>
+<li>Size: Small-Medium 2<sup>3/8"</sup> Round  or  Medium-Large 2<sup>1/2" </sup>Round</li>
+<li>Weight: 12g</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Food</s:tag>
+    <s:tag>Lemon</s:tag>
+    <s:tag>Snacks</s:tag>
+    <s:tag>Tea</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581057806366</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B161328S-S</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581057740830</id>
+    <published>2018-04-11T09:53:14-04:00</published>
+    <updated>2018-04-11T09:53:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/charm-teaspoon-coffee-cup-bangle-bracelet"/>
+    <title>Teaspoon - Coffee Cup Charm Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/teaspoon-coffee-cup-charm-bangle-bracelet.jpg?v=1527021747"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Few things are better than that morning cup of joe, or grabbing a quick coffee with friends. Put the kick back in your step with this lovely bangle bracelet featuring a teaspoon and cup of coffee charms.<br></strong></p>
+<p><strong>Our Charm Bangle Bracelet is Handmade by SamandNan in America.<br></strong></p>
+<p><strong>Style Number: </strong>B159859S</p>
+<p><strong>Features: </strong><span style="text-decoration: underline;">Expandable and Hand Made in America</span> !</p>
+<p><strong>Note: </strong>Please add (2) weeks delivery time for 24K Gold Plated!</p>
+<ul>
+<li>Size: Small-Medium 2<sup>3/8"</sup> Round  or  Medium-Large 2<sup>1/2" </sup>Round</li>
+<li>Weight: 12g</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coffee</s:tag>
+    <s:tag>Food</s:tag>
+    <s:tag>Snacks</s:tag>
+    <s:tag>Spoon</s:tag>
+    <s:tag>Tea</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581057740830</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B159859S-S</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581059641374</id>
+    <published>2018-04-11T09:52:59-04:00</published>
+    <updated>2018-04-11T09:52:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/charm-lobster-lemon-bangle-bracelet"/>
+    <title>Lobster Lemon Charm Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/lobster-lemon-charm-bangle-bracelet.jpg?v=1527021906"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Embrace your sense of humor, and revv up your appetite with this cheeky lobster and lemon slice bangle bracelet.<br></strong></p>
+<p><strong>Our Charm Bangle Bracelet is Handmade by SamandNan in America.<br></strong></p>
+<p><strong>Style Number: </strong>B562328S</p>
+<p><strong>Features: </strong><span style="text-decoration: underline;">Expandable and Hand Made in America</span> !</p>
+<ul>
+<li>Size: Small 2 1/4<sup>"</sup>  or  Medium 2 3/8<sup>"</sup>
+</li>
+<li>Weight: 12g</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Food</s:tag>
+    <s:tag>Nautical</s:tag>
+    <s:tag>Ocean</s:tag>
+    <s:tag>Sea</s:tag>
+    <s:tag>Snacks</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581059641374</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B562328S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581066752030</id>
+    <published>2018-04-11T09:52:11-04:00</published>
+    <updated>2018-04-11T09:52:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/grape-pendant-watch-silver-bangle-bracelet"/>
+    <title>Grape Pendant Watch Silver Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/grape-pendant-watch-silver-bangle-bracelet.jpg?v=1527022571"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: Grape Pendant Watch Silver Bangle Bracelet</strong></p>
+<p><strong>Style Number: </strong>NBP024S</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Expandable</li>
+<li>Size (Diameter): Small-Medium 2<sup>3/8"</sup> or Medium-Large 2<sup>1/2"</sup>
+</li>
+<li>Weight: 12g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Food</s:tag>
+    <s:tag>Grape</s:tag>
+    <s:tag>Watch</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581066752030</id>
+      <title>Default Title</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>NBP024S-1</s:sku>
+      <s:grams>5992</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581067603998</id>
+    <published>2018-04-11T09:52:04-04:00</published>
+    <updated>2018-04-11T09:52:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/grapes-charm-bangle-bracelet"/>
+    <title>Grapes Basket Charm Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/grapes-basket-charm-bangle-bracelet.jpg?v=1527022655"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: Grapes Basket Charm Bangle Bracelet</strong></p>
+<p><strong>Style Number: </strong>B518591S</p>
+<p>Please add (2) weeks delivery time for 24K Gold Plated!</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Expandable</li>
+<li>Size (Diameter): Small 2 1/4<sup>"</sup> or Medium 2 3/8<sup>"</sup>
+</li>
+<li>Weight: 12g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bacchus</s:tag>
+    <s:tag>Food</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581067603998</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B518591S</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581067669534</id>
+    <published>2018-04-11T09:52:03-04:00</published>
+    <updated>2018-04-11T09:52:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/grape-leaf-charm-bangle-bracelet"/>
+    <title>Grape Leaf Basket Charm Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/grape-leaf-basket-charm-bangle-bracelet.jpg?v=1527022659"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: Grape Leaf Basket Charm Bangle Bracelet</strong></p>
+<p><strong>Style Number: </strong>B594591S</p>
+<p>Please add (2) weeks delivery time for 24K Gold Plated!</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Expandable</li>
+<li>Size (Diameter): Small 2 1/4<sup>"</sup> or Medium 2 3/8 <sup>"</sup>
+</li>
+<li>Weight: 12g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bacchus</s:tag>
+    <s:tag>Food</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581067669534</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B594591S</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+</feed>

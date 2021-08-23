@@ -1,0 +1,1521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://watchus.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://watchus.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://watchus.com/collections/cheerleading-charms.atom"/>
+  <title>Watchus</title>
+  <updated>2018-03-19T09:29:36-04:00</updated>
+  <author>
+    <name>Watchus</name>
+  </author>
+  <entry>
+    <id>https://watchus.com/products/247821689</id>
+    <published>2018-03-19T09:29:36-04:00</published>
+    <updated>2018-03-19T09:29:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/dazzled-charm"/>
+    <title>Dazzled Charm</title>
+    <s:type>Charm - Medium</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/dazzled-charm.jpg?v=1548957268"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Medium<br>
+        <strong>Price: </strong>
+            6.00 - 13.50
+            <a href="https://watchus.com/products/dazzled-charm">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dazzled Charm. We hope this charm dazzles you!</p>
+<ul>
+<li><strong>Sterling Silver Plated 100 Mils</strong></li>
+<li><strong>Made in the U.S.A.</strong></li>
+<li><strong>Three Dimensional</strong></li>
+<li><strong>Designed by Nancy Dreishpoon</strong></li>
+<li><strong>Copyrighted</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bold Medium Silver Charms 5</s:tag>
+    <s:tag>Cheerleading Charms</s:tag>
+    <s:tag>Cheerleading Silver Charms</s:tag>
+    <s:tag>Fun Pewter Charms</s:tag>
+    <s:tag>Fun Silver Charms</s:tag>
+    <s:tag>Hobby Charms</s:tag>
+    <s:tag>Hobby Silver Charm</s:tag>
+    <s:tag>Linked Pewter Charms</s:tag>
+    <s:tag>Linked Silver Charm</s:tag>
+    <s:tag>Medium Charms</s:tag>
+    <s:tag>Sale Charms</s:tag>
+    <s:tag>Sale Inspirational Charms</s:tag>
+    <s:tag>Sale Twilight Charms</s:tag>
+    <s:tag>Twilight Charms</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:tag>W: 0.75 in/19.05 mm x H: 0.75 in/19.05 mm  |  1.5 g</s:tag>
+    <s:tag>Was-published</s:tag>
+    <s:tag>Word Charms</s:tag>
+    <s:tag>Words Silver Charm</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247821689</id>
+      <title>1+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C875S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247821689</id>
+      <title>4+</title>
+      <s:price currency="USD">13.50</s:price>
+      <s:sku>C875S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247821689</id>
+      <title>8+</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>C875S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247821689</id>
+      <title>24+</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>C875S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247821689</id>
+      <title>48+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C875S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247821689</id>
+      <title>96+</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>C875S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247821689</id>
+      <title>168+</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>C875S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/314325393</id>
+    <published>2014-05-18T01:47:29-04:00</published>
+    <updated>2014-05-18T01:47:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/opal-glitter-epoxy-sterling-plated-star-charm"/>
+    <title>Opal Glitter Epoxy Star Charm</title>
+    <s:type>Charm - Epoxy</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/opal-glitter-epoxy-star-charm.jpg?v=1548958270"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Epoxy<br>
+        <strong>Price: </strong>
+            9.00 - 24.00
+            <a href="https://watchus.com/products/opal-glitter-epoxy-sterling-plated-star-charm">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Opal Glitter Epoxy Star Charm. This little star completes any collection.</p>
+<ul>
+<li><strong>Sterling Silver Plated 100 Mils</strong></li>
+<li><strong>Made in the U.S.A.</strong></li>
+<li><strong>Three Dimensional</strong></li>
+<li><strong>Designed by Nancy Dreishpoon</strong></li>
+<li><strong>Copyrighted</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bold Epoxy Charms</s:tag>
+    <s:tag>Celestial Pewter Charms</s:tag>
+    <s:tag>Cheerleading Charms</s:tag>
+    <s:tag>Epoxy Charms</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:tag>W: 0.5 in/12.7 mm x H: 0.75 in/19.05 mm | 2.3 g</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/314325393</id>
+      <title>1+</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>C909S-10 Opal</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/314325393</id>
+      <title>4+</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>C909S-10 Opal</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/314325393</id>
+      <title>8+</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>C909S-10 Opal</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/314325393</id>
+      <title>24+</title>
+      <s:price currency="USD">13.50</s:price>
+      <s:sku>C909S-10 Opal</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/314325393</id>
+      <title>48+</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>C909S-10 Opal</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/314325393</id>
+      <title>96+</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>C909S-10 Opal</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/314325393</id>
+      <title>168+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C909S-10 Opal</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/311737769</id>
+    <published>2014-05-14T04:10:27-04:00</published>
+    <updated>2014-05-14T04:10:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/white-epoxy-sterling-plated-star-charm"/>
+    <title>White Epoxy Star Charm</title>
+    <s:type>Charm - Epoxy</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/white-epoxy-star-charm_ce87a679-ed8e-4882-9765-27f7ed78897d.jpg?v=1587838092"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Epoxy<br>
+        <strong>Price: </strong>
+            9.00 - 24.00
+            <a href="https://watchus.com/products/white-epoxy-sterling-plated-star-charm">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White Epoxy Star Charm. This star completes any collection.</p>
+<ul>
+<li><strong>Sterling Silver Plated 100 Mils</strong></li>
+<li><strong>Made in the U.S.A.</strong></li>
+<li><strong>Three Dimensional</strong></li>
+<li><strong>Designed by Nancy Dreishpoon</strong></li>
+<li><strong>Copyrighted</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bold Epoxy Charms</s:tag>
+    <s:tag>Celestial Pewter Charms</s:tag>
+    <s:tag>Cheerleading Charms</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:tag>W: 0.5 in/12.7 mm x H: 0.75 in/19.05 mm | 2.3 g</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/311737769</id>
+      <title>1+</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>C909S-93 White</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/311737769</id>
+      <title>4+</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>C909S-93 White</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/311737769</id>
+      <title>8+</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>C909S-93 White</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/311737769</id>
+      <title>24+</title>
+      <s:price currency="USD">13.50</s:price>
+      <s:sku>C909S-93 White</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/311737769</id>
+      <title>48+</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>C909S-93 White</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/311737769</id>
+      <title>96+</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>C909S-93 White</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/311737769</id>
+      <title>168+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C909S-93 White</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/311737189</id>
+    <published>2014-05-14T04:09:03-04:00</published>
+    <updated>2014-05-14T04:09:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/blue-epoxy-sterling-plated-star-charm"/>
+    <title>Blue Epoxy Star Charm</title>
+    <s:type>Charm - Epoxy</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/blue-epoxy-star-charm_7ca0ed5f-b393-487a-acf8-40dd32b66787.jpg?v=1587838087"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Epoxy<br>
+        <strong>Price: </strong>
+            9.00 - 24.00
+            <a href="https://watchus.com/products/blue-epoxy-sterling-plated-star-charm">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Blue Epoxy Star Charm. This little star completes any collection.</p>
+<ul>
+<li><strong>Sterling Silver Plated 100 Mils</strong></li>
+<li><strong>Made in the U.S.A.</strong></li>
+<li><strong>Three Dimensional</strong></li>
+<li><strong>Designed by Nancy Dreishpoon</strong></li>
+<li><strong>Copyrighted</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bold Epoxy Charms</s:tag>
+    <s:tag>Celestial Pewter Charms</s:tag>
+    <s:tag>Cheerleading Charms</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:tag>W: 0.5 in/12.7 mm x H: 0.75 in/19.05 mm  |  2.3 g</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/311737189</id>
+      <title>1+</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>C909S-189 Blue</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/311737189</id>
+      <title>4+</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>C909S-189 Blue</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/311737189</id>
+      <title>8+</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>C909S-189 Blue</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/311737189</id>
+      <title>24+</title>
+      <s:price currency="USD">13.50</s:price>
+      <s:sku>C909S-189 Blue</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/311737189</id>
+      <title>48+</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>C909S-189 Blue</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/311737189</id>
+      <title>96+</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>C909S-189 Blue</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/311737189</id>
+      <title>168+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C909S-189 Blue</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247833997</id>
+    <published>2014-02-24T02:07:39-05:00</published>
+    <updated>2014-02-24T02:07:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/yoga-pose-charm"/>
+    <title>Yoga Monkey Pose Charm</title>
+    <s:type>Charm - Medium</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/yoga-monkey-pose-charm.jpg?v=1548958245"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Medium<br>
+        <strong>Price: </strong>
+            6.00 - 13.50
+            <a href="https://watchus.com/products/yoga-pose-charm">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Yoga Monkey Pose Charm. This charm features a yogi doing a variation on the monkey pose. Stretch alongside her!</p>
+<ul>
+<li><strong>Sterling Silver Plated 100 Mils</strong></li>
+<li><strong>Made in the U.S.A.</strong></li>
+<li><strong>Three Dimensional</strong></li>
+<li><strong>Designed by Nancy Dreishpoon</strong></li>
+<li><strong>Copyrighted</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bold Medium Silver Charms 5</s:tag>
+    <s:tag>Cheerleading Charms</s:tag>
+    <s:tag>Cheerleading Silver Charms</s:tag>
+    <s:tag>Dance Charms</s:tag>
+    <s:tag>Fun Silver Charm</s:tag>
+    <s:tag>Inspiratational Charms</s:tag>
+    <s:tag>Inspirational Silver Charms</s:tag>
+    <s:tag>Medium Charms</s:tag>
+    <s:tag>Sports Charms</s:tag>
+    <s:tag>Sports Silver Charm</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:tag>W: 0.75 in/19.05 mm x H: 0.5 in/12.7 mm  |  1.6 g</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247833997</id>
+      <title>1+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C943S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247833997</id>
+      <title>4+</title>
+      <s:price currency="USD">13.50</s:price>
+      <s:sku>C943S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247833997</id>
+      <title>8+</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>C943S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247833997</id>
+      <title>24+</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>C943S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247833997</id>
+      <title>48+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C943S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247833997</id>
+      <title>96+</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>C943S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247833997</id>
+      <title>168+</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>C943S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247832297</id>
+    <published>2014-02-24T02:05:33-05:00</published>
+    <updated>2014-02-24T02:05:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/sports-mom-saying-charm"/>
+    <title>Sports Mom Saying Charm</title>
+    <s:type>Charm - Medium</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/sports-mom-saying-charm.jpg?v=1527019488"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Medium<br>
+        <strong>Price: </strong>
+            6.00 - 13.50
+            <a href="https://watchus.com/products/sports-mom-saying-charm">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baseball Charms</s:tag>
+    <s:tag>Bold Medium Silver Charms 2</s:tag>
+    <s:tag>Cheerleading Charms</s:tag>
+    <s:tag>Family Charms</s:tag>
+    <s:tag>Family Pewter Charms</s:tag>
+    <s:tag>Family Silver Charm</s:tag>
+    <s:tag>Football Charms</s:tag>
+    <s:tag>Football Silver Charm</s:tag>
+    <s:tag>Golf Charms</s:tag>
+    <s:tag>Hobby Charms</s:tag>
+    <s:tag>Hockey Charms</s:tag>
+    <s:tag>Medium Charms</s:tag>
+    <s:tag>School Pewter Charms</s:tag>
+    <s:tag>School Silver Charm</s:tag>
+    <s:tag>Scrapbook Charms</s:tag>
+    <s:tag>Scrapbook Silver Charm</s:tag>
+    <s:tag>Sports Charms</s:tag>
+    <s:tag>Sports Silver Charm</s:tag>
+    <s:tag>Tennis Charms</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:tag>W:0.3 in/7.62 mm x H:0.7 in/17.78 mm  |  1.6 g</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247832297</id>
+      <title>1+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C396S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832297</id>
+      <title>4+</title>
+      <s:price currency="USD">13.50</s:price>
+      <s:sku>C396S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832297</id>
+      <title>8+</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>C396S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832297</id>
+      <title>24+</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>C396S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832297</id>
+      <title>48+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C396S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832297</id>
+      <title>96+</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>C396S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832297</id>
+      <title>168+</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>C396S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247832145</id>
+    <published>2014-02-24T02:05:21-05:00</published>
+    <updated>2014-02-24T02:05:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/sneaker"/>
+    <title>Sneaker</title>
+    <s:type>Charm - Medium</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/sneaker.jpg?v=1527019399"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Medium<br>
+        <strong>Price: </strong>
+            6.00 - 13.50
+            <a href="https://watchus.com/products/sneaker">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bold Medium Silver Charms 2</s:tag>
+    <s:tag>Cheerleading Charms</s:tag>
+    <s:tag>Clothing Pewter Charms</s:tag>
+    <s:tag>Clothing Silver Charm</s:tag>
+    <s:tag>Fashion Silver Charm</s:tag>
+    <s:tag>Football Charms</s:tag>
+    <s:tag>Football Silver Charm</s:tag>
+    <s:tag>Medium Charms</s:tag>
+    <s:tag>Shoe Charms</s:tag>
+    <s:tag>Shoes Silver Charm</s:tag>
+    <s:tag>Sports Charms</s:tag>
+    <s:tag>Sports Silver Charm</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:tag>W: 0.4 in/10.16 mm x H:0.5 in/12.7 mm  |  1.7 g</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247832145</id>
+      <title>1+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C326S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832145</id>
+      <title>4+</title>
+      <s:price currency="USD">13.50</s:price>
+      <s:sku>C326S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832145</id>
+      <title>8+</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>C326S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832145</id>
+      <title>24+</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>C326S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832145</id>
+      <title>48+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C326S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832145</id>
+      <title>96+</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>C326S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832145</id>
+      <title>168+</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>C326S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247827869</id>
+    <published>2014-02-24T02:01:36-05:00</published>
+    <updated>2014-02-24T02:01:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/nail-polish-bottle"/>
+    <title>Nail Polish Bottle</title>
+    <s:type>Charm - Medium</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/nail-polish-bottle.jpg?v=1527017711"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Medium<br>
+        <strong>Price: </strong>
+            6.00 - 13.50
+            <a href="https://watchus.com/products/nail-polish-bottle">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bold Medium Silver Charms 2</s:tag>
+    <s:tag>Cheerleading Charms</s:tag>
+    <s:tag>Fashion Silver Charm</s:tag>
+    <s:tag>Fashion Silver Charms</s:tag>
+    <s:tag>Hair &amp; Make-Up Charms</s:tag>
+    <s:tag>Hair &amp; Make-Up Silver Charm</s:tag>
+    <s:tag>Inspirational Silver Charm</s:tag>
+    <s:tag>Medium Charms</s:tag>
+    <s:tag>Party Charms</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247827869</id>
+      <title>1+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C277S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247827869</id>
+      <title>4+</title>
+      <s:price currency="USD">13.50</s:price>
+      <s:sku>C277S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247827869</id>
+      <title>8+</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>C277S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247827869</id>
+      <title>24+</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>C277S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247827869</id>
+      <title>48+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C277S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247827869</id>
+      <title>96+</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>C277S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247827869</id>
+      <title>168+</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>C277S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247827449</id>
+    <published>2014-02-24T02:01:14-05:00</published>
+    <updated>2014-02-24T02:01:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/megaphone"/>
+    <title>Megaphone</title>
+    <s:type>Charm - Medium</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/megaphone.jpg?v=1527017505"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Medium<br>
+        <strong>Price: </strong>
+            6.00 - 13.50
+            <a href="https://watchus.com/products/megaphone">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bold Medium Silver Charms 2</s:tag>
+    <s:tag>Cheerleading Charms</s:tag>
+    <s:tag>Medium Charms</s:tag>
+    <s:tag>School Pewter Charms</s:tag>
+    <s:tag>School Silver Charm</s:tag>
+    <s:tag>Sports Charms</s:tag>
+    <s:tag>Sports Silver Charm</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247827449</id>
+      <title>1+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C274S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247827449</id>
+      <title>4+</title>
+      <s:price currency="USD">13.50</s:price>
+      <s:sku>C274S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247827449</id>
+      <title>8+</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>C274S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247827449</id>
+      <title>24+</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>C274S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247827449</id>
+      <title>48+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C274S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247827449</id>
+      <title>96+</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>C274S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247827449</id>
+      <title>168+</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>C274S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247825325</id>
+    <published>2014-02-24T01:59:30-05:00</published>
+    <updated>2014-02-24T01:59:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/i-love-sports-charm"/>
+    <title>I Love Sports Charm</title>
+    <s:type>Charm - Medium</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/i-love-sports-charm.jpg?v=1548957536"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Medium<br>
+        <strong>Price: </strong>
+            6.00 - 13.50
+            <a href="https://watchus.com/products/i-love-sports-charm">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>I Love Sports Charm. For the sports fanatic in your life!</p>
+<ul>
+<li><strong>Sterling Silver Plated 100 Mils</strong></li>
+<li><strong>Made in the U.S.A.</strong></li>
+<li><strong>Three Dimensional</strong></li>
+<li><strong>Designed by Nancy Dreishpoon</strong></li>
+<li><strong>Copyrighted</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baseball Charms</s:tag>
+    <s:tag>Baseball Silver Charm</s:tag>
+    <s:tag>Bold Medium Silver Charms 5</s:tag>
+    <s:tag>Cheerleading Charms</s:tag>
+    <s:tag>Cheerleading Silver Charms</s:tag>
+    <s:tag>Football Charms</s:tag>
+    <s:tag>Football Silver Charm</s:tag>
+    <s:tag>Golf Charms</s:tag>
+    <s:tag>Golf Silver Charm</s:tag>
+    <s:tag>Heart Charms</s:tag>
+    <s:tag>Hobby Charms</s:tag>
+    <s:tag>Hobby Silver Charm</s:tag>
+    <s:tag>Hockey Charms</s:tag>
+    <s:tag>Medium Charms</s:tag>
+    <s:tag>Saying Silver Charm</s:tag>
+    <s:tag>Sayings Charms</s:tag>
+    <s:tag>Sayings Pewter Charms</s:tag>
+    <s:tag>School Pewter Charms</s:tag>
+    <s:tag>School Silver Charm</s:tag>
+    <s:tag>Scrapbook Charms</s:tag>
+    <s:tag>Sports Charms</s:tag>
+    <s:tag>Sports Silver Charm</s:tag>
+    <s:tag>Tennis Charms</s:tag>
+    <s:tag>Tennis Silver Charm</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:tag>W: 0.75 in/19.05 mm x H: 0.5 in/12.7 mm  |  2.0 g</s:tag>
+    <s:tag>Word Charms</s:tag>
+    <s:tag>Words Silver Charm</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247825325</id>
+      <title>1+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C869S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247825325</id>
+      <title>4+</title>
+      <s:price currency="USD">13.50</s:price>
+      <s:sku>C869S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247825325</id>
+      <title>8+</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>C869S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247825325</id>
+      <title>24+</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>C869S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247825325</id>
+      <title>48+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C869S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247825325</id>
+      <title>96+</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>C869S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247825325</id>
+      <title>168+</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>C869S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247824601</id>
+    <published>2014-02-24T01:58:52-05:00</published>
+    <updated>2014-02-24T01:58:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/hair-dryer"/>
+    <title>Hair Dryer</title>
+    <s:type>Charm - Medium</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/hair-dryer.jpg?v=1527016332"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Medium<br>
+        <strong>Price: </strong>
+            6.00 - 13.50
+            <a href="https://watchus.com/products/hair-dryer">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bold Medium Silver Charms 2</s:tag>
+    <s:tag>Cheerleading Charms</s:tag>
+    <s:tag>Fashion Silver Charm</s:tag>
+    <s:tag>Fashion Silver Charms</s:tag>
+    <s:tag>Hair &amp; Make-Up Charms</s:tag>
+    <s:tag>Inspirational Silver Charm</s:tag>
+    <s:tag>Medium Charms</s:tag>
+    <s:tag>Party Charms</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247824601</id>
+      <title>1+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C275S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247824601</id>
+      <title>4+</title>
+      <s:price currency="USD">13.50</s:price>
+      <s:sku>C275S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247824601</id>
+      <title>8+</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>C275S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247824601</id>
+      <title>24+</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>C275S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247824601</id>
+      <title>48+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C275S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247824601</id>
+      <title>96+</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>C275S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247824601</id>
+      <title>168+</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>C275S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247824593</id>
+    <published>2014-02-24T01:58:52-05:00</published>
+    <updated>2014-02-24T01:58:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/hair-brush"/>
+    <title>Hair Brush</title>
+    <s:type>Charm - Medium</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/hair-brush.jpg?v=1527016328"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Medium<br>
+        <strong>Price: </strong>
+            6.00 - 13.50
+            <a href="https://watchus.com/products/hair-brush">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bold Medium Silver Charms 2</s:tag>
+    <s:tag>Cheerleading Charms</s:tag>
+    <s:tag>Fashion Charms</s:tag>
+    <s:tag>Fashion Silver Charm</s:tag>
+    <s:tag>Fashion Silver Charms</s:tag>
+    <s:tag>Hair &amp; Make-Up Charms</s:tag>
+    <s:tag>Hair &amp; Make-Up Silver Charm</s:tag>
+    <s:tag>Hair And Make-up Charms</s:tag>
+    <s:tag>Inspirational Silver Charm</s:tag>
+    <s:tag>Medium Charms</s:tag>
+    <s:tag>Party Charms</s:tag>
+    <s:tag>Scrapbook Charms</s:tag>
+    <s:tag>Scrapbook Silver Charm</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247824593</id>
+      <title>1+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C276S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247824593</id>
+      <title>4+</title>
+      <s:price currency="USD">13.50</s:price>
+      <s:sku>C276S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247824593</id>
+      <title>8+</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>C276S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247824593</id>
+      <title>24+</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>C276S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247824593</id>
+      <title>48+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C276S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247824593</id>
+      <title>96+</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>C276S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247824593</id>
+      <title>168+</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>C276S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247820465</id>
+    <published>2014-02-24T01:54:49-05:00</published>
+    <updated>2014-02-24T01:54:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/cheerleader-with-megaphone"/>
+    <title>Cheerleader with Megaphone</title>
+    <s:type>Charm - Medium</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/cheerleader-with-megaphone.jpg?v=1527014619"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Medium<br>
+        <strong>Price: </strong>
+            6.00 - 13.50
+            <a href="https://watchus.com/products/cheerleader-with-megaphone">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bold Medium Silver Charms 2</s:tag>
+    <s:tag>Cheerleading Charms</s:tag>
+    <s:tag>Cheerleading Silver Charms</s:tag>
+    <s:tag>Football Charms</s:tag>
+    <s:tag>Football Silver Charm</s:tag>
+    <s:tag>Medium Charms</s:tag>
+    <s:tag>School Pewter Charms</s:tag>
+    <s:tag>School Silver Charm</s:tag>
+    <s:tag>Sports Charms</s:tag>
+    <s:tag>Sports Silver Charm</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247820465</id>
+      <title>1+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C244S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247820465</id>
+      <title>4+</title>
+      <s:price currency="USD">13.50</s:price>
+      <s:sku>C244S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247820465</id>
+      <title>8+</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>C244S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247820465</id>
+      <title>24+</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>C244S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247820465</id>
+      <title>48+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C244S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247820465</id>
+      <title>96+</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>C244S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247820465</id>
+      <title>168+</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>C244S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247820457</id>
+    <published>2014-02-24T01:54:48-05:00</published>
+    <updated>2014-02-24T01:54:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/cheerleader-saying-charms"/>
+    <title>Cheerleader Saying Charms</title>
+    <s:type>Charm - Medium</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/cheerleader-saying-charms.jpg?v=1527014614"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Medium<br>
+        <strong>Price: </strong>
+            6.00 - 13.50
+            <a href="https://watchus.com/products/cheerleader-saying-charms">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bold Medium Silver Charms 2</s:tag>
+    <s:tag>Cheerleading Charms</s:tag>
+    <s:tag>Cheerleading Silver Charms</s:tag>
+    <s:tag>Football Charms</s:tag>
+    <s:tag>Football Silver Charm</s:tag>
+    <s:tag>Kitchen Utensils Charms</s:tag>
+    <s:tag>Kitchen Utensils Silver Charm</s:tag>
+    <s:tag>Medium Charms</s:tag>
+    <s:tag>Safari - Wild Animals Charms</s:tag>
+    <s:tag>Saying Silver Charm</s:tag>
+    <s:tag>Sayings Charms</s:tag>
+    <s:tag>Tools Charms</s:tag>
+    <s:tag>Tools Silver Charm</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:tag>Word Charms</s:tag>
+    <s:tag>Words Silver Charm</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247820457</id>
+      <title>1+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C240S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247820457</id>
+      <title>4+</title>
+      <s:price currency="USD">13.50</s:price>
+      <s:sku>C240S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247820457</id>
+      <title>8+</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>C240S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247820457</id>
+      <title>24+</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>C240S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247820457</id>
+      <title>48+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C240S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247820457</id>
+      <title>96+</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>C240S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247820457</id>
+      <title>168+</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>C240S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247820449</id>
+    <published>2014-02-24T01:54:48-05:00</published>
+    <updated>2014-02-24T01:54:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/cheerleader-charm"/>
+    <title>Cheerleader Charm</title>
+    <s:type>Charm - Medium</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/cheerleader-charm.jpg?v=1527014610"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Medium<br>
+        <strong>Price: </strong>
+            6.00 - 13.50
+            <a href="https://watchus.com/products/cheerleader-charm">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bold Medium Silver Charms 1</s:tag>
+    <s:tag>Cheerleading Charms</s:tag>
+    <s:tag>Cheerleading Silver Charms</s:tag>
+    <s:tag>Dance Charms</s:tag>
+    <s:tag>Football Charms</s:tag>
+    <s:tag>Football Silver Charm</s:tag>
+    <s:tag>Fun Pewter Charms</s:tag>
+    <s:tag>Fun Silver Charm</s:tag>
+    <s:tag>Fun Silver Charms</s:tag>
+    <s:tag>Hobby Charms</s:tag>
+    <s:tag>Hobby Silver Charm</s:tag>
+    <s:tag>Medium Charms</s:tag>
+    <s:tag>School Pewter Charms</s:tag>
+    <s:tag>School Silver Charm</s:tag>
+    <s:tag>Sports Charms</s:tag>
+    <s:tag>Sports Silver Charm</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:tag>W:0.4 in/10.16 mm x H:1.2 in/30.48 mm  |  2.4 g</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247820449</id>
+      <title>1+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C080S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247820449</id>
+      <title>4+</title>
+      <s:price currency="USD">13.50</s:price>
+      <s:sku>C080S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247820449</id>
+      <title>8+</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>C080S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247820449</id>
+      <title>24+</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>C080S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247820449</id>
+      <title>48+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C080S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247820449</id>
+      <title>96+</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>C080S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247820449</id>
+      <title>168+</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>C080S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247818225</id>
+    <published>2014-02-24T01:52:38-05:00</published>
+    <updated>2014-02-24T01:52:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/baton-charm"/>
+    <title>Baton Charm</title>
+    <s:type>Charm - Medium</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/baton-charm.jpg?v=1527013792"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Medium<br>
+        <strong>Price: </strong>
+            6.00 - 13.50
+            <a href="https://watchus.com/products/baton-charm">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bold Medium Silver Charms 1</s:tag>
+    <s:tag>Cheerleading Charms</s:tag>
+    <s:tag>Dance Charms</s:tag>
+    <s:tag>Medium Charms</s:tag>
+    <s:tag>School Pewter Charms</s:tag>
+    <s:tag>School Silver Charm</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:tag>W:0.2 in/5.08 mm x H:1 in/25.4 mm  |  1.2 g</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247818225</id>
+      <title>1+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C081S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247818225</id>
+      <title>4+</title>
+      <s:price currency="USD">13.50</s:price>
+      <s:sku>C081S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247818225</id>
+      <title>8+</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>C081S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247818225</id>
+      <title>24+</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>C081S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247818225</id>
+      <title>48+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C081S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247818225</id>
+      <title>96+</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>C081S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247818225</id>
+      <title>168+</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>C081S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+</feed>

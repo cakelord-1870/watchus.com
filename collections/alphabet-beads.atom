@@ -1,0 +1,1515 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://watchus.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://watchus.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://watchus.com/collections/alphabet-beads.atom"/>
+  <title>Watchus</title>
+  <updated>2018-03-19T14:51:25-04:00</updated>
+  <author>
+    <name>Watchus</name>
+  </author>
+  <entry>
+    <id>https://watchus.com/products/247816429</id>
+    <published>2018-03-19T14:51:25-04:00</published>
+    <updated>2018-03-19T14:51:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/bead"/>
+    <title>&amp; Bead - 24 Pieces in a bag</title>
+    <s:type>Beads - Silver</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/bead-24-pieces-in-a-bag.jpg?v=1527013212"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Beads - Silver<br>
+        <strong>Price: </strong>
+            2.00 - 7.50
+            <a href="https://watchus.com/products/bead">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>&amp; - And - Bead. Sterling Silver Plated. Designed and Made in the USA.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Alphabet Beads</s:tag>
+    <s:tag>Beads</s:tag>
+    <s:tag>Review - Price</s:tag>
+    <s:tag>Sale Beads</s:tag>
+    <s:tag>Sale Charms</s:tag>
+    <s:tag>Sale Letters Beads</s:tag>
+    <s:tag>Value Pack of 24</s:tag>
+    <s:tag>Was-published</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247816429</id>
+      <title>1+</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>C217S</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247816429</id>
+      <title>5+</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>C217S</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247816429</id>
+      <title>12+</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku>C217S</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/332446081</id>
+    <published>2014-06-20T01:15:11-04:00</published>
+    <updated>2014-06-20T01:15:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/number-9-charm-1"/>
+    <title>Number 9 Charm</title>
+    <s:type>Charm - Small</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/number-9-charm.jpg?v=1527020531"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Small<br>
+        <strong>Price: </strong>
+            2.00 - 7.50
+            <a href="https://watchus.com/products/number-9-charm-1">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Alphabet Beads</s:tag>
+    <s:tag>Beads</s:tag>
+    <s:tag>Bold Small Charms</s:tag>
+    <s:tag>Review - Handle</s:tag>
+    <s:tag>Sale Beads</s:tag>
+    <s:tag>Sale Letters Beads</s:tag>
+    <s:tag>Sale Number Charms</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/332446081</id>
+      <title>1+</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>C215S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/332446081</id>
+      <title>5+</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>C215S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/332446081</id>
+      <title>12+</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku>C215S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/332445953</id>
+    <published>2014-06-20T01:14:45-04:00</published>
+    <updated>2014-06-20T01:14:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/number-8-charm-1"/>
+    <title>Number 8 Charm</title>
+    <s:type>Charm - Small</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/number-8-charm.jpg?v=1527020527"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Small<br>
+        <strong>Price: </strong>
+            2.00 - 7.50
+            <a href="https://watchus.com/products/number-8-charm-1">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Alphabet Beads</s:tag>
+    <s:tag>Beads</s:tag>
+    <s:tag>Bold Small Charms</s:tag>
+    <s:tag>Review - Handle</s:tag>
+    <s:tag>Sale Beads</s:tag>
+    <s:tag>Sale Letters Beads</s:tag>
+    <s:tag>Sale Number Charms</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/332445953</id>
+      <title>1+</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>C214S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/332445953</id>
+      <title>5+</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>C214S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/332445953</id>
+      <title>12+</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku>C214S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/332445861</id>
+    <published>2014-06-20T01:14:21-04:00</published>
+    <updated>2014-06-20T01:14:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/number-7-charm-1"/>
+    <title>Number 7 Charm</title>
+    <s:type>Charm - Small</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/number-7-charm.jpg?v=1527020524"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Small<br>
+        <strong>Price: </strong>
+            2.00 - 7.50
+            <a href="https://watchus.com/products/number-7-charm-1">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Alphabet Beads</s:tag>
+    <s:tag>Beads</s:tag>
+    <s:tag>Bold Small Charms</s:tag>
+    <s:tag>Review - Handle</s:tag>
+    <s:tag>Sale Beads</s:tag>
+    <s:tag>Sale Letters Beads</s:tag>
+    <s:tag>Sale Number Charms</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/332445861</id>
+      <title>1+</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>C213S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/332445861</id>
+      <title>5+</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>C213S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/332445861</id>
+      <title>12+</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku>C213S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/332445761</id>
+    <published>2014-06-20T01:13:54-04:00</published>
+    <updated>2014-06-20T01:13:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/number-6-charm-1"/>
+    <title>Number 6 Charm</title>
+    <s:type>Charm - Small</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/number-6-charm.jpg?v=1527020520"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Small<br>
+        <strong>Price: </strong>
+            2.00 - 7.50
+            <a href="https://watchus.com/products/number-6-charm-1">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Alphabet Beads</s:tag>
+    <s:tag>Beads</s:tag>
+    <s:tag>Bold Small Charms</s:tag>
+    <s:tag>Review - Handle</s:tag>
+    <s:tag>Sale Beads</s:tag>
+    <s:tag>Sale Letters Beads</s:tag>
+    <s:tag>Sale Number Charms</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/332445761</id>
+      <title>1+</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>C212S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/332445761</id>
+      <title>5+</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>C212S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/332445761</id>
+      <title>12+</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku>C212S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/332445717</id>
+    <published>2014-06-20T01:13:30-04:00</published>
+    <updated>2014-06-20T01:13:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/number-5-charm-1"/>
+    <title>Number 5 Charm</title>
+    <s:type>Charm - Small</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/number-5-charm.jpg?v=1527020516"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Small<br>
+        <strong>Price: </strong>
+            2.00 - 7.50
+            <a href="https://watchus.com/products/number-5-charm-1">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Alphabet Beads</s:tag>
+    <s:tag>Beads</s:tag>
+    <s:tag>Bold Small Charms</s:tag>
+    <s:tag>Review - Handle</s:tag>
+    <s:tag>Sale Beads</s:tag>
+    <s:tag>Sale Letters Beads</s:tag>
+    <s:tag>Sale Number Charms</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/332445717</id>
+      <title>1+</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>C211S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/332445717</id>
+      <title>5+</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>C211S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/332445717</id>
+      <title>12+</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku>C211S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/332445673</id>
+    <published>2014-06-20T01:13:01-04:00</published>
+    <updated>2014-06-20T01:13:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/number-4-charm-1"/>
+    <title>Number 4 Charm</title>
+    <s:type>Charm - Small</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/number-4-charm.jpg?v=1527020512"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Small<br>
+        <strong>Price: </strong>
+            2.00 - 7.50
+            <a href="https://watchus.com/products/number-4-charm-1">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Alphabet Beads</s:tag>
+    <s:tag>Beads</s:tag>
+    <s:tag>Bold Small Charms</s:tag>
+    <s:tag>Review - Handle</s:tag>
+    <s:tag>Sale Beads</s:tag>
+    <s:tag>Sale Letters Beads</s:tag>
+    <s:tag>Sale Number Charms</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/332445673</id>
+      <title>1+</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>C210S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/332445673</id>
+      <title>5+</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>C210S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/332445673</id>
+      <title>12+</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku>C210S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/332445273</id>
+    <published>2014-06-20T01:10:37-04:00</published>
+    <updated>2014-06-20T01:10:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/number-3-charm-1"/>
+    <title>Number 3 Charm</title>
+    <s:type>Charm - Small</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/number-3-charm.jpg?v=1527020508"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Small<br>
+        <strong>Price: </strong>
+            2.00 - 7.50
+            <a href="https://watchus.com/products/number-3-charm-1">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Alphabet Beads</s:tag>
+    <s:tag>Beads</s:tag>
+    <s:tag>Bold Small Charms</s:tag>
+    <s:tag>Review - Handle</s:tag>
+    <s:tag>Sale Beads</s:tag>
+    <s:tag>Sale Letters Beads</s:tag>
+    <s:tag>Sale Number Charms</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/332445273</id>
+      <title>1+</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>C209S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/332445273</id>
+      <title>5+</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>C209S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/332445273</id>
+      <title>12+</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku>C209S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/332445161</id>
+    <published>2014-06-20T01:10:08-04:00</published>
+    <updated>2014-06-20T01:10:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/number-2-charm-1"/>
+    <title>Number 2 Charm</title>
+    <s:type>Charm - Small</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/number-2-charm.jpg?v=1527020504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Small<br>
+        <strong>Price: </strong>
+            2.00 - 7.50
+            <a href="https://watchus.com/products/number-2-charm-1">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Alphabet Beads</s:tag>
+    <s:tag>Beads</s:tag>
+    <s:tag>Bold Small Charms</s:tag>
+    <s:tag>Review - Handle</s:tag>
+    <s:tag>Sale Beads</s:tag>
+    <s:tag>Sale Letters Beads</s:tag>
+    <s:tag>Sale Number Charms</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/332445161</id>
+      <title>1+</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>C208S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/332445161</id>
+      <title>5+</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>C208S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/332445161</id>
+      <title>12+</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku>C208S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/332444733</id>
+    <published>2014-06-20T01:08:10-04:00</published>
+    <updated>2014-06-20T01:08:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/number-1-charm-1"/>
+    <title>Number 1 Charm</title>
+    <s:type>Charm - Small</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/number-1-charm.jpg?v=1527020500"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Small<br>
+        <strong>Price: </strong>
+            2.00 - 7.50
+            <a href="https://watchus.com/products/number-1-charm-1">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Alphabet Beads</s:tag>
+    <s:tag>Beads</s:tag>
+    <s:tag>Bold Small Charms</s:tag>
+    <s:tag>Review - Handle</s:tag>
+    <s:tag>Sale Beads</s:tag>
+    <s:tag>Sale Letters Beads</s:tag>
+    <s:tag>Sale Number Charms</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/332444733</id>
+      <title>1+</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>C207S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/332444733</id>
+      <title>5+</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>C207S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/332444733</id>
+      <title>12+</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku>C207S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247833981</id>
+    <published>2014-02-24T02:07:00-05:00</published>
+    <updated>2014-02-24T02:07:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/ying-yang-bead"/>
+    <title>Ying Yang Bead Charm</title>
+    <s:type>Charm - Small</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/ying-yang-bead-charm.jpg?v=1535133260"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Small<br>
+        <strong>Price: </strong>
+            2.00 - 7.50
+            <a href="https://watchus.com/products/ying-yang-bead">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ying Yang Bead Charm. Sterling Silver finish. Made in USA. Designed  by Nancy Dreishpoon.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Alphabet Beads</s:tag>
+    <s:tag>Beads</s:tag>
+    <s:tag>Bold Small Charms</s:tag>
+    <s:tag>Review - Fix</s:tag>
+    <s:tag>Sale Beads</s:tag>
+    <s:tag>Sale Fun Charms</s:tag>
+    <s:tag>Sale Inspirational Charms</s:tag>
+    <s:tag>Sale Letters Beads</s:tag>
+    <s:tag>Theme Beads</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:tag>W:0.2 in/5.08 mm x H:0.2 in/5.08 mm  |  1.7 g</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247833981</id>
+      <title>1+</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>C477S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247833981</id>
+      <title>5+</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>C477S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247833981</id>
+      <title>12+</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku>C477S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247832101</id>
+    <published>2014-02-24T02:05:19-05:00</published>
+    <updated>2014-02-24T02:05:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/smile-bead"/>
+    <title>Smile Bead</title>
+    <s:type>Charm - Small</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/Smile-Bead_f4ee1b8a-434c-43b5-a432-361c13f90386.jpg?v=1628877441"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Small<br>
+        <strong>Price: </strong>
+            2.00 - 7.50
+            <a href="https://watchus.com/products/smile-bead">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Alphabet Beads</s:tag>
+    <s:tag>Beads</s:tag>
+    <s:tag>Bold Small Charms</s:tag>
+    <s:tag>Sale Beads</s:tag>
+    <s:tag>Sale Fun Charms</s:tag>
+    <s:tag>Sale Inspirational Charms</s:tag>
+    <s:tag>Sale Letters Beads</s:tag>
+    <s:tag>Theme Beads</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247832101</id>
+      <title>1+</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>C219S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832101</id>
+      <title>5+</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>C219S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832101</id>
+      <title>12+</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku>C219S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247832373</id>
+    <published>2014-02-24T02:05:00-05:00</published>
+    <updated>2014-02-24T02:05:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/star-moon-bead-charm"/>
+    <title>Star &amp; Moon Bead Charm</title>
+    <s:type>Charm - Small</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/star-moon-bead-charm.jpg?v=1547574843"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Small<br>
+        <strong>Price: </strong>
+            2.00 - 7.50
+            <a href="https://watchus.com/products/star-moon-bead-charm">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Star &amp; Moon Bead Charm. I see the moon and the moon sees me, the moon sees somebody I wanna see!</p>
+<ul>
+<li><strong>Sterling Silver Plated 100 Mils</strong></li>
+<li><strong>Made in the U.S.A.</strong></li>
+<li><strong>Three Dimensional</strong></li>
+<li><strong>Designed by Nancy Dreishpoon</strong></li>
+<li><strong>Copyrighted</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Alphabet Beads</s:tag>
+    <s:tag>Beads</s:tag>
+    <s:tag>Bold Small Charms</s:tag>
+    <s:tag>Review - Fix</s:tag>
+    <s:tag>Sale Beads</s:tag>
+    <s:tag>Sale Celestial Charms</s:tag>
+    <s:tag>Sale Letters Beads</s:tag>
+    <s:tag>Theme Beads</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:tag>W: 0.25 in/6.35 mm x H: 0.25 in/6.35 mm | 1.5 g</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247832373</id>
+      <title>1+</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>C484S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832373</id>
+      <title>5+</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>C484S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832373</id>
+      <title>12+</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku>C484S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247830513</id>
+    <published>2014-02-24T02:03:52-05:00</published>
+    <updated>2014-02-24T02:03:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/rose-bead"/>
+    <title>Rose Bead</title>
+    <s:type>Charm - Small</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/rose-bead.jpg?v=1527018752"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Small<br>
+        <strong>Price: </strong>
+            2.00 - 7.50
+            <a href="https://watchus.com/products/rose-bead">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Alphabet Beads</s:tag>
+    <s:tag>Beads</s:tag>
+    <s:tag>Bold Small Charms</s:tag>
+    <s:tag>Flowers Silver Charm</s:tag>
+    <s:tag>Sale Beads</s:tag>
+    <s:tag>Sale Garden Charms</s:tag>
+    <s:tag>Sale Inspirational Charms</s:tag>
+    <s:tag>Sale Letters Beads</s:tag>
+    <s:tag>Theme Beads</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247830513</id>
+      <title>1+</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>C220S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247830513</id>
+      <title>5+</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>C220S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247830513</id>
+      <title>12+</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku>C220S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247828501</id>
+    <published>2014-02-24T02:02:09-05:00</published>
+    <updated>2014-02-24T02:02:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/peace-bead"/>
+    <title>Peace Bead</title>
+    <s:type>Charm - Small</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/peace-bead.jpg?v=1527017971"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Small<br>
+        <strong>Price: </strong>
+            2.00 - 7.50
+            <a href="https://watchus.com/products/peace-bead">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Alphabet Beads</s:tag>
+    <s:tag>Beads</s:tag>
+    <s:tag>Bold Small Charms</s:tag>
+    <s:tag>Sale Beads</s:tag>
+    <s:tag>Sale Fun Charms</s:tag>
+    <s:tag>Sale Inspirational Charms</s:tag>
+    <s:tag>Sale Letters Beads</s:tag>
+    <s:tag>Theme Beads</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247828501</id>
+      <title>1+</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>C221S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247828501</id>
+      <title>5+</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>C221S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247828501</id>
+      <title>12+</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku>C221S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247827933</id>
+    <published>2014-02-24T02:01:39-05:00</published>
+    <updated>2014-02-24T02:01:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/number-0-charm"/>
+    <title>Number 0 Charm</title>
+    <s:type>Charm - Small</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/number-0-charm.jpg?v=1527017739"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Small<br>
+        <strong>Price: </strong>
+            2.00 - 7.50
+            <a href="https://watchus.com/products/number-0-charm">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Alphabet Beads</s:tag>
+    <s:tag>Beads</s:tag>
+    <s:tag>Bold Small Charms</s:tag>
+    <s:tag>Sale Beads</s:tag>
+    <s:tag>Sale Letters Beads</s:tag>
+    <s:tag>Sale Number Charms</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247827933</id>
+      <title>1+</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>C216S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247827933</id>
+      <title>5+</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>C216S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247827933</id>
+      <title>12+</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku>C216S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247827737</id>
+    <published>2014-02-24T02:01:00-05:00</published>
+    <updated>2014-02-24T02:01:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/moon-bead"/>
+    <title>Moon Bead charms - C310S</title>
+    <s:type>Charm - Small</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/moon-bead-charms-c310s.jpg?v=1527017642"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Small<br>
+        <strong>Price: </strong>
+            6.00 - 13.50
+            <a href="https://watchus.com/products/moon-bead">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Moon Bead charms. Sterling Silver finish. Made in USA. Designed by Nancy Dreishpoon.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Alphabet Beads</s:tag>
+    <s:tag>Beads</s:tag>
+    <s:tag>Bold Small Charms</s:tag>
+    <s:tag>Review - Fix</s:tag>
+    <s:tag>Sale Beads</s:tag>
+    <s:tag>Sale Celestial Charms</s:tag>
+    <s:tag>Sale Letters Beads</s:tag>
+    <s:tag>Theme Beads</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:tag>W:0.2 in/5.08 mm x H:0.2 in/5.08 mm  |  1.8 g</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247827737</id>
+      <title>1+</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>C310S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247827737</id>
+      <title>4+</title>
+      <s:price currency="USD">13.50</s:price>
+      <s:sku>C310S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247827737</id>
+      <title>8+</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>C310S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247827737</id>
+      <title>24+</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>C310S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247827737</id>
+      <title>48+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C310S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247827737</id>
+      <title>96+</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>C310S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247827737</id>
+      <title>168+</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>C310S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247826785</id>
+    <published>2014-02-24T02:00:41-05:00</published>
+    <updated>2014-02-24T02:00:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/letter-z-silver-plated"/>
+    <title>Letter Z - Silver Plated</title>
+    <s:type>Charm - Small</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/letter-z-silver-plated.jpg?v=1527017200"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Small<br>
+        <strong>Price: </strong>
+            2.00 - 7.50
+            <a href="https://watchus.com/products/letter-z-silver-plated">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Alphabet Beads</s:tag>
+    <s:tag>Beads</s:tag>
+    <s:tag>Bold Small Charms</s:tag>
+    <s:tag>Sale Beads</s:tag>
+    <s:tag>Sale Letters Beads</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247826785</id>
+      <title>1+</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>C206S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826785</id>
+      <title>5+</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>C206S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826785</id>
+      <title>12+</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku>C206S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247826757</id>
+    <published>2014-02-24T02:00:40-05:00</published>
+    <updated>2014-02-24T02:00:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/letter-y-silver-plated"/>
+    <title>Letter Y - Silver Plated</title>
+    <s:type>Charm - Small</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/letter-y-silver-plated.jpg?v=1527017192"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Small<br>
+        <strong>Price: </strong>
+            2.00 - 7.50
+            <a href="https://watchus.com/products/letter-y-silver-plated">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Alphabet Beads</s:tag>
+    <s:tag>Beads</s:tag>
+    <s:tag>Bold Small Charms</s:tag>
+    <s:tag>Sale Beads</s:tag>
+    <s:tag>Sale Letters Beads</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247826757</id>
+      <title>1+</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>C205S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826757</id>
+      <title>5+</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>C205S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826757</id>
+      <title>12+</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku>C205S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247826737</id>
+    <published>2014-02-24T02:00:39-05:00</published>
+    <updated>2014-02-24T02:00:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/letter-x-silver-plated"/>
+    <title>Letter X - Silver Plated</title>
+    <s:type>Charm - Small</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/letter-x-silver-plated.jpg?v=1527017184"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Small<br>
+        <strong>Price: </strong>
+            2.00 - 7.50
+            <a href="https://watchus.com/products/letter-x-silver-plated">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Alphabet Beads</s:tag>
+    <s:tag>Beads</s:tag>
+    <s:tag>Bold Small Charms</s:tag>
+    <s:tag>Sale Beads</s:tag>
+    <s:tag>Sale Letters Beads</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247826737</id>
+      <title>1+</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>C204S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826737</id>
+      <title>5+</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>C204S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826737</id>
+      <title>12+</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku>C204S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247826709</id>
+    <published>2014-02-24T02:00:38-05:00</published>
+    <updated>2014-02-24T02:00:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/letter-w-silver-plated"/>
+    <title>Letter W - Silver Plated</title>
+    <s:type>Charm - Small</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/letter-w-silver-plated.jpg?v=1527017175"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Small<br>
+        <strong>Price: </strong>
+            2.00 - 7.50
+            <a href="https://watchus.com/products/letter-w-silver-plated">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Alphabet Beads</s:tag>
+    <s:tag>Beads</s:tag>
+    <s:tag>Bold Small Charms</s:tag>
+    <s:tag>Sale Beads</s:tag>
+    <s:tag>Sale Letters Beads</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247826709</id>
+      <title>1+</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>C203S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826709</id>
+      <title>5+</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>C203S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826709</id>
+      <title>12+</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku>C203S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247826685</id>
+    <published>2014-02-24T02:00:37-05:00</published>
+    <updated>2014-02-24T02:00:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/letter-v-silver-plated"/>
+    <title>Letter V - Silver Plated</title>
+    <s:type>Charm - Small</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/letter-v-silver-plated.jpg?v=1527017168"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Small<br>
+        <strong>Price: </strong>
+            2.00 - 7.50
+            <a href="https://watchus.com/products/letter-v-silver-plated">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Alphabet Beads</s:tag>
+    <s:tag>Beads</s:tag>
+    <s:tag>Bold Small Charms</s:tag>
+    <s:tag>Sale Beads</s:tag>
+    <s:tag>Sale Letters Beads</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247826685</id>
+      <title>1+</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>C202S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826685</id>
+      <title>5+</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>C202S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826685</id>
+      <title>12+</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku>C202S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247826653</id>
+    <published>2014-02-24T02:00:35-05:00</published>
+    <updated>2014-02-24T02:00:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/letter-u-silver-plated"/>
+    <title>Letter U - Silver Plated</title>
+    <s:type>Charm - Small</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/letter-u-silver-plated.jpg?v=1527017160"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Small<br>
+        <strong>Price: </strong>
+            2.00 - 7.50
+            <a href="https://watchus.com/products/letter-u-silver-plated">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Alphabet Beads</s:tag>
+    <s:tag>Beads</s:tag>
+    <s:tag>Bold Small Charms</s:tag>
+    <s:tag>Sale Beads</s:tag>
+    <s:tag>Sale Letters Beads</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247826653</id>
+      <title>1+</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>C201S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826653</id>
+      <title>5+</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>C201S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826653</id>
+      <title>12+</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku>C201S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247826625</id>
+    <published>2014-02-24T02:00:34-05:00</published>
+    <updated>2014-02-24T02:00:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/letter-t-silver-plated"/>
+    <title>Letter T - Silver Plated</title>
+    <s:type>Charm - Small</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/letter-t-silver-plated.jpg?v=1527017150"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Small<br>
+        <strong>Price: </strong>
+            2.00 - 7.50
+            <a href="https://watchus.com/products/letter-t-silver-plated">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Alphabet Beads</s:tag>
+    <s:tag>Beads</s:tag>
+    <s:tag>Bold Small Charms</s:tag>
+    <s:tag>Sale Beads</s:tag>
+    <s:tag>Sale Letters Beads</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247826625</id>
+      <title>1+</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>C200S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826625</id>
+      <title>5+</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>C200S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826625</id>
+      <title>12+</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku>C200S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247826617</id>
+    <published>2014-02-24T02:00:34-05:00</published>
+    <updated>2014-02-24T02:00:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/letter-t-gold-plated"/>
+    <title>Letter T - Gold Plated</title>
+    <s:type>Charm - Small</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/Letter-T-Gold-Plated_393aced7-11b0-47f7-9796-c193fb6cea49.jpg?v=1628877302"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Small<br>
+        <strong>Price: </strong>
+            2.00 - 7.50
+            <a href="https://watchus.com/products/letter-t-gold-plated">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Alphabet Beads</s:tag>
+    <s:tag>Beads</s:tag>
+    <s:tag>Bold Small Charms</s:tag>
+    <s:tag>Sale Beads</s:tag>
+    <s:tag>Sale Letters Beads</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247826617</id>
+      <title>1+</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>C200G</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826617</id>
+      <title>5+</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>C200G</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826617</id>
+      <title>12+</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku>C200G</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+</feed>

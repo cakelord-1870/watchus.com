@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://watchus.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://watchus.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://watchus.com/collections/gold-school-charms.atom"/>
+  <title>Watchus</title>
+  <updated>2019-04-02T16:06:00-04:00</updated>
+  <author>
+    <name>Watchus</name>
+  </author>
+  <entry>
+    <id>https://watchus.com/products/247819085</id>
+    <published>2019-04-02T16:06:00-04:00</published>
+    <updated>2019-04-02T16:06:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/book-plated-gold"/>
+    <title>Gold Book Charm</title>
+    <s:type>Charm - Medium</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/gold-book-charm.jpg?v=1558374734"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Medium<br>
+        <strong>Price: </strong>
+            4.80 - 9.00
+            <a href="https://watchus.com/products/book-plated-gold">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Open Book charm gold plated 5 mils <span>24 karat</span> gold with a light antique!   Designed by Nancy Dreishpoon</p>
+<ul>
+<li>Copyrighted</li>
+<li>Three Dimensional</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bold Medium Gold Charms 1</s:tag>
+    <s:tag>Fairy Tale Pewter Charms</s:tag>
+    <s:tag>Gold Charms</s:tag>
+    <s:tag>Gold Hobby Charms</s:tag>
+    <s:tag>Gold Inspirational Charms</s:tag>
+    <s:tag>Gold School Charms</s:tag>
+    <s:tag>Medium Charms</s:tag>
+    <s:tag>Mystery Charms</s:tag>
+    <s:tag>School Pewter Charms</s:tag>
+    <s:tag>Size: W:0.5 in/12.7 mm x H:0.5 in/12.7 mm | 2.4 g</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247819085</id>
+      <title>1+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C567G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247819085</id>
+      <title>2+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C567G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247819085</id>
+      <title>4+</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>C567G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247819085</id>
+      <title>6+</title>
+      <s:price currency="USD">5.40</s:price>
+      <s:sku>C567G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247819085</id>
+      <title>8+</title>
+      <s:price currency="USD">4.80</s:price>
+      <s:sku>C567G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247820205</id>
+    <published>2018-03-19T09:43:41-04:00</published>
+    <updated>2018-03-19T09:43:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/celestial-picture-frame-plated-gold-charms"/>
+    <title>Celestial Picture Frame Plated Gold Charms - 12 pieces $6.00 - Final Sale</title>
+    <s:type>Charms - Gold</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/celestial-picture-frame-plated-gold-charms-12-pieces-600-final-sale.jpg?v=1527014521"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Charms - Gold<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>C456G</p>
+<p>12 pieces for $6.00</p>
+<p>Celestial Picture Frame</p>
+<p>Made in USA</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Charms</s:tag>
+    <s:tag>Birthday Charms</s:tag>
+    <s:tag>Birthday Pewter Charms</s:tag>
+    <s:tag>Celestial Pewter Charms</s:tag>
+    <s:tag>Gold Celestial Charms</s:tag>
+    <s:tag>Gold Charms</s:tag>
+    <s:tag>Gold Craft Charms</s:tag>
+    <s:tag>Gold School Charms</s:tag>
+    <s:tag>School Pewter Charms</s:tag>
+    <s:tag>Scrapbook Charms</s:tag>
+    <s:tag>Value Pack of 12</s:tag>
+    <s:tag>Was-published</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247820205</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>C456G</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247817185</id>
+    <published>2014-02-24T01:52:00-05:00</published>
+    <updated>2014-02-24T01:52:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/alarm-clock-gold-plated-charms"/>
+    <title>Alarm Clock Gold Plated Charms - C282G</title>
+    <s:type>Charm - Medium</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/alarm-clock-gold-plated-charms-c282g.jpg?v=1527013467"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Medium<br>
+        <strong>Price: </strong>
+            4.80 - 9.00
+            <a href="https://watchus.com/products/alarm-clock-gold-plated-charms">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Alarm Clock Gold Plated Charms. 24 Karate Gold finish. Made in USA. Designed by Nancy Dreishpoon.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bold Medium Gold Charms 1</s:tag>
+    <s:tag>Gold Charms</s:tag>
+    <s:tag>Gold Kitchen Charms</s:tag>
+    <s:tag>Gold School Charms</s:tag>
+    <s:tag>Kitchen Utensils Charms</s:tag>
+    <s:tag>Medium Charms</s:tag>
+    <s:tag>Mystery Charms</s:tag>
+    <s:tag>Mystery Pewter Charms</s:tag>
+    <s:tag>School Pewter Charms</s:tag>
+    <s:tag>Tools Charms</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247817185</id>
+      <title>1+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C282G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247817185</id>
+      <title>2+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C282G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247817185</id>
+      <title>4+</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>C282G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247817185</id>
+      <title>6+</title>
+      <s:price currency="USD">5.40</s:price>
+      <s:sku>C282G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247817185</id>
+      <title>8+</title>
+      <s:price currency="USD">4.80</s:price>
+      <s:sku>C282G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+</feed>

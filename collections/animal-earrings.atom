@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://watchus.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://watchus.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://watchus.com/collections/animal-earrings.atom"/>
+  <title>Watchus</title>
+  <updated>2018-03-23T12:40:18-04:00</updated>
+  <author>
+    <name>Watchus</name>
+  </author>
+  <entry>
+    <id>https://watchus.com/products/579546841118</id>
+    <published>2018-03-23T12:40:18-04:00</published>
+    <updated>2018-03-23T12:40:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/kitty-yarn-swarovski-earrings"/>
+    <title>Cat and Yarn Blue  Earrings with Blue Swarovski Crystal</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/cat-and-yarn-blue-earrings-with-blue-swarovski-crystal.jpg?v=1523465941"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Say meow to these cute little kittens as they roll around in this yarn ball.</p>
+<p>Sterling silver plated kitty with ball of yarn with blue Swarovski bead.</p>
+<p>Assembled in Connecticut, USA 1 1/2 Inches Long x 1/8 Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Animal</s:tag>
+    <s:tag>Cat</s:tag>
+    <s:tag>Swarovski Crystal</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/579546841118</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>E434S- Blue</s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/579547430942</id>
+    <published>2018-03-23T12:40:16-04:00</published>
+    <updated>2018-03-23T12:40:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/black-flying-eagle-earrings"/>
+    <title>Black Flying Eagle Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/black-flying-eagle-earrings.jpg?v=1527020885"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: </strong></p>
+<p><strong>Style Number:</strong> E1356021</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>.925 Sterling Earwires</li>
+<li>Height: 1<sup>1/2"</sup> XåÊWidth: <sup>7/8"</sup>
+</li>
+<li>Weight: 8g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Animal</s:tag>
+    <s:tag>Eagle</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/579547430942</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>E1356021</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/579547529246</id>
+    <published>2018-03-23T12:40:15-04:00</published>
+    <updated>2018-03-23T12:40:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/black-horse-earrings"/>
+    <title>Black Horse Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/black-horse-earrings.jpg?v=1527020894"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: </strong></p>
+<p><strong>Style Number:</strong> E0156024</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>.925 Sterling Earwires</li>
+<li>Height: 1<sup>1/2"</sup> XåÊWidth: <sup>7/8"</sup>
+</li>
+<li>Weight: 8g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Animal</s:tag>
+    <s:tag>Horse</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/579547529246</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>E0156024</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/579547955230</id>
+    <published>2018-03-23T12:40:14-04:00</published>
+    <updated>2018-03-23T12:40:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/blue-sea-turtle-earrings"/>
+    <title>Blue Sea Turtle Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/blue-sea-turtle-earrings.jpg?v=1527020946"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: </strong></p>
+<p><strong>Style Number:åÊ</strong>E0117127</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>.925 Sterling Earwires</li>
+<li>Height: 1<sup>1/2"</sup> XåÊWidth: <sup>7/8"</sup>
+</li>
+<li>Weight: 8g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Animal</s:tag>
+    <s:tag>Sea Turtle</s:tag>
+    <s:tag>Turtle</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/579547955230</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>E0117127</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/579547922462</id>
+    <published>2018-03-23T12:40:14-04:00</published>
+    <updated>2018-03-23T12:40:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/yellow-open-cup-giraffe-earrings"/>
+    <title>Yellow Open Cup Giraffe Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/yellow-open-cup-giraffe-earrings.jpg?v=1527020936"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: </strong></p>
+<p><strong>Style Number:åÊ</strong>E0138527</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>.925 Sterling Earwires</li>
+<li>Height: 1<sup>1/2"</sup> XåÊWidth: <sup>7/8"</sup>
+</li>
+<li>Weight: 8g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Animal</s:tag>
+    <s:tag>Giraffe</s:tag>
+    <s:tag>Safari</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/579547922462</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>E0138527</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/579547889694</id>
+    <published>2018-03-23T12:40:14-04:00</published>
+    <updated>2018-03-23T12:40:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/green-hummingbird-earrings"/>
+    <title>Green Hummingbird Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/green-hummingbird-earrings.jpg?v=1527020932"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: </strong></p>
+<p><strong>Style Number: </strong>E0221423</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>.925 Sterling Earwires</li>
+<li>Height: 1<sup>1/2"</sup> XåÊWidth: <sup>7/8"</sup>
+</li>
+<li>Weight: 8g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Animal</s:tag>
+    <s:tag>Bird</s:tag>
+    <s:tag>Hummingbird</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/579547889694</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>E0221423</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/579547856926</id>
+    <published>2018-03-23T12:40:14-04:00</published>
+    <updated>2018-03-23T12:40:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/black-dragonfly-earrings"/>
+    <title>Black Dragonfly Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/black-dragonfly-earrings.jpg?v=1527020927"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: </strong></p>
+<p><strong>Style Number:åÊ</strong>E0156151</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>.925 Sterling Earwires</li>
+<li>Height: 1<sup>1/2"</sup> XåÊWidth: <sup>7/8"</sup>
+</li>
+<li>Weight: 8g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Animal</s:tag>
+    <s:tag>Bug</s:tag>
+    <s:tag>Dragonfly</s:tag>
+    <s:tag>Insect</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/579547856926</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>E0156151</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/579547791390</id>
+    <published>2018-03-23T12:40:14-04:00</published>
+    <updated>2018-03-23T12:40:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/purple-unicorn-earrings"/>
+    <title>Purple Unicorn Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/purple-unicorn-earrings.jpg?v=1527020923"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: </strong></p>
+<p><strong>Style Number:åÊ</strong>E0223530</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>.925 Sterling Earwires</li>
+<li>Height: 1<sup>1/2"</sup> XåÊWidth: <sup>7/8"</sup>
+</li>
+<li>Weight: 8g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Animal</s:tag>
+    <s:tag>Fairy Tale</s:tag>
+    <s:tag>Unicorn</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/579547791390</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>E0223530</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/579548086302</id>
+    <published>2018-03-23T12:40:13-04:00</published>
+    <updated>2018-03-23T12:40:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/black-open-cup-elephant-earrings"/>
+    <title>Black Open Cup Elephant Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/black-open-cup-elephant-earrings.jpg?v=1527020958"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: </strong></p>
+<p><strong>Style Number:åÊ</strong>E1356086</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>.925 Sterling Earwires</li>
+<li>Height: 1<sup>1/2"</sup> XåÊWidth: <sup>7/8"</sup>
+</li>
+<li>Weight: 8g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Animal</s:tag>
+    <s:tag>Elephant</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/579548086302</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>E1356086</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/579548020766</id>
+    <published>2018-03-23T12:40:13-04:00</published>
+    <updated>2018-03-23T12:40:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/black-wolf-earrings"/>
+    <title>Black Wolf Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/black-wolf-earrings.jpg?v=1527020954"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: </strong></p>
+<p><strong>Style Number:åÊ</strong>E0156025</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>.925 Sterling Earwires</li>
+<li>Height: 1<sup>1/2"</sup> XåÊWidth: <sup>7/8"</sup>
+</li>
+<li>Weight: 8g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Animal</s:tag>
+    <s:tag>Wolf</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/579548020766</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>E0156025</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/579547987998</id>
+    <published>2018-03-23T12:40:13-04:00</published>
+    <updated>2018-03-23T12:40:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/pink-flamingo-earrings"/>
+    <title>Pink Flamingo Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/pink-flamingo-earrings.jpg?v=1527020950"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: </strong></p>
+<p><strong>Style Number:åÊ</strong>E0110424</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>.925 Sterling Earwires</li>
+<li>Height: 1<sup>1/2"</sup> XåÊWidth: <sup>7/8"</sup>
+</li>
+<li>Weight: 8g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Animal</s:tag>
+    <s:tag>Bird</s:tag>
+    <s:tag>Flamingo</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/579547987998</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>E0110424</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+</feed>

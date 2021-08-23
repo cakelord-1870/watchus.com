@@ -1,0 +1,2126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://watchus.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://watchus.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://watchus.com/collections/bug-charms.atom"/>
+  <title>Watchus</title>
+  <updated>2018-03-19T10:23:23-04:00</updated>
+  <author>
+    <name>Watchus</name>
+  </author>
+  <entry>
+    <id>https://watchus.com/products/247832193</id>
+    <published>2018-03-19T10:23:23-04:00</published>
+    <updated>2018-03-19T10:23:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/spider-gold-plated-charms"/>
+    <title>Spider Gold Plated Charms - C308G</title>
+    <s:type>Charm - Medium</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/spider-gold-plated-charms-c308g.jpg?v=1527019427"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Medium<br>
+        <strong>Price: </strong>
+            4.80 - 9.00
+            <a href="https://watchus.com/products/spider-gold-plated-charms">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Spider Charms. 24 Karat Gold finish. Made in USA. Designed by Nancy Dreishpoon.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bold Medium Gold Charms 1</s:tag>
+    <s:tag>Bug Charms</s:tag>
+    <s:tag>Fairy Tale Pewter Charms</s:tag>
+    <s:tag>Gold Animal Charms</s:tag>
+    <s:tag>Gold Charms</s:tag>
+    <s:tag>Gold Holiday Charms</s:tag>
+    <s:tag>Gold Insect Charms</s:tag>
+    <s:tag>Halloween Charms</s:tag>
+    <s:tag>Medium Charms</s:tag>
+    <s:tag>Safari - Wild Animals Charms</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247832193</id>
+      <title>1+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C308G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832193</id>
+      <title>2+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C308G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832193</id>
+      <title>4+</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>C308G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832193</id>
+      <title>6+</title>
+      <s:price currency="USD">5.40</s:price>
+      <s:sku>C308G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832193</id>
+      <title>8+</title>
+      <s:price currency="USD">4.80</s:price>
+      <s:sku>C308G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/307929237</id>
+    <published>2018-03-19T09:24:58-04:00</published>
+    <updated>2018-03-19T09:24:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/bali-butterfly-painted"/>
+    <title>Bali Butterfly Painted</title>
+    <s:type>Charm - Medium</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/bali-butterfly-painted.jpg?v=1527020440"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Medium<br>
+        <strong>Price: </strong>
+            4.80 - 9.00
+            <a href="https://watchus.com/products/bali-butterfly-painted">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bold Medium Gold Charms 2</s:tag>
+    <s:tag>Bug Charms</s:tag>
+    <s:tag>Garden Pewter Charms</s:tag>
+    <s:tag>Medium Charms</s:tag>
+    <s:tag>Painted Titanium Charms</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:tag>Was-published</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/307929237</id>
+      <title>1+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C469J</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/307929237</id>
+      <title>4+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C469J</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/307929237</id>
+      <title>8+</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>C469J</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/307929237</id>
+      <title>24+</title>
+      <s:price currency="USD">6.60</s:price>
+      <s:sku>C469J</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/307929237</id>
+      <title>48+</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>C469J</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/307929237</id>
+      <title>96+</title>
+      <s:price currency="USD">5.40</s:price>
+      <s:sku>C469J</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/307929237</id>
+      <title>168+</title>
+      <s:price currency="USD">4.80</s:price>
+      <s:sku>C469J</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/307929305</id>
+    <published>2014-05-09T01:37:00-04:00</published>
+    <updated>2014-05-09T01:37:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/bali_butterfly_charm"/>
+    <title>Bali Butterfly Charms - 12 pieces per bag - C469S</title>
+    <s:type>Charm - Small</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/bali-butterfly-charms-12-pieces-per-bag-c469s.jpg?v=1565201478"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Small<br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bali Butterfly Charms. Sterling Silver finish. Made in USA. Designed  by Nancy Dreishpoon.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bold Small Charms-Nonbold</s:tag>
+    <s:tag>Bug Charms</s:tag>
+    <s:tag>Garden Pewter Charms</s:tag>
+    <s:tag>Review - Fix</s:tag>
+    <s:tag>Scrapbook Charms</s:tag>
+    <s:tag>Value Pack of 12</s:tag>
+    <s:tag>W:1 in/25.4 mm x H:1.5 in/38.1 mm  |  0.9 g</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/307929305</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>C469S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247832137</id>
+    <published>2014-02-24T02:05:21-05:00</published>
+    <updated>2014-02-24T02:05:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/snail-charm"/>
+    <title>Snail Charm</title>
+    <s:type>Charm - Medium</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/snail-charm.jpg?v=1527019392"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Medium<br>
+        <strong>Price: </strong>
+            6.00 - 13.50
+            <a href="https://watchus.com/products/snail-charm">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>I am sure that all of you have heard the term, moving like a snail? Or did you send this package, snail mail? Well this little creature charm is the gift for, that person, that drives you crazy, but you still love. Why? because patience is a virtue.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Animal Pewter Charms</s:tag>
+    <s:tag>Animal Silver Charm</s:tag>
+    <s:tag>Birds &amp; Bugs Silver Charms</s:tag>
+    <s:tag>Birds And Bugs Charms</s:tag>
+    <s:tag>Bold Medium Silver Charms 1</s:tag>
+    <s:tag>Bug Charms</s:tag>
+    <s:tag>Garden Silver Charm</s:tag>
+    <s:tag>Medium Charms</s:tag>
+    <s:tag>Pets Silver Charm</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:tag>W:0.5 in/12.7 mm x H:0.6 in/15.24 mm  |  2.0 g</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247832137</id>
+      <title>1+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C149S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832137</id>
+      <title>4+</title>
+      <s:price currency="USD">13.50</s:price>
+      <s:sku>C149S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832137</id>
+      <title>8+</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>C149S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832137</id>
+      <title>24+</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>C149S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832137</id>
+      <title>48+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C149S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832137</id>
+      <title>96+</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>C149S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832137</id>
+      <title>168+</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>C149S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247832309</id>
+    <published>2014-02-24T02:05:00-05:00</published>
+    <updated>2014-02-24T02:05:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/spotted-butterfly-plated-gold-charms"/>
+    <title>Gold Spotted Butterfly Charm</title>
+    <s:type>Charm - Medium</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/gold-spotted-butterfly-charm.jpg?v=1558374947"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Medium<br>
+        <strong>Price: </strong>
+            4.80 - 9.00
+            <a href="https://watchus.com/products/spotted-butterfly-plated-gold-charms">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Spotted Butterfly Charm is 5 mils 24 Karat Gold plated with light antiquing. Designed by Nancy Dreishpoon.</p>
+<meta charset="utf-8">
+<ul class="ul1">
+<li class="li1">
+<span class="s1"></span>Copyrighted</li>
+<li class="li1">
+<span class="s1"></span>Three Dimensional</li>
+<li class="li1">
+<span class="s1"></span>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bold Medium Gold Charms 1</s:tag>
+    <s:tag>Bug Charms</s:tag>
+    <s:tag>Flower Pewter Charms</s:tag>
+    <s:tag>Garden Pewter Charms</s:tag>
+    <s:tag>Gold Animal Charms</s:tag>
+    <s:tag>Gold Charms</s:tag>
+    <s:tag>Gold Garden Charms</s:tag>
+    <s:tag>Gold Insect Charms</s:tag>
+    <s:tag>Lucky Charms</s:tag>
+    <s:tag>Medium Charms</s:tag>
+    <s:tag>New Charms</s:tag>
+    <s:tag>Size: W:0.6 in/15.24 mm x H:0.6 in/15.24 mm | 1.5 g</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:tag>Zoo Charms</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247832309</id>
+      <title>1+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C474G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832309</id>
+      <title>2+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C474G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832309</id>
+      <title>4+</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>C474G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832309</id>
+      <title>6+</title>
+      <s:price currency="USD">5.40</s:price>
+      <s:sku>C474G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832309</id>
+      <title>8+</title>
+      <s:price currency="USD">4.80</s:price>
+      <s:sku>C474G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247832305</id>
+    <published>2014-02-24T02:05:00-05:00</published>
+    <updated>2014-02-24T02:05:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/spotted-butterfly"/>
+    <title>Spotted Butterfly charms</title>
+    <s:type>Charm - Medium</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/spotted-butterfly-charms.jpg?v=1535133240"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Medium<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Spotted Butterfly charms. Sterling silver plated. Designed and Made in USA.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bird Charms</s:tag>
+    <s:tag>Birds &amp; Bugs Silver Charms</s:tag>
+    <s:tag>Birds And Bugs Charms</s:tag>
+    <s:tag>Bold Medium Silver Charms 3</s:tag>
+    <s:tag>Bug Charms</s:tag>
+    <s:tag>Garden Pewter Charms</s:tag>
+    <s:tag>Garden Silver Charm</s:tag>
+    <s:tag>Medium Charms</s:tag>
+    <s:tag>Scrapbook Silver Charm</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:tag>W:0.6 in/15.24 mm x H:0.6 in/15.24 mm  |  1.5 g</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247832305</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C474S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247832189</id>
+    <published>2014-02-24T02:05:00-05:00</published>
+    <updated>2014-02-24T02:05:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/spider-charm"/>
+    <title>Spider Charm</title>
+    <s:type>Charm - Medium</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/spider-charm.jpg?v=1527019423"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Medium<br>
+        <strong>Price: </strong>
+            6.00 - 13.50
+            <a href="https://watchus.com/products/spider-charm">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>C308S</p>
+<p>Spider Charm</p>
+<p>Sterling Silver Plated</p>
+<p>Made in USA</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Birds &amp; Bugs Silver Charms</s:tag>
+    <s:tag>Birds And Bugs Charms</s:tag>
+    <s:tag>Bold Medium Silver Charms 2</s:tag>
+    <s:tag>Bug Charms</s:tag>
+    <s:tag>Fairy Tale Pewter Charms</s:tag>
+    <s:tag>Garden Pewter Charms</s:tag>
+    <s:tag>Halloween Charms</s:tag>
+    <s:tag>Halloween Silver Charm</s:tag>
+    <s:tag>Holidays Silver Charm</s:tag>
+    <s:tag>Medium Charms</s:tag>
+    <s:tag>Mystery Charms</s:tag>
+    <s:tag>Pets Pewter Charm</s:tag>
+    <s:tag>Pets Pewter Charms</s:tag>
+    <s:tag>Scrapbook Charms</s:tag>
+    <s:tag>Scrapbook Silver Charm</s:tag>
+    <s:tag>silver charms price group sammy</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:tag>W:0.7 in/17.78 mm x H:0.6 in/15.24 mm  |  1.5 g</s:tag>
+    <s:tag>Zoo Charms</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247832189</id>
+      <title>1+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C308S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832189</id>
+      <title>4+</title>
+      <s:price currency="USD">13.50</s:price>
+      <s:sku>C308S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832189</id>
+      <title>8+</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>C308S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832189</id>
+      <title>24+</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>C308S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832189</id>
+      <title>48+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C308S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832189</id>
+      <title>96+</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>C308S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832189</id>
+      <title>168+</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>C308S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247830921</id>
+    <published>2014-02-24T02:04:15-05:00</published>
+    <updated>2014-02-24T02:04:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/scarab"/>
+    <title>Scarab</title>
+    <s:type>Charm - Medium</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/scarab.jpg?v=1527018917"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Medium<br>
+        <strong>Price: </strong>
+            6.00 - 13.50
+            <a href="https://watchus.com/products/scarab">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Birds &amp; Bugs Silver Charms</s:tag>
+    <s:tag>Birds And Bugs Charms</s:tag>
+    <s:tag>Bold Medium Silver Charms 3</s:tag>
+    <s:tag>Bug Charms</s:tag>
+    <s:tag>Egyptian Pewter Charm</s:tag>
+    <s:tag>Egyptian Silver Charm</s:tag>
+    <s:tag>Halloween Charms</s:tag>
+    <s:tag>Halloween Silver Charm</s:tag>
+    <s:tag>Lucky Charms</s:tag>
+    <s:tag>Medium Charms</s:tag>
+    <s:tag>Mystery Charms</s:tag>
+    <s:tag>Mystery Pewter Charms</s:tag>
+    <s:tag>Mystery Silver Charm</s:tag>
+    <s:tag>Safari - Wild Animals Charms</s:tag>
+    <s:tag>Safari - Wild Animals Silver Charm</s:tag>
+    <s:tag>Travel &amp; Vacations Silver Charm</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:tag>W:0.4 in/10.16 mm x H:0.6 in/15.24 mm  |  2.1 g</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247830921</id>
+      <title>1+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C441S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247830921</id>
+      <title>4+</title>
+      <s:price currency="USD">13.50</s:price>
+      <s:sku>C441S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247830921</id>
+      <title>8+</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>C441S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247830921</id>
+      <title>24+</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>C441S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247830921</id>
+      <title>48+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C441S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247830921</id>
+      <title>96+</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>C441S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247830921</id>
+      <title>168+</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>C441S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247829617</id>
+    <published>2014-02-24T02:03:00-05:00</published>
+    <updated>2014-02-24T02:03:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/silver-praying-mantis-charm"/>
+    <title>Silver Praying Mantis Charm</title>
+    <s:type>Charm - Medium</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/silver-praying-mantis-charm.jpg?v=1546278797"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Medium<br>
+        <strong>Price: </strong>
+            6.00 - 13.50
+            <a href="https://watchus.com/products/silver-praying-mantis-charm">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silver Praying Mantis Charm. <span>A friendly little mantis that any insect lover or gardener can appreciate.</span></p>
+<ul>
+<li><strong>Sterling Silver Plated 100 Mils</strong></li>
+<li><strong>Made in the U.S.A.</strong></li>
+<li><strong>Three Dimensional</strong></li>
+<li><strong>Designed by Nancy Dreishpoon</strong></li>
+<li><strong>Copyrighted</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bird Charms</s:tag>
+    <s:tag>Birds &amp; Bugs Silver Charms</s:tag>
+    <s:tag>Birds And Bugs Charms</s:tag>
+    <s:tag>Bold Medium Silver Charms 4</s:tag>
+    <s:tag>Bug Charms</s:tag>
+    <s:tag>Garden Pewter Charms</s:tag>
+    <s:tag>Garden Silver Charm</s:tag>
+    <s:tag>Medium Charms</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:tag>W: 0.5 in/12.7 mm x H: 1 in/25.4 mm  |  2.2 g</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247829617</id>
+      <title>1+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C755S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247829617</id>
+      <title>4+</title>
+      <s:price currency="USD">13.50</s:price>
+      <s:sku>C755S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247829617</id>
+      <title>8+</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>C755S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247829617</id>
+      <title>24+</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>C755S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247829617</id>
+      <title>48+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C755S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247829617</id>
+      <title>96+</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>C755S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247829617</id>
+      <title>168+</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>C755S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247827877</id>
+    <published>2014-02-24T02:01:00-05:00</published>
+    <updated>2014-02-24T02:01:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/name-tag-charm"/>
+    <title>Name Tag Charm</title>
+    <s:type>Charm - Large</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/name-tag-charm.jpg?v=1548957735"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Large<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Name Tag Charm. Display your name proudly in this name tag charm.</p>
+<ul>
+<li><strong>Sterling Silver Plated 100 Mils</strong></li>
+<li><strong>Made in the U.S.A.</strong></li>
+<li><strong>Three Dimensional</strong></li>
+<li><strong>Designed by Nancy Dreishpoon</strong></li>
+<li><strong>Copyrighted</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Charms</s:tag>
+    <s:tag>Bold Large Charms</s:tag>
+    <s:tag>Bug Charms</s:tag>
+    <s:tag>Celestial Pewter Charms</s:tag>
+    <s:tag>Christmas Charms</s:tag>
+    <s:tag>Clothing Pewter Charms</s:tag>
+    <s:tag>Craft Charms</s:tag>
+    <s:tag>Festivities for Wine Silver Charms</s:tag>
+    <s:tag>Gambling Pewter Charms</s:tag>
+    <s:tag>Garden Pewter Charms</s:tag>
+    <s:tag>Hobby Charms</s:tag>
+    <s:tag>Moon Charms</s:tag>
+    <s:tag>Pendant Pewter Charms</s:tag>
+    <s:tag>Quilting Charms</s:tag>
+    <s:tag>Religious Charms</s:tag>
+    <s:tag>Reunion Charms</s:tag>
+    <s:tag>Ribbon Charms</s:tag>
+    <s:tag>School Pewter Charms</s:tag>
+    <s:tag>Scrapbook Charms</s:tag>
+    <s:tag>Valentine&apos;s Day Charms</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:tag>W: 0.5 in/12.7 mm x H: 1.4 in/35.56 mm  |  3.3 g</s:tag>
+    <s:tag>Word Charms</s:tag>
+    <s:tag>Words Silver Charm</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247827877</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>C709S</s:sku>
+      <s:grams>18</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247827621</id>
+    <published>2014-02-24T02:01:00-05:00</published>
+    <updated>2014-02-24T02:01:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/mini-spider"/>
+    <title>Mini Spider Charms</title>
+    <s:type>Charm - Small</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/mini-spider-charms.jpg?v=1527017581"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Small<br>
+        <strong>Price: </strong>
+            5.40 - 12.90
+            <a href="https://watchus.com/products/mini-spider">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mini Spider Sterling Silver Plated. Designed and made in the USA.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Animal Charms</s:tag>
+    <s:tag>Animal Pewter Charms</s:tag>
+    <s:tag>Animal Silver Charm</s:tag>
+    <s:tag>Birds And Bugs Charms</s:tag>
+    <s:tag>Bold Small Charms</s:tag>
+    <s:tag>Bug Charms</s:tag>
+    <s:tag>Fairy Tale Charms</s:tag>
+    <s:tag>Fairy Tale Pewter Charms</s:tag>
+    <s:tag>Fairy Tale Silver Charm</s:tag>
+    <s:tag>Garden Pewter Charms</s:tag>
+    <s:tag>Halloween Charms</s:tag>
+    <s:tag>Holiday Charms</s:tag>
+    <s:tag>Holiday Pewter Charms</s:tag>
+    <s:tag>Holidays Silver Charm</s:tag>
+    <s:tag>Mini Charms</s:tag>
+    <s:tag>New Charms</s:tag>
+    <s:tag>Pets Pewter Charm</s:tag>
+    <s:tag>Pets Pewter Charms</s:tag>
+    <s:tag>Silver Extra Bold Small Charms 5-20-16</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247827621</id>
+      <title>1+</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>C245S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247827621</id>
+      <title>4+</title>
+      <s:price currency="USD">12.90</s:price>
+      <s:sku>C245S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247827621</id>
+      <title>8+</title>
+      <s:price currency="USD">11.40</s:price>
+      <s:sku>C245S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247827621</id>
+      <title>24+</title>
+      <s:price currency="USD">9.90</s:price>
+      <s:sku>C245S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247827621</id>
+      <title>48+</title>
+      <s:price currency="USD">8.40</s:price>
+      <s:sku>C245S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247827621</id>
+      <title>96+</title>
+      <s:price currency="USD">6.90</s:price>
+      <s:sku>C245S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247827621</id>
+      <title>168+</title>
+      <s:price currency="USD">5.40</s:price>
+      <s:sku>C245S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247827589</id>
+    <published>2014-02-24T02:01:00-05:00</published>
+    <updated>2014-02-24T02:01:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/silver-mini-lady-bug-charms"/>
+    <title>Silver Mini Lady Bug Charm</title>
+    <s:type>Charm - Small</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/silver-mini-lady-bug-charm.jpg?v=1527017568"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Small<br>
+        <strong>Price: </strong>
+            5.40 - 12.90
+            <a href="https://watchus.com/products/silver-mini-lady-bug-charms">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>C502S</p>
+<p>Silver Mini Lady Bug Charms</p>
+<meta charset="utf-8">
+<p>Sterling Silver Plated.</p>
+<p>Made in USA</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Birds &amp; Bugs Silver Charms</s:tag>
+    <s:tag>Birds And Bugs Charms</s:tag>
+    <s:tag>Bold Small Charms</s:tag>
+    <s:tag>Bug Charms</s:tag>
+    <s:tag>Garden Pewter Charms</s:tag>
+    <s:tag>Garden Silver Charm</s:tag>
+    <s:tag>Lucky Charms</s:tag>
+    <s:tag>Mini Charms</s:tag>
+    <s:tag>Miniature Silver Charm</s:tag>
+    <s:tag>Silver Extra Bold Small Charms 5-20-16</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:tag>W:0.2 in/5.08 mm x H:0.4 in/10.16 mm  |  0.8 g</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247827589</id>
+      <title>1+</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>C502S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247827589</id>
+      <title>4+</title>
+      <s:price currency="USD">12.90</s:price>
+      <s:sku>C502S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247827589</id>
+      <title>8+</title>
+      <s:price currency="USD">11.40</s:price>
+      <s:sku>C502S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247827589</id>
+      <title>24+</title>
+      <s:price currency="USD">9.90</s:price>
+      <s:sku>C502S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247827589</id>
+      <title>48+</title>
+      <s:price currency="USD">8.40</s:price>
+      <s:sku>C502S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247827589</id>
+      <title>96+</title>
+      <s:price currency="USD">6.90</s:price>
+      <s:sku>C502S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247827589</id>
+      <title>168+</title>
+      <s:price currency="USD">5.40</s:price>
+      <s:sku>C502S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247827537</id>
+    <published>2014-02-24T02:01:00-05:00</published>
+    <updated>2014-02-24T02:01:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/silver-mini-dragonfly-charms"/>
+    <title>Silver Mini Dragonfly Charms</title>
+    <s:type>Charm - Small</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/silver-mini-dragonfly-charms.jpg?v=1527017542"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Small<br>
+        <strong>Price: </strong>
+            5.40 - 12.90
+            <a href="https://watchus.com/products/silver-mini-dragonfly-charms">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silver Mini Dragonfly Charm</p>
+<meta charset="utf-8">
+<p>Sterling Silver Plated.</p>
+<p>Made in USA</p>
+<p>C501S</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bird Charms</s:tag>
+    <s:tag>Birds &amp; Bugs Silver Charms</s:tag>
+    <s:tag>Bold Small Charms</s:tag>
+    <s:tag>Bug Charms</s:tag>
+    <s:tag>Garden Pewter Charms</s:tag>
+    <s:tag>Garden Silver Charm</s:tag>
+    <s:tag>Mini Charms</s:tag>
+    <s:tag>Miniature Silver Charm</s:tag>
+    <s:tag>Silver Extra Bold Small Charms 5-20-16</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:tag>W: 0.6 in/15.24 mm x H: 0.5 in/12.7 mm | 0.7 g</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247827537</id>
+      <title>1+</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>C501S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247827537</id>
+      <title>4+</title>
+      <s:price currency="USD">12.90</s:price>
+      <s:sku>C501S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247827537</id>
+      <title>8+</title>
+      <s:price currency="USD">11.40</s:price>
+      <s:sku>C501S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247827537</id>
+      <title>24+</title>
+      <s:price currency="USD">9.90</s:price>
+      <s:sku>C501S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247827537</id>
+      <title>48+</title>
+      <s:price currency="USD">8.40</s:price>
+      <s:sku>C501S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247827537</id>
+      <title>96+</title>
+      <s:price currency="USD">6.90</s:price>
+      <s:sku>C501S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247827537</id>
+      <title>168+</title>
+      <s:price currency="USD">5.40</s:price>
+      <s:sku>C501S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247827525</id>
+    <published>2014-02-24T02:01:00-05:00</published>
+    <updated>2014-02-24T02:01:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/silver-butterfly-charm"/>
+    <title>Silver Mini Butterfly Charm</title>
+    <s:type>Charm - Small</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/silver-mini-butterfly-charm.jpg?v=1527017535"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Small<br>
+        <strong>Price: </strong>
+            5.40 - 12.90
+            <a href="https://watchus.com/products/silver-butterfly-charm">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silver Mini Butterfly Charm.</p>
+<p>Sterling Silver Plated.</p>
+<p>Made in the USA</p>
+<p>C500S</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bird Charms</s:tag>
+    <s:tag>Birds &amp; Bugs Silver Charms</s:tag>
+    <s:tag>Birds And Bugs Charms</s:tag>
+    <s:tag>Bold Small Charms</s:tag>
+    <s:tag>Bug Charms</s:tag>
+    <s:tag>Garden Pewter Charms</s:tag>
+    <s:tag>Garden Silver Charm</s:tag>
+    <s:tag>Mini Charms</s:tag>
+    <s:tag>Miniature Silver Charm</s:tag>
+    <s:tag>Silver Extra Bold Small Charms 5-20-16</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:tag>W:0.5 in/12.7 mm x H:0.5 in/12.7 mm  |  0.8 g</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247827525</id>
+      <title>1+</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>C500S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247827525</id>
+      <title>4+</title>
+      <s:price currency="USD">12.90</s:price>
+      <s:sku>C500S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247827525</id>
+      <title>8+</title>
+      <s:price currency="USD">11.40</s:price>
+      <s:sku>C500S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247827525</id>
+      <title>24+</title>
+      <s:price currency="USD">9.90</s:price>
+      <s:sku>C500S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247827525</id>
+      <title>48+</title>
+      <s:price currency="USD">8.40</s:price>
+      <s:sku>C500S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247827525</id>
+      <title>96+</title>
+      <s:price currency="USD">6.90</s:price>
+      <s:sku>C500S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247827525</id>
+      <title>168+</title>
+      <s:price currency="USD">5.40</s:price>
+      <s:sku>C500S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247827085</id>
+    <published>2014-02-24T02:00:56-05:00</published>
+    <updated>2014-02-24T02:00:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/linked-sun-and-butterfly-charm"/>
+    <title>Linked Sun and Butterfly Charm</title>
+    <s:type>Charm - Medium</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/linked-sun-and-butterfly-charm.jpg?v=1548957679"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Medium<br>
+        <strong>Price: </strong>
+            6.00 - 13.50
+            <a href="https://watchus.com/products/linked-sun-and-butterfly-charm">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Linked Sun and Butterfly Charm. The summer months are not complete without this charm!</p>
+<ul>
+<li><strong>Sterling Silver Plated 100 Mils</strong></li>
+<li><strong>Made in the U.S.A.</strong></li>
+<li><strong>Three Dimensional</strong></li>
+<li><strong>Designed by Nancy Dreishpoon</strong></li>
+<li><strong>Copyrighted</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bird Charms</s:tag>
+    <s:tag>Birds &amp; Bugs Silver Charms</s:tag>
+    <s:tag>Birds And Bugs Charms</s:tag>
+    <s:tag>Bold Medium Silver Charms 4</s:tag>
+    <s:tag>Bug Charms</s:tag>
+    <s:tag>Linked Pewter Charms</s:tag>
+    <s:tag>Linked Silver Charm</s:tag>
+    <s:tag>Medium Charms</s:tag>
+    <s:tag>Sun Charms</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:tag>W: 0.5 in/12.7 mm x H: 1 in/25.4 mm  |  1.8 g</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247827085</id>
+      <title>1+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C764S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247827085</id>
+      <title>4+</title>
+      <s:price currency="USD">13.50</s:price>
+      <s:sku>C764S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247827085</id>
+      <title>8+</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>C764S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247827085</id>
+      <title>24+</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>C764S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247827085</id>
+      <title>48+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C764S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247827085</id>
+      <title>96+</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>C764S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247827085</id>
+      <title>168+</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>C764S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247825961</id>
+    <published>2014-02-24T02:00:02-05:00</published>
+    <updated>2014-02-24T02:00:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/ladybug-blanket-weave-charm"/>
+    <title>Ladybug Blanket Weave Charm</title>
+    <s:type>Charm - Medium</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/ladybug-blanket-weave-charm.jpg?v=1548957579"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Medium<br>
+        <strong>Price: </strong>
+            6.00 - 13.50
+            <a href="https://watchus.com/products/ladybug-blanket-weave-charm">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ladybug Blanket Weave Charm. No charm collection is complete without this little lady!</p>
+<ul>
+<li><strong>Sterling Silver Plated 100 Mils</strong></li>
+<li><strong>Made in the U.S.A.</strong></li>
+<li><strong>Three Dimensional</strong></li>
+<li><strong>Designed by Nancy Dreishpoon</strong></li>
+<li><strong>Copyrighted</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Arts and Craft Silver Charms</s:tag>
+    <s:tag>Birds &amp; Bugs Silver Charms</s:tag>
+    <s:tag>Birds And Bugs Charms</s:tag>
+    <s:tag>Bold Medium Silver Charms 4</s:tag>
+    <s:tag>Bug Charms</s:tag>
+    <s:tag>Craft Charms</s:tag>
+    <s:tag>Garden Pewter Charms</s:tag>
+    <s:tag>Garden Silver Charm</s:tag>
+    <s:tag>Hobby Charms</s:tag>
+    <s:tag>Lucky Charms</s:tag>
+    <s:tag>Medium Charms</s:tag>
+    <s:tag>Quilting Charms</s:tag>
+    <s:tag>Quilting Pewter Charms</s:tag>
+    <s:tag>Quilting Silver Charm</s:tag>
+    <s:tag>Scrapbook Charms</s:tag>
+    <s:tag>Scrapbook Silver Charm</s:tag>
+    <s:tag>Sewing &amp; Knitting</s:tag>
+    <s:tag>Sewing &amp; Knitting Silver Charm</s:tag>
+    <s:tag>Sewing And Knitting Charms</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:tag>W: 0.5 in/12.7 mm x H: 0.6 in/15.24 mm  |  1.4 g</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247825961</id>
+      <title>1+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C648S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247825961</id>
+      <title>4+</title>
+      <s:price currency="USD">13.50</s:price>
+      <s:sku>C648S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247825961</id>
+      <title>8+</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>C648S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247825961</id>
+      <title>24+</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>C648S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247825961</id>
+      <title>48+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C648S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247825961</id>
+      <title>96+</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>C648S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247825961</id>
+      <title>168+</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>C648S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247825949</id>
+    <published>2014-02-24T02:00:02-05:00</published>
+    <updated>2014-02-24T02:00:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/lady-bug-gold-plated-charms"/>
+    <title>Lady Bug Gold Plated Charms</title>
+    <s:type>Charm - Medium</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/lady-bug-gold-plated-charms.jpg?v=1527016892"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Medium<br>
+        <strong>Price: </strong>
+            4.80 - 9.00
+            <a href="https://watchus.com/products/lady-bug-gold-plated-charms">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Birds And Bugs Charms</s:tag>
+    <s:tag>Bold Medium Gold Charms 1</s:tag>
+    <s:tag>Bug Charms</s:tag>
+    <s:tag>Garden Pewter Charms</s:tag>
+    <s:tag>Gold Animal Charms</s:tag>
+    <s:tag>Gold Charms</s:tag>
+    <s:tag>Gold Garden Charms</s:tag>
+    <s:tag>Gold Insect Charms</s:tag>
+    <s:tag>Gold Inspirational Charms</s:tag>
+    <s:tag>Lucky Charms</s:tag>
+    <s:tag>Medium Charms</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247825949</id>
+      <title>1+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C177G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247825949</id>
+      <title>2+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C177G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247825949</id>
+      <title>4+</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>C177G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247825949</id>
+      <title>6+</title>
+      <s:price currency="USD">5.40</s:price>
+      <s:sku>C177G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247825949</id>
+      <title>8+</title>
+      <s:price currency="USD">4.80</s:price>
+      <s:sku>C177G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247825941</id>
+    <published>2014-02-24T02:00:01-05:00</published>
+    <updated>2014-02-24T02:00:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/lady-bug-charm-pin"/>
+    <title>Lady Bug Charm Pin</title>
+    <s:type>Charms,Jewelry Supplies,Charm Jewelry,New Products,Sale</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/lady-bug-charm-pin.jpg?v=1527016887"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Charms,Jewelry Supplies,Charm Jewelry,New Products,Sale<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bug Charms</s:tag>
+    <s:tag>Charm Pins</s:tag>
+    <s:tag>Jewelry Charm Pins</s:tag>
+    <s:tag>Jewelry Components</s:tag>
+    <s:tag>New Charm Jewelry</s:tag>
+    <s:tag>New Jewelry Supplies</s:tag>
+    <s:tag>Sale Jewelry Supplies</s:tag>
+    <s:tag>Zoo Charms</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247825941</id>
+      <title>Default</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>J177P</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247825937</id>
+    <published>2014-02-24T02:00:01-05:00</published>
+    <updated>2014-02-24T02:00:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/lady-bug-charm"/>
+    <title>Ladybug Charm</title>
+    <s:type>Charm - Medium</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/ladybug-charm.jpg?v=1572544582"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Medium<br>
+        <strong>Price: </strong>
+            6.00 - 13.50
+            <a href="https://watchus.com/products/lady-bug-charm">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>I have always heard that ladybugs are lucky. Pass on some of the luck by acquiring this charm and giving it away to a deserving pal.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Birds &amp; Bugs Silver Charms</s:tag>
+    <s:tag>Birds And Bugs Charms</s:tag>
+    <s:tag>Bold Medium Silver Charms 1</s:tag>
+    <s:tag>Bug Charms</s:tag>
+    <s:tag>Garden Pewter Charms</s:tag>
+    <s:tag>Garden Silver Charm</s:tag>
+    <s:tag>Lucky Charms</s:tag>
+    <s:tag>Medium Charms</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:tag>W:0.4 in/10.16 mm x H:0.6 in/15.24 mm  |  1.5 g</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247825937</id>
+      <title>1+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C177S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247825937</id>
+      <title>4+</title>
+      <s:price currency="USD">13.50</s:price>
+      <s:sku>C177S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247825937</id>
+      <title>8+</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>C177S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247825937</id>
+      <title>24+</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>C177S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247825937</id>
+      <title>48+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C177S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247825937</id>
+      <title>96+</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>C177S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247825937</id>
+      <title>168+</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>C177S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247824917</id>
+    <published>2014-02-24T01:59:10-05:00</published>
+    <updated>2014-02-24T01:59:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/honey-bee"/>
+    <title>Honey Bee</title>
+    <s:type>Charm - Medium</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/honey-bee.jpg?v=1527016478"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Medium<br>
+        <strong>Price: </strong>
+            6.00 - 13.50
+            <a href="https://watchus.com/products/honey-bee">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bird Charms</s:tag>
+    <s:tag>Birds &amp; Bugs Silver Charms</s:tag>
+    <s:tag>Birds And Bugs Charms</s:tag>
+    <s:tag>Bold Medium Silver Charms 3</s:tag>
+    <s:tag>Bug Charms</s:tag>
+    <s:tag>Garden Pewter Charms</s:tag>
+    <s:tag>Garden Silver Charm</s:tag>
+    <s:tag>Medium Charms</s:tag>
+    <s:tag>Mystery Silver Charm</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:tag>W:0.5 in/12.7 mm x H:0.6 in/15.24 mm  |  1.3 g</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247824917</id>
+      <title>1+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C489S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247824917</id>
+      <title>4+</title>
+      <s:price currency="USD">13.50</s:price>
+      <s:sku>C489S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247824917</id>
+      <title>8+</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>C489S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247824917</id>
+      <title>24+</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>C489S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247824917</id>
+      <title>48+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C489S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247824917</id>
+      <title>96+</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>C489S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247824917</id>
+      <title>168+</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>C489S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247823533</id>
+    <published>2014-02-24T01:57:55-05:00</published>
+    <updated>2014-02-24T01:57:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/gold-dragonfly-disk-button"/>
+    <title>Round Gold Dragonfly Disk Button</title>
+    <s:type>Charms,Buttons</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/round-gold-dragonfly-disk-button.jpg?v=1587837842"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Charms,Buttons<br>
+        <strong>Price: </strong>
+            0.69 - 1.50
+            <a href="https://watchus.com/products/gold-dragonfly-disk-button">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bug Charms</s:tag>
+    <s:tag>Buttons</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247823533</id>
+      <title>Default</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku>L608G</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247823533</id>
+      <title>Default 4+</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku>L608G</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247823533</id>
+      <title>Default 6+</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>L608G</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247823533</id>
+      <title>Default 12+</title>
+      <s:price currency="USD">0.89</s:price>
+      <s:sku>L608G</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247823533</id>
+      <title>Default 48+</title>
+      <s:price currency="USD">0.85</s:price>
+      <s:sku>L608G</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247823533</id>
+      <title>Default 144+</title>
+      <s:price currency="USD">0.79</s:price>
+      <s:sku>L608G</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247823533</id>
+      <title>Default 288+</title>
+      <s:price currency="USD">0.75</s:price>
+      <s:sku>L608G</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247823533</id>
+      <title>Default 432+</title>
+      <s:price currency="USD">0.69</s:price>
+      <s:sku>L608G</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247823533</id>
+      <title>Default 3+</title>
+      <s:price currency="USD">1.25</s:price>
+      <s:sku>L608G</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247823533</id>
+      <title>Default 5+</title>
+      <s:price currency="USD">1.15</s:price>
+      <s:sku>L608G</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247823061</id>
+    <published>2014-02-24T01:57:00-05:00</published>
+    <updated>2014-02-24T01:57:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/hat-charm"/>
+    <title>Hat Charm</title>
+    <s:type>Charm - Medium</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/hat-charm.jpg?v=1527015691"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Medium<br>
+        <strong>Price: </strong>
+            6.00 - 13.50
+            <a href="https://watchus.com/products/hat-charm">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A monarch butterfly sits on top of this wide brim hat while a fresh bouquet of flowers adorn the rim. Wrapped around the center of the hat is a beautiful bow that ties in the back. This charm is the perfect gift for the beach lover.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bird Charms</s:tag>
+    <s:tag>Birds And Bugs Charms</s:tag>
+    <s:tag>Bold Medium Silver Charms 1</s:tag>
+    <s:tag>Bug Charms</s:tag>
+    <s:tag>Flower Charms</s:tag>
+    <s:tag>Flower Pewter Charms</s:tag>
+    <s:tag>Flowers Silver Charm</s:tag>
+    <s:tag>Fun Pewter Charms</s:tag>
+    <s:tag>Fun Silver Charm</s:tag>
+    <s:tag>Fun Silver Charms</s:tag>
+    <s:tag>Garden Pewter Charms</s:tag>
+    <s:tag>Garden Silver Charm</s:tag>
+    <s:tag>Hobby Charms</s:tag>
+    <s:tag>Hobby Silver Charm</s:tag>
+    <s:tag>Medium Charms</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:tag>W:0.5 in/12.7 mm x H:0.7 in/17.78 mm  |  1.7</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247823061</id>
+      <title>1+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C118S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247823061</id>
+      <title>4+</title>
+      <s:price currency="USD">13.50</s:price>
+      <s:sku>C118S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247823061</id>
+      <title>8+</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>C118S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247823061</id>
+      <title>24+</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>C118S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247823061</id>
+      <title>48+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C118S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247823061</id>
+      <title>96+</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>C118S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247823061</id>
+      <title>168+</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>C118S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247823009</id>
+    <published>2014-02-24T01:57:00-05:00</published>
+    <updated>2014-02-24T01:57:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/frog-disk-pewter-charm"/>
+    <title>Frog Disk Pewter Charm</title>
+    <s:type>Charm - Large</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/frog-disk-pewter-charm.jpg?v=1527015671"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Large<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bird Charms</s:tag>
+    <s:tag>Birds &amp; Bugs Silver Charms</s:tag>
+    <s:tag>Birds And Bugs Charms</s:tag>
+    <s:tag>Bold Large Charms</s:tag>
+    <s:tag>Bug Charms</s:tag>
+    <s:tag>Fairy Tale Charms</s:tag>
+    <s:tag>Fairy Tale Pewter Charms</s:tag>
+    <s:tag>Fairy Tale Silver Charm</s:tag>
+    <s:tag>Garden Pewter Charms</s:tag>
+    <s:tag>Garden Silver Charm</s:tag>
+    <s:tag>Inspirational Silver Charm</s:tag>
+    <s:tag>Party Charms</s:tag>
+    <s:tag>Pendant Pewter Charms</s:tag>
+    <s:tag>Silver Pendant</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:tag>W:0.7 in/17.78 mm x H:1.7 in/43.18 mm  |  1.8 g</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247823009</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>C609S</s:sku>
+      <s:grams>18</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247823001</id>
+    <published>2014-02-24T01:57:00-05:00</published>
+    <updated>2014-02-24T01:57:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/frog-charm"/>
+    <title>Frog Charm</title>
+    <s:type>Charm - Medium</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/frog-charm.jpg?v=1527015667"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Medium<br>
+        <strong>Price: </strong>
+            6.00 - 13.50
+            <a href="https://watchus.com/products/frog-charm">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Made in USA</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Animal Pewter Charms</s:tag>
+    <s:tag>Animal Silver Charm</s:tag>
+    <s:tag>Aquatic Pewter Charms</s:tag>
+    <s:tag>Aquatic Silver Charm</s:tag>
+    <s:tag>Bird Charms</s:tag>
+    <s:tag>Birds &amp; Bugs Silver Charms</s:tag>
+    <s:tag>Birds And Bugs Charms</s:tag>
+    <s:tag>Bold Medium Silver Charms 1</s:tag>
+    <s:tag>Bug Charms</s:tag>
+    <s:tag>Fairy Tale Silver Charm</s:tag>
+    <s:tag>Fish Charms</s:tag>
+    <s:tag>Garden Pewter Charms</s:tag>
+    <s:tag>Garden Silver Charm</s:tag>
+    <s:tag>Medium Charms</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:tag>W:0.5 in/12.7 mm x H:0.7 in/17.78 mm  |  2.0 g</s:tag>
+    <s:tag>Water Life Silver Charm</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247823001</id>
+      <title>1+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C117S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247823001</id>
+      <title>4+</title>
+      <s:price currency="USD">13.50</s:price>
+      <s:sku>C117S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247823001</id>
+      <title>8+</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>C117S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247823001</id>
+      <title>24+</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>C117S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247823001</id>
+      <title>48+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C117S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247823001</id>
+      <title>96+</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>C117S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247823001</id>
+      <title>168+</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>C117S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247821973</id>
+    <published>2014-02-24T01:56:38-05:00</published>
+    <updated>2014-02-24T01:56:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/dragonfly-disk-button"/>
+    <title>Round Dragonfly Disk Button</title>
+    <s:type>Charms,Buttons</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/round-dragonfly-disk-button.jpg?v=1587837794"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Charms,Buttons<br>
+        <strong>Price: </strong>
+            0.49 - 1.50
+            <a href="https://watchus.com/products/dragonfly-disk-button">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bug Charms</s:tag>
+    <s:tag>Buttons</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247821973</id>
+      <title>Default</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku>L608S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247821973</id>
+      <title>Default 3+</title>
+      <s:price currency="USD">1.25</s:price>
+      <s:sku>L608S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247821973</id>
+      <title>Default 5+</title>
+      <s:price currency="USD">1.15</s:price>
+      <s:sku>L608S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247821973</id>
+      <title>Default 12+</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>L608S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247821973</id>
+      <title>Default 24+</title>
+      <s:price currency="USD">0.79</s:price>
+      <s:sku>L608S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247821973</id>
+      <title>Default 48+</title>
+      <s:price currency="USD">0.69</s:price>
+      <s:sku>L608S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247821973</id>
+      <title>Default 144+</title>
+      <s:price currency="USD">0.59</s:price>
+      <s:sku>L608S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247821973</id>
+      <title>Default 288+</title>
+      <s:price currency="USD">0.49</s:price>
+      <s:sku>L608S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+</feed>

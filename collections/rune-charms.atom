@@ -1,0 +1,614 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://watchus.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://watchus.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://watchus.com/collections/rune-charms.atom"/>
+  <title>Watchus</title>
+  <updated>2014-02-24T02:07:35-05:00</updated>
+  <author>
+    <name>Watchus</name>
+  </author>
+  <entry>
+    <id>https://watchus.com/products/247833937</id>
+    <published>2014-02-24T02:07:35-05:00</published>
+    <updated>2014-02-24T02:07:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/wynn-rune"/>
+    <title>Wynn Rune</title>
+    <s:type>Charm - Large</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/wynn-rune.jpg?v=1527020322"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Large<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bold Large Charms</s:tag>
+    <s:tag>Inspiratational Charms</s:tag>
+    <s:tag>Inspirational Silver Charms</s:tag>
+    <s:tag>Pendant Pewter Charms</s:tag>
+    <s:tag>Rune Charms</s:tag>
+    <s:tag>Rune Pewter Charms</s:tag>
+    <s:tag>Runes Silver Charm</s:tag>
+    <s:tag>Sale Charms</s:tag>
+    <s:tag>Sale Inspirational Charms</s:tag>
+    <s:tag>Sale Sayings Charms</s:tag>
+    <s:tag>Scrapbook Charms</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:tag>W:0.6 in/15.24 mm x H:0.9 in/22.86 mm  |  2.0 g</s:tag>
+    <s:tag>Word Charms</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247833937</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>C451S</s:sku>
+      <s:grams>18</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247833601</id>
+    <published>2014-02-24T02:07:11-05:00</published>
+    <updated>2014-02-24T02:07:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/ur-rune"/>
+    <title>UR Rune</title>
+    <s:type>Charm - Large</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/ur-rune.jpg?v=1527020115"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Large<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bold Large Charms</s:tag>
+    <s:tag>Inspiratational Charms</s:tag>
+    <s:tag>Inspirational Silver Charms</s:tag>
+    <s:tag>Pendant Pewter Charms</s:tag>
+    <s:tag>Rune Charms</s:tag>
+    <s:tag>Rune Pewter Charms</s:tag>
+    <s:tag>Runes Silver Charm</s:tag>
+    <s:tag>Sale Charms</s:tag>
+    <s:tag>Sale Inspirational Charms</s:tag>
+    <s:tag>Sale Sayings Charms</s:tag>
+    <s:tag>Scrapbook Charms</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:tag>W:0.6 in/15.24 mm x H:0.9 in/22.86 mm  |  2.0 g</s:tag>
+    <s:tag>Word Charms</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247833601</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>C447S</s:sku>
+      <s:grams>18</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247833561</id>
+    <published>2014-02-24T02:07:07-05:00</published>
+    <updated>2014-02-24T02:07:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/tyr-rune"/>
+    <title>Tyr Rune</title>
+    <s:type>Charm - Large</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/tyr-rune.jpg?v=1527020087"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Large<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bold Large Charms</s:tag>
+    <s:tag>Inspiratational Charms</s:tag>
+    <s:tag>Inspirational Silver Charms</s:tag>
+    <s:tag>Pendant Pewter Charms</s:tag>
+    <s:tag>Rune Charms</s:tag>
+    <s:tag>Rune Pewter Charms</s:tag>
+    <s:tag>Runes Silver Charm</s:tag>
+    <s:tag>Sale Charms</s:tag>
+    <s:tag>Sale Inspirational Charms</s:tag>
+    <s:tag>Sale Sayings Charms</s:tag>
+    <s:tag>Scrapbook Charms</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:tag>W:0.6 in/15.24 mm x H:0.9 in/22.86 mm  |  2.2 g</s:tag>
+    <s:tag>Word Charms</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247833561</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>C448S</s:sku>
+      <s:grams>18</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247831281</id>
+    <published>2014-02-24T02:04:32-05:00</published>
+    <updated>2014-02-24T02:04:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/sighel-rune"/>
+    <title>Sighel Rune</title>
+    <s:type>Charm - Large</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/sighel-rune.jpg?v=1527019049"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Large<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bold Large Charms</s:tag>
+    <s:tag>Inspiratational Charms</s:tag>
+    <s:tag>Inspirational Silver Charms</s:tag>
+    <s:tag>Pendant Pewter Charms</s:tag>
+    <s:tag>Rune Charms</s:tag>
+    <s:tag>Rune Pewter Charms</s:tag>
+    <s:tag>Runes Silver Charm</s:tag>
+    <s:tag>Sale Charms</s:tag>
+    <s:tag>Sale Inspirational Charms</s:tag>
+    <s:tag>Sale Sayings Charms</s:tag>
+    <s:tag>Scrapbook Charms</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:tag>W:0.6 in/15.24 mm x H:0.9 in/22.86 mm  |  1.8 g</s:tag>
+    <s:tag>Word Charms</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247831281</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>C450S</s:sku>
+      <s:grams>18</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247830005</id>
+    <published>2014-02-24T02:03:21-05:00</published>
+    <updated>2014-02-24T02:03:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/rad-rune"/>
+    <title>Rad Rune</title>
+    <s:type>Charm - Large</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/rad-rune.jpg?v=1527018531"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Large<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bold Large Charms</s:tag>
+    <s:tag>Inspiratational Charms</s:tag>
+    <s:tag>Inspirational Silver Charms</s:tag>
+    <s:tag>Mystery Charms</s:tag>
+    <s:tag>Pendant Pewter Charms</s:tag>
+    <s:tag>Rune Charms</s:tag>
+    <s:tag>Runes Silver Charm</s:tag>
+    <s:tag>Sale Charms</s:tag>
+    <s:tag>Sale Fun Charms</s:tag>
+    <s:tag>Sale Inspirational Charms</s:tag>
+    <s:tag>Sale Sayings Charms</s:tag>
+    <s:tag>Scrapbook Charms</s:tag>
+    <s:tag>Scrapbook Silver Charm</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:tag>W:0.6 in/15.24 mm x H:0.9 in/22.86 mm  |  2.3 g</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247830005</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>C444S</s:sku>
+      <s:grams>18</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247828169</id>
+    <published>2014-02-24T02:01:51-05:00</published>
+    <updated>2014-02-24T02:01:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/os-rune"/>
+    <title>OS Rune</title>
+    <s:type>Charm - Large</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/os-rune.jpg?v=1527017845"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Large<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bold Large Charms</s:tag>
+    <s:tag>Inspiratational Charms</s:tag>
+    <s:tag>Inspirational Silver Charms</s:tag>
+    <s:tag>Pendant Pewter Charms</s:tag>
+    <s:tag>Rune Charms</s:tag>
+    <s:tag>Rune Pewter Charms</s:tag>
+    <s:tag>Runes Silver Charm</s:tag>
+    <s:tag>Sale Charms</s:tag>
+    <s:tag>Sale Inspirational Charms</s:tag>
+    <s:tag>Sale Sayings Charms</s:tag>
+    <s:tag>Scrapbook Charms</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:tag>W:0.6 in/15.24 mm x H:0.9 in/22.86 mm  |  2.2 g</s:tag>
+    <s:tag>Word Charms</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247828169</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>C446S</s:sku>
+      <s:grams>18</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247828033</id>
+    <published>2014-02-24T02:01:44-05:00</published>
+    <updated>2014-02-24T02:01:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/nyd-rune-charm"/>
+    <title>NYD Rune Charm</title>
+    <s:type>Charm - Large</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/nyd-rune-charm.jpg?v=1527017788"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Large<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>C445S</p>
+<p>NYD Rune Charm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bold Large Charms</s:tag>
+    <s:tag>Inspiratational Charms</s:tag>
+    <s:tag>Inspirational Silver Charm</s:tag>
+    <s:tag>Inspirational Silver Charms</s:tag>
+    <s:tag>Mystery Charms</s:tag>
+    <s:tag>Mystery Pewter Charms</s:tag>
+    <s:tag>Pendant Pewter Charms</s:tag>
+    <s:tag>Rune Charms</s:tag>
+    <s:tag>Runes Silver Charm</s:tag>
+    <s:tag>Sale Charms</s:tag>
+    <s:tag>Sale Inspirational Charms</s:tag>
+    <s:tag>Sale Sayings Charms</s:tag>
+    <s:tag>Scrapbook Charms</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:tag>W:0.6 in/15.24 mm x H:0.9 in/22.86 mm  |  1.9 g</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247828033</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>C445S</s:sku>
+      <s:grams>18</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247825689</id>
+    <published>2014-02-24T01:59:48-05:00</published>
+    <updated>2014-02-24T01:59:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/ken-rune"/>
+    <title>Ken Rune</title>
+    <s:type>Charm - Large</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/ken-rune.jpg?v=1527016803"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Large<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bold Large Charms</s:tag>
+    <s:tag>Inspiratational Charms</s:tag>
+    <s:tag>Inspirational Silver Charms</s:tag>
+    <s:tag>Pendant Pewter Charms</s:tag>
+    <s:tag>Rune Charms</s:tag>
+    <s:tag>Rune Pewter Charms</s:tag>
+    <s:tag>Runes Silver Charm</s:tag>
+    <s:tag>Sale Charms</s:tag>
+    <s:tag>Sale Inspirational Charms</s:tag>
+    <s:tag>Sale Sayings Charms</s:tag>
+    <s:tag>Scrapbook Charms</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:tag>W:0.6 in/15.24 mm x H:0.9 in/22.86 mm  |  2.3 g</s:tag>
+    <s:tag>Word Charms</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247825689</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>C455S</s:sku>
+      <s:grams>18</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247824585</id>
+    <published>2014-02-24T01:58:52-05:00</published>
+    <updated>2014-02-24T01:58:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/gyfu-rune"/>
+    <title>GyFu Rune</title>
+    <s:type>Charm - Large</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/gyfu-rune.jpg?v=1527016324"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Large<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bold Large Charms</s:tag>
+    <s:tag>Inspiratational Charms</s:tag>
+    <s:tag>Inspirational Silver Charms</s:tag>
+    <s:tag>Pendant Pewter Charms</s:tag>
+    <s:tag>Rune Charms</s:tag>
+    <s:tag>Rune Pewter Charms</s:tag>
+    <s:tag>Runes Silver Charm</s:tag>
+    <s:tag>Sale Charms</s:tag>
+    <s:tag>Sale Inspirational Charms</s:tag>
+    <s:tag>Sale Sayings Charms</s:tag>
+    <s:tag>Scrapbook Charms</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:tag>W:0.6 in/15.24 mm x H:0.9 in/22.86 mm  |  2.2 g</s:tag>
+    <s:tag>Word Charms</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247824585</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>C452S</s:sku>
+      <s:grams>18</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247823085</id>
+    <published>2014-02-24T01:57:34-05:00</published>
+    <updated>2014-02-24T01:57:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/ger-rune"/>
+    <title>Ger Rune</title>
+    <s:type>Charm - Large</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/ger-rune.jpg?v=1527015699"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Large<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bold Large Charms</s:tag>
+    <s:tag>Inspiratational Charms</s:tag>
+    <s:tag>Inspirational Silver Charms</s:tag>
+    <s:tag>Pendant Pewter Charms</s:tag>
+    <s:tag>Rune Charms</s:tag>
+    <s:tag>Rune Pewter Charms</s:tag>
+    <s:tag>Runes Silver Charm</s:tag>
+    <s:tag>Sale Charms</s:tag>
+    <s:tag>Sale Inspirational Charms</s:tag>
+    <s:tag>Sale Sayings Charms</s:tag>
+    <s:tag>Scrapbook Charms</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:tag>W:0.6 in/15.24 mm x H:0.9 in/22.86 mm  |  2.1 g</s:tag>
+    <s:tag>Word Charms</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247823085</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>C449S</s:sku>
+      <s:grams>18</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247822605</id>
+    <published>2014-02-24T01:57:11-05:00</published>
+    <updated>2014-02-24T01:57:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/feoh-rune"/>
+    <title>Feoh Rune Charm</title>
+    <s:type>Charm - Large</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/feoh-rune-charm.jpg?v=1527015467"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Large<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>454S</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bold Large Charms</s:tag>
+    <s:tag>Inspiratational Charms</s:tag>
+    <s:tag>Inspirational Silver Charms</s:tag>
+    <s:tag>Pendant Pewter Charms</s:tag>
+    <s:tag>Rune Charms</s:tag>
+    <s:tag>Rune Pewter Charms</s:tag>
+    <s:tag>Runes Silver Charm</s:tag>
+    <s:tag>Sale Charms</s:tag>
+    <s:tag>Sale Inspirational Charms</s:tag>
+    <s:tag>Sale Sayings Charms</s:tag>
+    <s:tag>Scrapbook Charms</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:tag>W:0.6 in/15.24 mm x H:0.9 in/22.86 mm  |  2.1 g</s:tag>
+    <s:tag>Word Charms</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247822605</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>C454S</s:sku>
+      <s:grams>18</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247822461</id>
+    <published>2014-02-24T01:57:01-05:00</published>
+    <updated>2014-02-24T01:57:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/eoh-rune"/>
+    <title>Eoh Rune</title>
+    <s:type>Charm - Large</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/eoh-rune.jpg?v=1527015384"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Large<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bold Large Charms</s:tag>
+    <s:tag>Inspiratational Charms</s:tag>
+    <s:tag>Inspirational Silver Charms</s:tag>
+    <s:tag>Pendant Pewter Charms</s:tag>
+    <s:tag>Rune Charms</s:tag>
+    <s:tag>Rune Pewter Charms</s:tag>
+    <s:tag>Runes Silver Charm</s:tag>
+    <s:tag>Sale Charms</s:tag>
+    <s:tag>Sale Inspirational Charms</s:tag>
+    <s:tag>Sale Sayings Charms</s:tag>
+    <s:tag>Scrapbook Charms</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:tag>W:0.58 in/14.73 mm x H:0.9 in/22.86 mm  |  2.2 g</s:tag>
+    <s:tag>Word Charms</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247822461</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>C453S</s:sku>
+      <s:grams>18</s:grams>
+    </s:variant>
+  </entry>
+</feed>

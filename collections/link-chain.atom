@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://watchus.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://watchus.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://watchus.com/collections/link-chain.atom"/>
+  <title>Watchus</title>
+  <updated>2018-04-05T17:13:55-04:00</updated>
+  <author>
+    <name>Watchus</name>
+  </author>
+  <entry>
+    <id>https://watchus.com/products/247816665</id>
+    <published>2018-04-05T17:13:55-04:00</published>
+    <updated>2018-04-05T17:13:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/18-snake-chain-fits-pandora-charms"/>
+    <title>18&quot; Snake Chain - Fits Pandora Charms</title>
+    <s:type>Fits Pandora Bracelets,Bracelets Necklaces,Jewelry Supplies,New Products,Chain,Most Popular</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/18-snake-chain-fits-pandora-charms.jpg?v=1527013302"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Fits Pandora Bracelets,Bracelets Necklaces,Jewelry Supplies,New Products,Chain,Most Popular<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bracelets</s:tag>
+    <s:tag>Charm Bracelets and Necklaces - Fits Pandora Charms</s:tag>
+    <s:tag>Fits Pandora Necklaces</s:tag>
+    <s:tag>Link Chain</s:tag>
+    <s:tag>Necklaces - Fits Pandora Charms</s:tag>
+    <s:tag>New Chain</s:tag>
+    <s:tag>New Charms - Fits Pandora Bracelets</s:tag>
+    <s:tag>New Jewelry Supplies</s:tag>
+    <s:tag>Pandora Charms</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247816665</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>J951S</s:sku>
+      <s:grams>22</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247833181</id>
+    <published>2016-11-16T12:12:00-05:00</published>
+    <updated>2016-11-16T12:12:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/tiny-link-chain-1"/>
+    <title>Tiny Link Chain 18 inches</title>
+    <s:type>Bracelets Necklaces,Chain,New Products</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/tiny-link-chain-18-inches.jpg?v=1527019897"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Bracelets Necklaces,Chain,New Products<br>
+        <strong>Price: </strong>
+            2.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background-color: #ff0000;"><span style="color: #ffffff;"><strong>SALE</strong></span></span></p>
+<p>12 pieces - Tiny Link Chain 18 inches</p>
+<p>18 Inches Long</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Link Chain</s:tag>
+    <s:tag>New Chain</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247833181</id>
+      <title>Default</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku>J8501</s:sku>
+      <s:grams>22</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247833193</id>
+    <published>2014-02-24T02:06:00-05:00</published>
+    <updated>2014-02-24T02:06:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/titanium-7-5-inch-link-chain"/>
+    <title>12 pieces - Titanium Color Link Chain - Final Sale</title>
+    <s:type>Bracelets Necklaces</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/12-pieces-Titanium-Color-Link-Chain-Final-Sale.jpg?v=1628790647"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Bracelets Necklaces<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Titanium 7.5 inch Link Chain</p>
+<p>24 pieces - Titanium Color Link Chain</p>
+<p>$0.25 each!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Link Chain</s:tag>
+    <s:tag>Sale Ball Chain and Link Chain</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247833193</id>
+      <title>Default</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>J8194</s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247831381</id>
+    <published>2014-02-24T02:04:00-05:00</published>
+    <updated>2014-02-24T02:04:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/diamond-cut-silver-link-chain"/>
+    <title>Silver 7.5 inch Diamond Cut Link Chain with lobster clasp</title>
+    <s:type>Charms,Charms by Category,Bracelets Necklaces</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/Silver-75-inch-Diamond-Cut-Link-Chain-with-lobster-clasp_f5de81a6-07d8-4b7e-8410-05115432100d.jpg?v=1628877419"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Charms,Charms by Category,Bracelets Necklaces<br>
+        <strong>Price: </strong>
+            4.00 - 6.00
+            <a href="https://watchus.com/products/diamond-cut-silver-link-chain">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silver 7.5 inch Link Chain. Interlocking link chain with lobster clasp. 1/2 inch extender.</p>
+<p>Prices are per piece.   </p>
+<p>Example: 288 pieces are $4.00 each.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Link Chain</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247831381</id>
+      <title>1+</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>J8101</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247831381</id>
+      <title>2+</title>
+      <s:price currency="USD">5.75</s:price>
+      <s:sku>J8101</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247831381</id>
+      <title>5+</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>J8101</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247831381</id>
+      <title>6+</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>J8101</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247831381</id>
+      <title>12+</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>J8101</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247831381</id>
+      <title>48+</title>
+      <s:price currency="USD">4.75</s:price>
+      <s:sku>J8101</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247831381</id>
+      <title>144+</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>J8101</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247831381</id>
+      <title>288+</title>
+      <s:price currency="USD">4.25</s:price>
+      <s:sku>J8101</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247831381</id>
+      <title>576+</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>J8101</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247826029</id>
+    <published>2014-02-24T02:00:00-05:00</published>
+    <updated>2014-02-24T02:00:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/large-link-ball-chain"/>
+    <title>12 pieces - Large Link Ball Chain 6mm - Final Sale</title>
+    <s:type>Bracelets Necklaces,Sale</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/12-pieces-large-link-ball-chain-6mm-final-sale.jpg?v=1527016918"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Bracelets Necklaces,Sale<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>J7201</p>
+<p>12 pieces - Large Link Ball Chain  6mm</p>
+<p>$0.50 per piece - Tell your Friends!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ball Chain</s:tag>
+    <s:tag>Link Chain</s:tag>
+    <s:tag>Sale Ball Chain and Link Chain</s:tag>
+    <s:tag>Sale Chain</s:tag>
+    <s:tag>Sale Charms</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247826029</id>
+      <title>Default</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>J7201</s:sku>
+      <s:grams>900</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247823305</id>
+    <published>2014-02-24T01:57:00-05:00</published>
+    <updated>2014-02-24T01:57:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/gold-link-chain"/>
+    <title>6 pieces Gold Link Chain</title>
+    <s:type>Bracelets Necklaces</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/6-pieces-gold-link-chain.jpg?v=1527015802"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Bracelets Necklaces<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>6 pieces Gold 7.5 inch Link Chain</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Link Chain</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247823305</id>
+      <title>Default</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>J8102</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247816653</id>
+    <published>2014-02-24T01:51:00-05:00</published>
+    <updated>2014-02-24T01:51:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/18-hot-pink-ball-chain"/>
+    <title>12 pieces - Hot Pink Ball Chain - 18 inches - Final Sale</title>
+    <s:type>Bracelets Necklaces,Chain,New Products</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/12-pieces-hot-pink-ball-chain-18-inches-final-sale.jpg?v=1527013298"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Bracelets Necklaces,Chain,New Products<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>J3214</p>
+<p>24 pieces - Hot Pink Ball Chain - 18 inches</p>
+<p>$0.25 each!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ball Chain</s:tag>
+    <s:tag>Link Chain</s:tag>
+    <s:tag>New Chain</s:tag>
+    <s:tag>Painted Ball Chain</s:tag>
+    <s:tag>Sale Ball Chain and Link Chain</s:tag>
+    <s:tag>Sale Charms</s:tag>
+    <s:tag>Value Pack of 24</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247816653</id>
+      <title>Default</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>J3214</s:sku>
+      <s:grams>22</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247816613</id>
+    <published>2014-02-24T01:51:00-05:00</published>
+    <updated>2014-02-24T01:51:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/18-inch-purple-ball-chain"/>
+    <title>12 pieces - Purple Ball Chain - 18 Inch</title>
+    <s:type>Bracelets Necklaces,New Products</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/12-pieces-purple-ball-chain-18-inch.jpg?v=1527013285"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Bracelets Necklaces,New Products<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>J2213</p>
+<p>24 pieces - Purple Ball Chain - 18 Inch </p>
+<p>$0.25 per piece</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ball Chain</s:tag>
+    <s:tag>Link Chain</s:tag>
+    <s:tag>New Chain</s:tag>
+    <s:tag>Painted Ball Chain</s:tag>
+    <s:tag>Sale Ball Chain and Link Chain</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247816613</id>
+      <title>Default</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>J2213</s:sku>
+      <s:grams>22</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247816589</id>
+    <published>2014-02-24T01:51:00-05:00</published>
+    <updated>2014-02-24T01:51:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/18-inch-pink-ball-chain-1"/>
+    <title>12 pieces - Pink Ball Chain - 18 inch - Final Sale</title>
+    <s:type>Bracelets Necklaces,Chain</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/12-pieces-pink-ball-chain-18-inch-final-sale.jpg?v=1527013277"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Bracelets Necklaces,Chain<br>
+        <strong>Price: </strong>
+            0.60 - 6.00
+            <a href="https://watchus.com/products/18-inch-pink-ball-chain-1">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>J3242</p>
+<p>12 pieces - Pink Ball Chain - 18 inch </p>
+<p>$0.50</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ball Chain</s:tag>
+    <s:tag>Link Chain</s:tag>
+    <s:tag>Painted Ball Chain</s:tag>
+    <s:tag>Sale Ball Chain and Link Chain</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247816589</id>
+      <title>Default</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>J3242</s:sku>
+      <s:grams>22</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247816589</id>
+      <title>Default 12+</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku>J3242</s:sku>
+      <s:grams>22</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247816589</id>
+      <title>Default 24+</title>
+      <s:price currency="USD">1.25</s:price>
+      <s:sku>J3242</s:sku>
+      <s:grams>22</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247816589</id>
+      <title>Default 48+</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>J3242</s:sku>
+      <s:grams>22</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247816589</id>
+      <title>Default 144+</title>
+      <s:price currency="USD">0.90</s:price>
+      <s:sku>J3242</s:sku>
+      <s:grams>22</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247816589</id>
+      <title>Default 288+</title>
+      <s:price currency="USD">0.80</s:price>
+      <s:sku>J3242</s:sku>
+      <s:grams>22</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247816589</id>
+      <title>Default 576+</title>
+      <s:price currency="USD">0.70</s:price>
+      <s:sku>J3242</s:sku>
+      <s:grams>22</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247816589</id>
+      <title>Default 1008+</title>
+      <s:price currency="USD">0.60</s:price>
+      <s:sku>J3242</s:sku>
+      <s:grams>22</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247816581</id>
+    <published>2014-02-24T01:51:00-05:00</published>
+    <updated>2014-02-24T01:51:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/17-inch-link-chain"/>
+    <title>6 pieces - 17 inch Link Chain - 14 inch Chain - 3 inch Extender - assembly required</title>
+    <s:type>Charms,Charms by Category,Bracelets Necklaces</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/6-pieces-17-inch-Link-Chain-14-inch-Chain-3-inch-Extender-assembly-required_47efc106-6602-42b7-80de-d67a8202c6e5.jpg?v=1628877048"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Charms,Charms by Category,Bracelets Necklaces<br>
+        <strong>Price: </strong>
+            4.00 - 18.00
+            <a href="https://watchus.com/products/17-inch-link-chain">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>17 inch Link Chain. Rhodium Plated. Diamond Cut Link Chain. With Lobster Claw.</p>
+<p>6 pieces - 17 inch Link Chain</p>
+<p>Designed for Watchus by Nancy Dreishpoon.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Link Chain</s:tag>
+    <s:tag>Sale Chain</s:tag>
+    <s:tag>Sale Charms</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247816581</id>
+      <title>Default</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>J8201</s:sku>
+      <s:grams>22</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247816581</id>
+      <title>Default 2+</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>J8201</s:sku>
+      <s:grams>22</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247816581</id>
+      <title>Default 6+</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>J8201</s:sku>
+      <s:grams>22</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247816581</id>
+      <title>Default 12+</title>
+      <s:price currency="USD">4.75</s:price>
+      <s:sku>J8201</s:sku>
+      <s:grams>22</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247816581</id>
+      <title>Default 48+</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>J8201</s:sku>
+      <s:grams>22</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247816581</id>
+      <title>Default 144+</title>
+      <s:price currency="USD">4.25</s:price>
+      <s:sku>J8201</s:sku>
+      <s:grams>22</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247816581</id>
+      <title>Default 288+</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>J8201</s:sku>
+      <s:grams>22</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247816565</id>
+    <published>2014-02-24T01:51:00-05:00</published>
+    <updated>2014-02-24T01:51:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/18-inch-green-apple-ball-chain"/>
+    <title>24 pieces - Green Apple Ball Chain - 18 inch - Final Sale</title>
+    <s:type>Bracelets Necklaces,Chain,New Products</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/24-pieces-green-apple-ball-chain-18-inch-final-sale.jpg?v=1527013268"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Bracelets Necklaces,Chain,New Products<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>J3216</p>
+<p>24 pieces - Green Apple Ball Chain - 18 inch </p>
+<p>$0.25 each</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ball Chain</s:tag>
+    <s:tag>Link Chain</s:tag>
+    <s:tag>New Chain</s:tag>
+    <s:tag>Painted Ball Chain</s:tag>
+    <s:tag>Sale Ball Chain and Link Chain</s:tag>
+    <s:tag>Sale Charms</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247816565</id>
+      <title>Default</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>J3216</s:sku>
+      <s:grams>22</s:grams>
+    </s:variant>
+  </entry>
+</feed>

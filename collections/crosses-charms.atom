@@ -1,0 +1,1994 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://watchus.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://watchus.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://watchus.com/collections/crosses-charms.atom"/>
+  <title>Watchus</title>
+  <updated>2018-03-19T10:29:13-04:00</updated>
+  <author>
+    <name>Watchus</name>
+  </author>
+  <entry>
+    <id>https://watchus.com/products/247821569</id>
+    <published>2018-03-19T10:29:13-04:00</published>
+    <updated>2018-03-19T10:29:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/curved-cross-pendant-gold-plated"/>
+    <title>Curved Cross Pendant Gold Plated</title>
+    <s:type>Charm - Medium</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/curved-cross-pendant-gold-plated.jpg?v=1527015010"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Medium<br>
+        <strong>Price: </strong>
+            4.80 - 9.00
+            <a href="https://watchus.com/products/curved-cross-pendant-gold-plated">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bold Medium Gold Charms 1</s:tag>
+    <s:tag>Christmas Charms</s:tag>
+    <s:tag>Cross Pewter Charms</s:tag>
+    <s:tag>Gold Charms</s:tag>
+    <s:tag>Gold Cross Charms</s:tag>
+    <s:tag>Gold Inspirational Charms</s:tag>
+    <s:tag>Gold Religious Charms</s:tag>
+    <s:tag>Medium Charms</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247821569</id>
+      <title>1+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C435G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247821569</id>
+      <title>2+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C435G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247821569</id>
+      <title>4+</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>C435G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247821569</id>
+      <title>6+</title>
+      <s:price currency="USD">5.40</s:price>
+      <s:sku>C435G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247821569</id>
+      <title>8+</title>
+      <s:price currency="USD">4.80</s:price>
+      <s:sku>C435G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247827905</id>
+    <published>2018-03-19T09:36:04-04:00</published>
+    <updated>2018-03-19T09:36:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/no-loop-branch-cross-with-flat-back"/>
+    <title>No Loop Branch Cross with Flat Back</title>
+    <s:type>Charm - Large</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/no-loop-branch-cross-with-flat-back.jpg?v=1527017727"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Large<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bold Large Charms</s:tag>
+    <s:tag>Cross Pewter Charms</s:tag>
+    <s:tag>Pendant Pewter Charms</s:tag>
+    <s:tag>Religious Charms</s:tag>
+    <s:tag>Sale Charms</s:tag>
+    <s:tag>Sale Crosses Charms</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:tag>Was-published</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247827905</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C152S-No Loop</s:sku>
+      <s:grams>18</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247821561</id>
+    <published>2018-03-12T16:18:07-04:00</published>
+    <updated>2018-03-12T16:18:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/curved-cross-pendant"/>
+    <title>Curved Cross Pendant</title>
+    <s:type>Charm - Large</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/curved-cross-pendant.jpg?v=1527015001"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Large<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Size: Length: 3/4 inch   Height: 1 1/8 inch</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bold Large Charms</s:tag>
+    <s:tag>Christmas Charms</s:tag>
+    <s:tag>Christmas Silver Charm</s:tag>
+    <s:tag>Cross Pewter Charms</s:tag>
+    <s:tag>Crosses Silver Charm</s:tag>
+    <s:tag>Holidays Silver Charm</s:tag>
+    <s:tag>Religious Silver Charm</s:tag>
+    <s:tag>Silver Pendant</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247821561</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>C435S</s:sku>
+      <s:grams>18</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/314324505</id>
+    <published>2014-05-18T01:19:00-04:00</published>
+    <updated>2014-05-18T01:19:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/zig-zag-cross"/>
+    <title>Zig Zag Cross Charm</title>
+    <s:type>Charm - Medium</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/zig-zag-cross-charm.jpg?v=1534788426"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Medium<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Zig Zag Cross Charm. Sterling Silver finish. Made in USA. Designed by Nancy Dreishpoon.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bold Medium Silver Charms 3</s:tag>
+    <s:tag>Cross Pewter Charms</s:tag>
+    <s:tag>Medium Charms</s:tag>
+    <s:tag>Review - Fix</s:tag>
+    <s:tag>Scrapbook Charms</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:tag>W:0.5 in/12.7 mm x H:0.8 in/20.32 mm  |  2.0 g</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/314324505</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C406S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247833921</id>
+    <published>2014-02-24T02:07:33-05:00</published>
+    <updated>2014-02-24T02:07:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/woven-cross"/>
+    <title>Woven Cross</title>
+    <s:type>Charm - Medium</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/woven-cross.jpg?v=1527020310"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Medium<br>
+        <strong>Price: </strong>
+            6.00 - 13.50
+            <a href="https://watchus.com/products/woven-cross">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bold Medium Silver Charms 2</s:tag>
+    <s:tag>Cross Pewter Charms</s:tag>
+    <s:tag>Crosses Silver Charm</s:tag>
+    <s:tag>Medium Charms</s:tag>
+    <s:tag>Religious Silver Charm</s:tag>
+    <s:tag>Sale Charms</s:tag>
+    <s:tag>Sale Crosses Charms</s:tag>
+    <s:tag>Sale Inspirational Charms</s:tag>
+    <s:tag>Scrapbook Charms</s:tag>
+    <s:tag>Scrapbook Silver Charm</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:tag>W:0.5 in/12.7 mm x H:0.8 in/20.32 mm  |  1.2 g</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247833921</id>
+      <title>1+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C395S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247833921</id>
+      <title>4+</title>
+      <s:price currency="USD">13.50</s:price>
+      <s:sku>C395S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247833921</id>
+      <title>8+</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>C395S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247833921</id>
+      <title>24+</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>C395S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247833921</id>
+      <title>48+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C395S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247833921</id>
+      <title>96+</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>C395S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247833921</id>
+      <title>168+</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>C395S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247833481</id>
+    <published>2014-02-24T02:07:02-05:00</published>
+    <updated>2014-02-24T02:07:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/twisted-cross-charm"/>
+    <title>Twisted Cross Charm</title>
+    <s:type>Charm - Medium</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/twisted-cross-charm.jpg?v=1548958188"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Medium<br>
+        <strong>Price: </strong>
+            6.00 - 13.50
+            <a href="https://watchus.com/products/twisted-cross-charm">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Twisted Cross Charm. A unique take on the classic cross.</p>
+<ul>
+<li><strong>Sterling Silver Plated 100 Mils</strong></li>
+<li><strong>Made in the U.S.A.</strong></li>
+<li><strong>Three Dimensional</strong></li>
+<li><strong>Designed by Nancy Dreishpoon</strong></li>
+<li><strong>Copyrighted</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bold Medium Silver Charms 4</s:tag>
+    <s:tag>Cross Pewter Charms</s:tag>
+    <s:tag>Crosses Silver Charm</s:tag>
+    <s:tag>Medium Charms</s:tag>
+    <s:tag>Quilt Store</s:tag>
+    <s:tag>Religious Charms</s:tag>
+    <s:tag>Religious Silver Charm</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:tag>W: 0.75 in/19.05 mm x H: 1 in/25.4 mm | 1.8 g</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247833481</id>
+      <title>1+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C790S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247833481</id>
+      <title>4+</title>
+      <s:price currency="USD">13.50</s:price>
+      <s:sku>C790S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247833481</id>
+      <title>8+</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>C790S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247833481</id>
+      <title>24+</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>C790S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247833481</id>
+      <title>48+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C790S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247833481</id>
+      <title>96+</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>C790S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247833481</id>
+      <title>168+</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>C790S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247834021</id>
+    <published>2014-02-24T02:07:00-05:00</published>
+    <updated>2014-02-24T02:07:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/zig-zag-cross-bead"/>
+    <title>Zig Zag Cross Bead Charm</title>
+    <s:type>Charm - Small</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/zig-zag-cross-bead-charm.jpg?v=1534788402"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Small<br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Zig Zag Cross Bead Charm. Sterling Silver finish. Made in USA. Designed  by Nancy Dreishpoon.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beads</s:tag>
+    <s:tag>Bold Small Charms</s:tag>
+    <s:tag>Cross Charms</s:tag>
+    <s:tag>Cross Pewter Charms</s:tag>
+    <s:tag>Crosses Silver Charm</s:tag>
+    <s:tag>Religious Charms</s:tag>
+    <s:tag>Religious Silver Charm</s:tag>
+    <s:tag>Sale Beads</s:tag>
+    <s:tag>Sale Charms</s:tag>
+    <s:tag>Sale Crosses Charms</s:tag>
+    <s:tag>Sale Inspirational Charms</s:tag>
+    <s:tag>Theme Beads</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:tag>W:0.5 in/12.7 mm x H:0.8 in/20.32 mm  |  2.3 g</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247834021</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>C407S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247833421</id>
+    <published>2014-02-24T02:06:58-05:00</published>
+    <updated>2014-02-24T02:06:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/turquoise-epoxy-sterling-plated-cross-charm"/>
+    <title>Turquoise Epoxy Cross Charm</title>
+    <s:type>Charm - Epoxy</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/turquoise-epoxy-cross-charm.jpg?v=1548958174"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Epoxy<br>
+        <strong>Price: </strong>
+            9.00 - 24.00
+            <a href="https://watchus.com/products/turquoise-epoxy-sterling-plated-cross-charm">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Turquoise Epoxy Cross Charm. A very pretty turquoise cross to add to the collection!</p>
+<ul>
+<li><strong>Sterling Silver Plated 100 Mils</strong></li>
+<li><strong>Made in the U.S.A.</strong></li>
+<li><strong>Three Dimensional</strong></li>
+<li><strong>Designed by Nancy Dreishpoon</strong></li>
+<li><strong>Copyrighted</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bold Epoxy Charms</s:tag>
+    <s:tag>Christmas Charms</s:tag>
+    <s:tag>Christmas Silver Charm</s:tag>
+    <s:tag>Cross Pewter Charms</s:tag>
+    <s:tag>Crosses Silver Charm</s:tag>
+    <s:tag>Epoxy Charms</s:tag>
+    <s:tag>Holiday Charms</s:tag>
+    <s:tag>Holiday Pewter Charms</s:tag>
+    <s:tag>Holidays Silver Charm</s:tag>
+    <s:tag>New Charms</s:tag>
+    <s:tag>Religious Charms</s:tag>
+    <s:tag>Religious Silver Charm</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:tag>W: 0.75 in/19.05 mm x H: 0.75 in/19.05 mm | 1.7 g</s:tag>
+    <s:tag>Wholesale Charms</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247833421</id>
+      <title>1+</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>C907S-17-Turqouise</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247833421</id>
+      <title>4+</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>C907S-17-Turqouise</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247833421</id>
+      <title>8+</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>C907S-17-Turqouise</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247833421</id>
+      <title>24+</title>
+      <s:price currency="USD">13.50</s:price>
+      <s:sku>C907S-17-Turqouise</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247833421</id>
+      <title>48+</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>C907S-17-Turqouise</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247833421</id>
+      <title>96+</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>C907S-17-Turqouise</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247833421</id>
+      <title>168+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C907S-17-Turqouise</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247833385</id>
+    <published>2014-02-24T02:06:55-05:00</published>
+    <updated>2014-02-24T02:06:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/tubular-cross-with-beads-charm"/>
+    <title>Tubular Cross With Beads Charm</title>
+    <s:type>Charm - Medium</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/Tubular-Cross-With-Beads-Charm_0352b6a7-2c16-42f1-8d32-9f9c97fe1b83.jpg?v=1628877490"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Medium<br>
+        <strong>Price: </strong>
+            6.00 - 13.50
+            <a href="https://watchus.com/products/tubular-cross-with-beads-charm">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tubular Cross With Beads Charm. A unique redesigning of the classic cross.</p>
+<ul>
+<li><strong>Sterling Silver Plated 100 Mils</strong></li>
+<li><strong>Made in the U.S.A.</strong></li>
+<li><strong>Three Dimensional</strong></li>
+<li><strong>Designed by Nancy Dreishpoon</strong></li>
+<li><strong>Copyrighted</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bold Medium Silver Charms 4</s:tag>
+    <s:tag>Cross Pewter Charms</s:tag>
+    <s:tag>Crosses Silver Charm</s:tag>
+    <s:tag>Medium Charms</s:tag>
+    <s:tag>Quilt Store</s:tag>
+    <s:tag>Religious Charms</s:tag>
+    <s:tag>Religious Silver Charm</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:tag>W: 0.5 in/12.7 mm x H: 0.875 in/22.23 mm  |  1.8 g</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247833385</id>
+      <title>1+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C791S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247833385</id>
+      <title>4+</title>
+      <s:price currency="USD">13.50</s:price>
+      <s:sku>C791S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247833385</id>
+      <title>8+</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>C791S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247833385</id>
+      <title>24+</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>C791S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247833385</id>
+      <title>48+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C791S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247833385</id>
+      <title>96+</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>C791S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247833385</id>
+      <title>168+</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>C791S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247832221</id>
+    <published>2014-02-24T02:05:00-05:00</published>
+    <updated>2014-02-24T02:05:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/cross-charm-2"/>
+    <title>Cross Charm</title>
+    <s:type>Charm - Large</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/cross-charm_4faedd1f-0ea3-4084-8780-a12b4ca1bc8f.jpeg?v=1587838042"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Large<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This spiral or twisted metal charm is one of our most simple crosses. It makes a loving gift.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bold Large Charms</s:tag>
+    <s:tag>Cross Pewter Charms</s:tag>
+    <s:tag>Religious Charms</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:tag>W: 0.6 in/15.24 mm x H:1 in/25.4 mm  |  1.7 g</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247832221</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>C153S</s:sku>
+      <s:grams>18</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247831953</id>
+    <published>2014-02-24T02:05:00-05:00</published>
+    <updated>2014-02-24T02:05:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/simple-cross-plated-gold-charms"/>
+    <title>Simple Cross Plated Gold Charms - C631G</title>
+    <s:type>Charm - Medium</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/simple-cross-plated-gold-charms-c631g.jpg?v=1527019296"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Medium<br>
+        <strong>Price: </strong>
+            4.80 - 9.00
+            <a href="https://watchus.com/products/simple-cross-plated-gold-charms">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Simple Cross Plated Gold Charms. 24 Karat Gold finish. Made in USA. Designed  by Nancy Dreishpoon.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bold Medium Gold Charms 1</s:tag>
+    <s:tag>Cross Pewter Charms</s:tag>
+    <s:tag>Gold Charms</s:tag>
+    <s:tag>Gold Cross Charms</s:tag>
+    <s:tag>Gold Inspirational Charms</s:tag>
+    <s:tag>Gold Religious Charms</s:tag>
+    <s:tag>Inspiratational Charms</s:tag>
+    <s:tag>Inspirational Silver Charms</s:tag>
+    <s:tag>Medium Charms</s:tag>
+    <s:tag>Religious Charms</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247831953</id>
+      <title>1+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C631G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247831953</id>
+      <title>2+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C631G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247831953</id>
+      <title>4+</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>C631G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247831953</id>
+      <title>6+</title>
+      <s:price currency="USD">5.40</s:price>
+      <s:sku>C631G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247831953</id>
+      <title>8+</title>
+      <s:price currency="USD">4.80</s:price>
+      <s:sku>C631G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247831941</id>
+    <published>2014-02-24T02:05:00-05:00</published>
+    <updated>2014-02-24T02:05:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/simple-cross-charm"/>
+    <title>Simple Cross Charm</title>
+    <s:type>Charm - Medium</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/simple-cross-charm.jpg?v=1548958041"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Medium<br>
+        <strong>Price: </strong>
+            6.00 - 13.50
+            <a href="https://watchus.com/products/simple-cross-charm">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Simple Cross Charm. This cross is simple, but elegant. </p>
+<ul>
+<li><strong>Sterling Silver Plated 100 Mils</strong></li>
+<li><strong>Made in the U.S.A.</strong></li>
+<li><strong>Three Dimensional</strong></li>
+<li><strong>Designed by Nancy Dreishpoon</strong></li>
+<li><strong>Copyrighted</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bold Medium Silver Charms 4</s:tag>
+    <s:tag>Christmas Silver Charm</s:tag>
+    <s:tag>Cross Pewter Charms</s:tag>
+    <s:tag>Crosses Silver Charm</s:tag>
+    <s:tag>Holidays Silver Charm</s:tag>
+    <s:tag>Medium Charms</s:tag>
+    <s:tag>Religious Silver Charm</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:tag>W: 0.5 in/12.7 mm x H: 1 in/25.4 mm  |  1.5 g</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247831941</id>
+      <title>1+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C631S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247831941</id>
+      <title>4+</title>
+      <s:price currency="USD">13.50</s:price>
+      <s:sku>C631S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247831941</id>
+      <title>8+</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>C631S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247831941</id>
+      <title>24+</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>C631S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247831941</id>
+      <title>48+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C631S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247831941</id>
+      <title>96+</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>C631S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247831941</id>
+      <title>168+</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>C631S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247831565</id>
+    <published>2014-02-24T02:04:47-05:00</published>
+    <updated>2014-02-24T02:04:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/silver-epoxy-sterling-plated-cross-charm"/>
+    <title>Silver Epoxy Cross Charm</title>
+    <s:type>Charm - Epoxy</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/silver-epoxy-cross-charm.jpg?v=1548958032"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Epoxy<br>
+        <strong>Price: </strong>
+            9.00 - 24.00
+            <a href="https://watchus.com/products/silver-epoxy-sterling-plated-cross-charm">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silver Epoxy Cross Charm. A very pretty silver cross to add to any collection!</p>
+<ul>
+<li><strong>Sterling Silver Plated 100 Mils</strong></li>
+<li><strong>Made in the U.S.A.</strong></li>
+<li><strong>Three Dimensional</strong></li>
+<li><strong>Designed by Nancy Dreishpoon</strong></li>
+<li><strong>Copyrighted</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bold Epoxy Charms</s:tag>
+    <s:tag>Christmas Charms</s:tag>
+    <s:tag>Christmas Silver Charm</s:tag>
+    <s:tag>Cross Pewter Charms</s:tag>
+    <s:tag>Crosses Silver Charm</s:tag>
+    <s:tag>Epoxy Charms</s:tag>
+    <s:tag>Holiday Charms</s:tag>
+    <s:tag>Holiday Pewter Charms</s:tag>
+    <s:tag>Holidays Silver Charm</s:tag>
+    <s:tag>New Charms</s:tag>
+    <s:tag>Religious Charms</s:tag>
+    <s:tag>Religious Silver Charm</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:tag>W: 0.75 in/19.05 mm x H: 0.75 in/19.05 mm  |  1.7 g</s:tag>
+    <s:tag>Wholesale Charms</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247831565</id>
+      <title>1+</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>C907S-3-Silver</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247831565</id>
+      <title>4+</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>C907S-3-Silver</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247831565</id>
+      <title>8+</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>C907S-3-Silver</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247831565</id>
+      <title>24+</title>
+      <s:price currency="USD">13.50</s:price>
+      <s:sku>C907S-3-Silver</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247831565</id>
+      <title>48+</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>C907S-3-Silver</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247831565</id>
+      <title>96+</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>C907S-3-Silver</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247831565</id>
+      <title>168+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C907S-3-Silver</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247831293</id>
+    <published>2014-02-24T02:04:33-05:00</published>
+    <updated>2014-02-24T02:04:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/silhouette-cross-plated-gold-charms"/>
+    <title>Silhouette Cross Plated Gold Charms</title>
+    <s:type>Charm - Medium</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/silhouette-cross-plated-gold-charms.jpg?v=1527019057"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Medium<br>
+        <strong>Price: </strong>
+            4.80 - 9.00
+            <a href="https://watchus.com/products/silhouette-cross-plated-gold-charms">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bold Medium Gold Charms 1</s:tag>
+    <s:tag>Cross Pewter Charms</s:tag>
+    <s:tag>Gold Charms</s:tag>
+    <s:tag>Gold Cross Charms</s:tag>
+    <s:tag>Gold Inspirational Charms</s:tag>
+    <s:tag>Gold Religious Charms</s:tag>
+    <s:tag>Inspiratational Charms</s:tag>
+    <s:tag>Inspirational Silver Charms</s:tag>
+    <s:tag>Medium Charms</s:tag>
+    <s:tag>Religious Charms</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247831293</id>
+      <title>1+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C625G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247831293</id>
+      <title>2+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C625G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247831293</id>
+      <title>4+</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>C625G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247831293</id>
+      <title>6+</title>
+      <s:price currency="USD">5.40</s:price>
+      <s:sku>C625G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247831293</id>
+      <title>8+</title>
+      <s:price currency="USD">4.80</s:price>
+      <s:sku>C625G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247831289</id>
+    <published>2014-02-24T02:04:33-05:00</published>
+    <updated>2014-02-24T02:04:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/silhouette-cross-charm"/>
+    <title>Silhouette Cross Charm</title>
+    <s:type>Charm - Medium</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/silhouette-cross-charm.jpg?v=1548958023"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Medium<br>
+        <strong>Price: </strong>
+            6.00 - 13.50
+            <a href="https://watchus.com/products/silhouette-cross-charm">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silhouette Cross Charm. This charm has a stylish take on the classic cross. </p>
+<ul>
+<li><strong>Sterling Silver Plated 100 Mils</strong></li>
+<li><strong>Made in the U.S.A.</strong></li>
+<li><strong>Three Dimensional</strong></li>
+<li><strong>Designed by Nancy Dreishpoon</strong></li>
+<li><strong>Copyrighted</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bold Medium Silver Charms 4</s:tag>
+    <s:tag>Christmas Silver Charm</s:tag>
+    <s:tag>Cross Pewter Charms</s:tag>
+    <s:tag>Crosses Silver Charm</s:tag>
+    <s:tag>Holidays Silver Charm</s:tag>
+    <s:tag>Italian Charms</s:tag>
+    <s:tag>Medium Charms</s:tag>
+    <s:tag>Religious Silver Charm</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:tag>W: 0.5 in/12.7 mm x H: 0.8 in/20.32 mm  |  1.9 g</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247831289</id>
+      <title>1+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C625S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247831289</id>
+      <title>4+</title>
+      <s:price currency="USD">13.50</s:price>
+      <s:sku>C625S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247831289</id>
+      <title>8+</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>C625S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247831289</id>
+      <title>24+</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>C625S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247831289</id>
+      <title>48+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C625S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247831289</id>
+      <title>96+</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>C625S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247831289</id>
+      <title>168+</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>C625S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247831433</id>
+    <published>2014-02-24T02:04:00-05:00</published>
+    <updated>2014-02-24T02:04:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/silver-gold-cross-charm"/>
+    <title>Silver and Gold Cross Charm</title>
+    <s:type>Charms, Two-tone</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/silver-and-gold-cross-charm.jpg?v=1547747663"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Charms, Two-tone<br>
+        <strong>Price: </strong>
+            2.00 - 3.50
+            <a href="https://watchus.com/products/silver-gold-cross-charm">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silver and Gold Cross Charm. Check out this cool two tone cross!</p>
+<ul>
+<li><strong>Sterling Silver Plated 100 Mils</strong></li>
+<li><strong>Made in the U.S.A.</strong></li>
+<li><strong>Three Dimensional</strong></li>
+<li><strong>Designed by Nancy Dreishpoon</strong></li>
+<li><strong>Copyrighted</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cross Pewter Charms</s:tag>
+    <s:tag>Epoxy Charms</s:tag>
+    <s:tag>Inspiratational Charms</s:tag>
+    <s:tag>Inspirational Silver Charms</s:tag>
+    <s:tag>Religious Charms</s:tag>
+    <s:tag>Two Tone Charms</s:tag>
+    <s:tag>W: 0.625 in/15.88 mm x H: 0.75 in/19.05 mm | 2 g</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247831433</id>
+      <title>1+</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>C906TS</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247831433</id>
+      <title>2+</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>C906TS</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247831433</id>
+      <title>12+</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>C906TS</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247831433</id>
+      <title>24+</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku>C906TS</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247830501</id>
+    <published>2014-02-24T02:03:52-05:00</published>
+    <updated>2014-02-24T02:03:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/rope-cross-plated-gold-charms"/>
+    <title>Rope Cross Plated Gold Charms</title>
+    <s:type>Charm - Medium</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/rope-cross-plated-gold-charms.jpg?v=1527018744"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Medium<br>
+        <strong>Price: </strong>
+            4.80 - 9.00
+            <a href="https://watchus.com/products/rope-cross-plated-gold-charms">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bold Medium Gold Charms 1</s:tag>
+    <s:tag>Cross Pewter Charms</s:tag>
+    <s:tag>Gold Charms</s:tag>
+    <s:tag>Gold Cross Charms</s:tag>
+    <s:tag>Gold Inspirational Charms</s:tag>
+    <s:tag>Gold Religious Charms</s:tag>
+    <s:tag>Medium Charms</s:tag>
+    <s:tag>Religious Charms</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247830501</id>
+      <title>1+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C525G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247830501</id>
+      <title>2+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C525G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247830501</id>
+      <title>4+</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>C525G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247830501</id>
+      <title>6+</title>
+      <s:price currency="USD">5.40</s:price>
+      <s:sku>C525G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247830501</id>
+      <title>8+</title>
+      <s:price currency="USD">4.80</s:price>
+      <s:sku>C525G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247830013</id>
+    <published>2014-02-24T02:03:22-05:00</published>
+    <updated>2014-02-24T02:03:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/raised-cross-charm"/>
+    <title>Raised Cross Charm</title>
+    <s:type>Charm - Medium</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/raised-cross-charm.jpg?v=1548957915"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Medium<br>
+        <strong>Price: </strong>
+            6.00 - 13.50
+            <a href="https://watchus.com/products/raised-cross-charm">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Raised Cross Charm. A stylish take on the traditional cross.</p>
+<ul>
+<li><strong>Sterling Silver Plated 100 Mils</strong></li>
+<li><strong>Made in the U.S.A.</strong></li>
+<li><strong>Three Dimensional</strong></li>
+<li><strong>Designed by Nancy Dreishpoon</strong></li>
+<li><strong>Copyrighted</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bold Medium Silver Charms 5</s:tag>
+    <s:tag>Christmas Charms</s:tag>
+    <s:tag>Christmas Silver Charm</s:tag>
+    <s:tag>Cross Pewter Charms</s:tag>
+    <s:tag>Crosses Silver Charm</s:tag>
+    <s:tag>Medium Charms</s:tag>
+    <s:tag>Quilt Store</s:tag>
+    <s:tag>Religious Charms</s:tag>
+    <s:tag>Religious Silver Charm</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:tag>W: 0.5 in/12.7 mm x H: 0.875 in/22.23 mm  |  1.6 g</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247830013</id>
+      <title>1+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C862S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247830013</id>
+      <title>4+</title>
+      <s:price currency="USD">13.50</s:price>
+      <s:sku>C862S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247830013</id>
+      <title>8+</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>C862S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247830013</id>
+      <title>24+</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>C862S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247830013</id>
+      <title>48+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C862S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247830013</id>
+      <title>96+</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>C862S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247830013</id>
+      <title>168+</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>C862S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247830497</id>
+    <published>2014-02-24T02:03:00-05:00</published>
+    <updated>2014-02-24T02:03:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/rope-cross-charm"/>
+    <title>Rope Cross Charm</title>
+    <s:type>Charm - Medium</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/rope-cross-charm.jpg?v=1535219569"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Medium<br>
+        <strong>Price: </strong>
+            6.00 - 13.50
+            <a href="https://watchus.com/products/rope-cross-charm">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rope Cross Charm. Show your faith with this unique design!</p>
+<ul>
+<li><strong>Sterling Silver Plated 100 Mils</strong></li>
+<li><strong>Made in the U.S.A.</strong></li>
+<li><strong>Three Dimensional</strong></li>
+<li><strong>Designed by Nancy Dreishpoon</strong></li>
+<li><strong>Copyrighted</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bold Medium Silver Charms 3</s:tag>
+    <s:tag>Cross Pewter Charms</s:tag>
+    <s:tag>Easter Charms</s:tag>
+    <s:tag>Inspiratational Charms</s:tag>
+    <s:tag>Inspirational Silver Charms</s:tag>
+    <s:tag>Medium Charms</s:tag>
+    <s:tag>Religious Charms</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:tag>W: 0.5 in/12.7 mm x H: 0.7 in/17.78 mm | 1.0 g</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247830497</id>
+      <title>1+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C525S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247830497</id>
+      <title>4+</title>
+      <s:price currency="USD">13.50</s:price>
+      <s:sku>C525S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247830497</id>
+      <title>8+</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>C525S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247830497</id>
+      <title>24+</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>C525S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247830497</id>
+      <title>48+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C525S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247830497</id>
+      <title>96+</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>C525S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247830497</id>
+      <title>168+</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>C525S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247827353</id>
+    <published>2014-02-24T02:01:10-05:00</published>
+    <updated>2014-02-24T02:01:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/madonna-plated-gold-charms"/>
+    <title>Madonna Plated Gold Charms</title>
+    <s:type>Charm - Medium</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/madonna-plated-gold-charms.jpg?v=1527017463"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Medium<br>
+        <strong>Price: </strong>
+            4.80 - 9.00
+            <a href="https://watchus.com/products/madonna-plated-gold-charms">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bold Medium Gold Charms 1</s:tag>
+    <s:tag>Christmas Charms</s:tag>
+    <s:tag>Cross Pewter Charms</s:tag>
+    <s:tag>Gold Charms</s:tag>
+    <s:tag>Gold Cross Charms</s:tag>
+    <s:tag>Gold Holiday Charms</s:tag>
+    <s:tag>Gold Inspirational Charms</s:tag>
+    <s:tag>Gold Religious Charms</s:tag>
+    <s:tag>Inspiratational Charms</s:tag>
+    <s:tag>Inspirational Silver Charms</s:tag>
+    <s:tag>Medium Charms</s:tag>
+    <s:tag>Religious Charms</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247827353</id>
+      <title>1+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C554G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247827353</id>
+      <title>2+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C554G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247827353</id>
+      <title>4+</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>C554G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247827353</id>
+      <title>6+</title>
+      <s:price currency="USD">5.40</s:price>
+      <s:sku>C554G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247827353</id>
+      <title>8+</title>
+      <s:price currency="USD">4.80</s:price>
+      <s:sku>C554G</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247827273</id>
+    <published>2014-02-24T02:01:05-05:00</published>
+    <updated>2014-02-24T02:01:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/loop-cross-charm"/>
+    <title>Loop Cross Charm</title>
+    <s:type>Charm - Medium</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/loop-cross-charm.jpg?v=1551894702"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Medium<br>
+        <strong>Price: </strong>
+            6.00 - 13.50
+            <a href="https://watchus.com/products/loop-cross-charm">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bold Medium Silver Charms 3</s:tag>
+    <s:tag>Christmas Silver Charm</s:tag>
+    <s:tag>Cross Pewter Charms</s:tag>
+    <s:tag>Crosses Silver Charm</s:tag>
+    <s:tag>Holidays Silver Charm</s:tag>
+    <s:tag>Inspiratational Charms</s:tag>
+    <s:tag>Inspirational Silver Charms</s:tag>
+    <s:tag>Medium Charms</s:tag>
+    <s:tag>Religious Charms</s:tag>
+    <s:tag>Religious Silver Charm</s:tag>
+    <s:tag>Sale Charms</s:tag>
+    <s:tag>Scrapbook Charms</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:tag>W:0.6 in/15.24 mm x H:0.9 in/22.86 mm  |  1.2 g</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247827273</id>
+      <title>1+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C431S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247827273</id>
+      <title>4+</title>
+      <s:price currency="USD">13.50</s:price>
+      <s:sku>C431S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247827273</id>
+      <title>8+</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>C431S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247827273</id>
+      <title>24+</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>C431S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247827273</id>
+      <title>48+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C431S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247827273</id>
+      <title>96+</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>C431S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247827273</id>
+      <title>168+</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>C431S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247827413</id>
+    <published>2014-02-24T02:01:00-05:00</published>
+    <updated>2014-02-24T02:01:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/silver-braided-cross-pendant"/>
+    <title>Silver Braided Cross Pendant</title>
+    <s:type>Charm - Large</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/silver-braided-cross-pendant.jpg?v=1527017485"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Large<br>
+        <strong>Price: </strong>
+            7.50 - 18.00
+            <a href="https://watchus.com/products/silver-braided-cross-pendant">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This larger Silver Braided Cross Pendant version of our bestselling charm is always a best seller. </p>
+<p>C008S Silver Braided Cross Charm</p>
+<p> </p>
+<ul>
+<li>Sterling Silver Plated 40 Mils</li>
+<li>Copyrighted</li>
+<li>Three Dimensional</li>
+<li>Made Right Here in The Northeast. Yup! U.S.A.</li>
+</ul>
+<p>Size:<b> W:</b><span>0.6 in/15.24 mm </span><b>x</b><span> </span><b>H:</b><span>0.9 in/22.86 mm  </span><b>| Weight:</b><span> 1.9 g </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bold Large Charms</s:tag>
+    <s:tag>Cross Pewter Charms</s:tag>
+    <s:tag>Crosses Silver Charm</s:tag>
+    <s:tag>Inspiratational Charms</s:tag>
+    <s:tag>Inspirational Silver Charms</s:tag>
+    <s:tag>Pendant Pewter Charms</s:tag>
+    <s:tag>Religious Charms</s:tag>
+    <s:tag>Religious Silver Charm</s:tag>
+    <s:tag>Silver Pendant</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:tag>W:0.6 in/15.24 mm x H:0.9 in/22.86 mm  |  1.9 g</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247827413</id>
+      <title>1+</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>C008S</s:sku>
+      <s:grams>18</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247827413</id>
+      <title>4+</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>C008S</s:sku>
+      <s:grams>18</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247827413</id>
+      <title>8+</title>
+      <s:price currency="USD">13.50</s:price>
+      <s:sku>C008S</s:sku>
+      <s:grams>18</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247827413</id>
+      <title>24+</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>C008S</s:sku>
+      <s:grams>18</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247827413</id>
+      <title>48+</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>C008S</s:sku>
+      <s:grams>18</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247827413</id>
+      <title>96+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C008S</s:sku>
+      <s:grams>18</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247827413</id>
+      <title>168+</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>C008S</s:sku>
+      <s:grams>18</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247826841</id>
+    <published>2014-02-24T02:00:43-05:00</published>
+    <updated>2014-02-24T02:00:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/linked-angel-rope-cross-charm"/>
+    <title>Linked Angel Rope Cross Charm</title>
+    <s:type>Charm - Large</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/linked-angel-rope-cross-charm.jpg?v=1527017220"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Large<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Linked Angel Rope Cross Charm. With this angel and cross, you'll soar!</p>
+<ul>
+<li><strong>Sterling Silver Plated 100 Mils</strong></li>
+<li><strong>Made in the U.S.A.</strong></li>
+<li><strong>Three Dimensional</strong></li>
+<li><strong>Designed by Nancy Dreishpoon</strong></li>
+<li><strong>Copyrighted</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Angel Charms</s:tag>
+    <s:tag>Angel Silver Charm</s:tag>
+    <s:tag>Bold Large Charms</s:tag>
+    <s:tag>Cross Charms</s:tag>
+    <s:tag>Cross Pewter Charms</s:tag>
+    <s:tag>Crosses Silver Charm</s:tag>
+    <s:tag>Inspiratational Charms</s:tag>
+    <s:tag>Inspirational Silver Charm</s:tag>
+    <s:tag>Inspirational Silver Charms</s:tag>
+    <s:tag>Linked Pewter Charms</s:tag>
+    <s:tag>Linked Silver Charm</s:tag>
+    <s:tag>Religious Charms</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:tag>W: 1 in/25.4 mm x H: 1 in/25.4 mm  |  2.1 g</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247826841</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>C751S</s:sku>
+      <s:grams>18</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247825593</id>
+    <published>2014-02-24T01:59:44-05:00</published>
+    <updated>2014-02-24T01:59:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/jesus-cross-charm"/>
+    <title>Jesus Cross Charm</title>
+    <s:type>Charm - Medium</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/jesus-cross-charm.jpg?v=1548957559"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Medium<br>
+        <strong>Price: </strong>
+            6.00 - 13.50
+            <a href="https://watchus.com/products/jesus-cross-charm">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Jesus Cross Charm. The reason for the season.</p>
+<ul>
+<li><strong>Sterling Silver Plated 100 Mils</strong></li>
+<li><strong>Made in the U.S.A.</strong></li>
+<li><strong>Three Dimensional</strong></li>
+<li><strong>Designed by Nancy Dreishpoon</strong></li>
+<li><strong>Copyrighted</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bold Medium Silver Charms 5</s:tag>
+    <s:tag>Cross Charms</s:tag>
+    <s:tag>Cross Pewter Charms</s:tag>
+    <s:tag>Crosses Silver Charm</s:tag>
+    <s:tag>Inspiratational Charms</s:tag>
+    <s:tag>Inspirational Silver Charm</s:tag>
+    <s:tag>Inspirational Silver Charms</s:tag>
+    <s:tag>Medium Charms</s:tag>
+    <s:tag>Religious Charms</s:tag>
+    <s:tag>Religious Silver Charm</s:tag>
+    <s:tag>Saying Silver Charm</s:tag>
+    <s:tag>Sayings Charms</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:tag>W: 0.5 in/12.7 mm x H: 1 in/25.4 mm  |  1.8 g</s:tag>
+    <s:tag>Word Charms</s:tag>
+    <s:tag>Words Silver Charm</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247825593</id>
+      <title>1+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C856S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247825593</id>
+      <title>4+</title>
+      <s:price currency="USD">13.50</s:price>
+      <s:sku>C856S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247825593</id>
+      <title>8+</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>C856S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247825593</id>
+      <title>24+</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>C856S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247825593</id>
+      <title>48+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C856S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247825593</id>
+      <title>96+</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>C856S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247825593</id>
+      <title>168+</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>C856S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247825581</id>
+    <published>2014-02-24T01:59:43-05:00</published>
+    <updated>2014-02-24T01:59:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/jesus-as-cross-charm"/>
+    <title>Jesus as Cross Pewter Charm</title>
+    <s:type>Charm - Medium</s:type>
+    <s:vendor>Watchus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/jesus-as-cross-pewter-charm.jpg?v=1527016758"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus<br>
+        <strong>Type: </strong>Charm - Medium<br>
+        <strong>Price: </strong>
+            6.00 - 13.50
+            <a href="https://watchus.com/products/jesus-as-cross-charm">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Jesus as Cross Pewter Charm. This charm uses Jesus' pose as the cross itself.</p>
+<ul>
+<li><strong>Sterling Silver Plated 100 Mils</strong></li>
+<li><strong>Made in the U.S.A.</strong></li>
+<li><strong>Three Dimensional</strong></li>
+<li><strong>Designed by Nancy Dreishpoon</strong></li>
+<li><strong>Copyrighted</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bold Medium Silver Charms 4</s:tag>
+    <s:tag>Cross Pewter Charms</s:tag>
+    <s:tag>Crosses Silver Charm</s:tag>
+    <s:tag>Medium Charms</s:tag>
+    <s:tag>Religious Silver Charm</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:tag>W: 0.9 in/22.86 mm x H: 1 in/25.4 mm  |  1.7 g</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247825581</id>
+      <title>1+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C768S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247825581</id>
+      <title>4+</title>
+      <s:price currency="USD">13.50</s:price>
+      <s:sku>C768S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247825581</id>
+      <title>8+</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>C768S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247825581</id>
+      <title>24+</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>C768S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247825581</id>
+      <title>48+</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>C768S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247825581</id>
+      <title>96+</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>C768S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247825581</id>
+      <title>168+</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>C768S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+</feed>

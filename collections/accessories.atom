@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://watchus.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://watchus.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://watchus.com/collections/accessories.atom"/>
+  <title>Watchus</title>
+  <updated>2018-03-23T12:40:05-04:00</updated>
+  <author>
+    <name>Watchus</name>
+  </author>
+  <entry>
+    <id>https://watchus.com/products/580934172702</id>
+    <published>2018-03-23T12:40:05-04:00</published>
+    <updated>2018-03-23T12:40:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/quilt-wine-charms-scissor-fobs-with-purple-swarovski-crystals"/>
+    <title>Quilt Wine Charms and Scissor Fobs with Purple Swarovski Crystals</title>
+    <s:type>Wine Charm</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/quilt-wine-charms-and-scissor-fobs-with-purple-swarovski-crystals.jpg?v=1527021237"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Wine Charm<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>W001SC-Purple Swarovski Crystal</p>
+<p>Quilt Wine Charms for Wine Glasses and Scissor Fobs with Purple Swarovski Bead Collection</p>
+<p>Hand Made in the USA</p>
+<p>Charms Sterling Plated 100 mils</p>
+<p><span>Purple Swarovski Bead</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://watchus.com/products/580934172702</id>
+      <title>Default Title</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>W001SC-Blue</s:sku>
+      <s:grams>900</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/580934139934</id>
+    <published>2018-03-23T12:40:05-04:00</published>
+    <updated>2018-03-23T12:40:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/quilt-wine-charms-for-wine-glasses-and-scissor-fobs-with-blue-swarovski-collection"/>
+    <title>Quilt Wine Charms and Scissor Fobs with Blue Swarovski Crystals</title>
+    <s:type>Wine Charm</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/quilt-wine-charms-and-scissor-fobs-with-blue-swarovski-crystals.jpg?v=1527021233"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Wine Charm<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>W001SC-Blue Swarovski Crystal</p>
+<p>Quilt Wine Charms for Wine Glasses and Scissor Fobs with Blue Swarovski Bead Collection</p>
+<p>Hand Made in the USA</p>
+<p>Charms Sterling Plated 100 mils</p>
+<p><span>Blue Swarovski Bead</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://watchus.com/products/580934139934</id>
+      <title>Default Title</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>W001SC-Blue</s:sku>
+      <s:grams>900</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/580917133342</id>
+    <published>2018-03-23T12:40:05-04:00</published>
+    <updated>2018-03-23T12:40:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/sewing-machine-spool-of-thread-thimble-brooch"/>
+    <title>Sewing Machine Spool of Thread Thimble Brooch</title>
+    <s:type>Brooch</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/sewing-machine-spool-of-thread-thimble-brooch.jpg?v=1527021229"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Brooch<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sewing Machine Spool of Thread Thimble Brooch</p>
+<p>Style Number: J507506505</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://watchus.com/products/580917133342</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>J507506505</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/580917100574</id>
+    <published>2018-03-23T12:40:05-04:00</published>
+    <updated>2018-03-23T12:40:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/quilters-scissors-and-sewing-machine-brooch"/>
+    <title>Quilters Scissors and Sewing Machine Brooch</title>
+    <s:type>Brooch</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/quilters-scissors-and-sewing-machine-brooch.jpg?v=1527021225"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Brooch<br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b>Quilters Scissors and Sewing Machine Brooch. </b></p>
+<p><b>Style Number: J959242507S</b></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://watchus.com/products/580917100574</id>
+      <title>Default Title</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>J959242507S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/580917067806</id>
+    <published>2018-03-23T12:40:05-04:00</published>
+    <updated>2018-03-23T12:40:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/i-love-quilting-brooch"/>
+    <title>I Love Quilting Brooch</title>
+    <s:type>Brooch</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/i-love-quilting-brooch.jpg?v=1527021221"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Brooch<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details:</strong></p>
+<ul>
+<li>Sterling Silver Plated</li>
+<li>3-Loop Charm Pin</li>
+</ul>
+<p><strong>Note:</strong></p>
+<p>Please allow an additional (2) weeks delivery for 24K Gold Plated.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://watchus.com/products/580917067806</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>NJ746S</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/580917002270</id>
+    <published>2018-03-23T12:40:05-04:00</published>
+    <updated>2018-03-23T12:40:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/i-love-sewing-brooch"/>
+    <title>I Love Sewing Brooch</title>
+    <s:type>Brooch</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/i-love-sewing-brooch.jpg?v=1527021216"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Brooch<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details:</strong></p>
+<ul>
+<li>Sterling Silver Plated</li>
+<li>3-Loop Charm Pin</li>
+</ul>
+<p><strong>Note:</strong></p>
+<p>Please allow an additional (2) weeks delivery for 24K Gold Plated.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://watchus.com/products/580917002270</id>
+      <title>Sterling Silver Plated</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>NJ742S</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/580943020062</id>
+    <published>2018-03-23T12:40:04-04:00</published>
+    <updated>2018-03-23T12:40:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/safari-key-ring"/>
+    <title>Safari Key Ring</title>
+    <s:type>Key Ring</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/safari-key-ring.jpg?v=1527021251"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Key Ring<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: </strong></p>
+<p><strong>Style Number:åÊ</strong>NK003S</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Sterling Silver Plated Charms</li>
+<li>Ring: 1<sup>1/2"</sup> X Total Width: 2<sup>1/2"</sup>
+</li>
+<li>Weight: 27g</li>
+<li>Assembled in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Elephant</s:tag>
+    <s:tag>Flamingo</s:tag>
+    <s:tag>Giraffe</s:tag>
+    <s:tag>Gorilla</s:tag>
+    <s:tag>Hippo</s:tag>
+    <s:tag>Key Ring</s:tag>
+    <s:tag>Lion</s:tag>
+    <s:tag>Monkey</s:tag>
+    <s:tag>Rhino</s:tag>
+    <s:tag>Safari</s:tag>
+    <s:tag>Sterling Silver Plated</s:tag>
+    <s:tag>Tiger</s:tag>
+    <s:tag>Zebra</s:tag>
+    <s:tag>Zoo</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/580943020062</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>NK003S</s:sku>
+      <s:grams>27</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/580942987294</id>
+    <published>2018-03-23T12:40:04-04:00</published>
+    <updated>2018-03-23T12:40:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/golf-key-ring"/>
+    <title>Golf Key Ring</title>
+    <s:type>Key Ring</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/golf-key-ring.jpg?v=1527021247"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Key Ring<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: </strong></p>
+<p><strong>Style Number:åÊ</strong>NK001S</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Sterling Silver Plated Charms</li>
+<li>Ring: 1<sup>1/2"</sup> X Total Width: 2<sup>1/2"</sup>
+</li>
+<li>Weight: 27g</li>
+<li>Assembled in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Golf</s:tag>
+    <s:tag>Key Ring</s:tag>
+    <s:tag>sport</s:tag>
+    <s:tag>Sports</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/580942987294</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>NK001S</s:sku>
+      <s:grams>27</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/580942954526</id>
+    <published>2018-03-23T12:40:04-04:00</published>
+    <updated>2018-03-23T12:40:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/bacchus-key-ring"/>
+    <title>Bacchus Key Ring</title>
+    <s:type>Key Ring</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/bacchus-key-ring.jpg?v=1527021242"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Key Ring<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: </strong></p>
+<p><strong>Style Number:åÊ</strong>NK002S</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Sterling Silver Plated Charms</li>
+<li>Ring: 1<sup>1/2"</sup> X Total Width: 2<sup>1/2"</sup>
+</li>
+<li>Weight: 27g</li>
+<li>Assembled in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beer</s:tag>
+    <s:tag>Grape</s:tag>
+    <s:tag>Key Ring</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/580942954526</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>NK002S</s:sku>
+      <s:grams>27</s:grams>
+    </s:variant>
+  </entry>
+</feed>

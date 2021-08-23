@@ -1,0 +1,1100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://watchus.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://watchus.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://watchus.com/collections/samandnan-earrings.atom"/>
+  <title>Watchus</title>
+  <updated>2018-03-23T12:40:29-04:00</updated>
+  <author>
+    <name>Watchus</name>
+  </author>
+  <entry>
+    <id>https://watchus.com/products/247819041</id>
+    <published>2018-03-23T12:40:29-04:00</published>
+    <updated>2018-03-23T12:40:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/blue-sewing-machine-earrings"/>
+    <title>Blue Sewing Machine Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/blue-sewing-machine-earrings.jpg?v=1527014002"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: </strong></p>
+<p><strong>Style Number: </strong>E0117507</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>.925 Sterling Earwires</li>
+<li>Height: 1<sup>1/2"</sup> XåÊWidth: <sup>7/8"</sup>
+</li>
+<li>Weight: 8g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sewing</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247819041</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>E0117507</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247818997</id>
+    <published>2018-03-23T12:40:29-04:00</published>
+    <updated>2018-03-23T12:40:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/blue-quilt-cutter-earrings"/>
+    <title>Blue Quilt Cutter Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/blue-quilt-cutter-earrings.jpg?v=1527013984"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: </strong></p>
+<p><strong>Style Number: </strong>E0117288</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>.925 Sterling Earwires</li>
+<li>Height: 1<sup>1/2"</sup> XåÊWidth: <sup>7/8"</sup>
+</li>
+<li>Weight: 8g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Quilting</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247818997</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>E0117288</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247818925</id>
+    <published>2018-03-23T12:40:29-04:00</published>
+    <updated>2018-03-23T12:40:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/blue-basket-earrings"/>
+    <title>Blue Basket Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/blue-basket-earrings.jpg?v=1527013959"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: </strong></p>
+<p><strong>Style Number: </strong>E0317829</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>.925 Sterling Earwires</li>
+<li>Height: 1<sup>1/2"</sup> XåÊWidth: <sup>7/8"</sup>
+</li>
+<li>Weight: 8g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Quilting</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247818925</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>E0317829</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247829269</id>
+    <published>2018-03-23T12:40:28-04:00</published>
+    <updated>2018-03-23T12:40:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/pink-thimble-earrings"/>
+    <title>Pink Thimble Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/pink-thimble-earrings.jpg?v=1527018257"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: </strong></p>
+<p><strong>Style Number: </strong>E0223505</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>.925 Sterling Earwires</li>
+<li>Height: 1<sup>1/2"</sup> XåÊWidth: <sup>7/8"</sup>
+</li>
+<li>Weight: 8g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Quilting</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247829269</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>E0223505</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247824545</id>
+    <published>2018-03-23T12:40:28-04:00</published>
+    <updated>2018-03-23T12:40:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/green-stork-earrings"/>
+    <title>Green Stork Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/green-stork-earrings.jpg?v=1527016304"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: </strong></p>
+<p><strong>Style Number: </strong>E0221342</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>.925 Sterling Earwires</li>
+<li>Height: 1<sup>1/2"</sup> XåÊWidth: <sup>7/8"</sup>
+</li>
+<li>Weight: 8g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Quilting</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247824545</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>E0221342</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247824517</id>
+    <published>2018-03-23T12:40:28-04:00</published>
+    <updated>2018-03-23T12:40:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/green-sewing-machine-earrings"/>
+    <title>Green Sewing Machine Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/green-sewing-machine-earrings.jpg?v=1527016296"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: </strong></p>
+<p><strong>Style Number: </strong>E0221507</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>.925 Sterling Earwires</li>
+<li>Height: 1<sup>1/2"</sup> XåÊWidth: <sup>7/8"</sup>
+</li>
+<li>Weight: 8g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Quilting</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247824517</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>E0221507</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247824461</id>
+    <published>2018-03-23T12:40:28-04:00</published>
+    <updated>2018-03-23T12:40:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/green-quilt-cutter-earrings"/>
+    <title>Green Quilt Cutter Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/green-quilt-cutter-earrings.jpg?v=1527016279"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: </strong></p>
+<p><strong>Style Number: </strong>E0221288</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>.925 Sterling Earwires</li>
+<li>Height: 1<sup>1/2"</sup> XåÊWidth: <sup>7/8"</sup>
+</li>
+<li>Weight: 8g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Quilting</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247824461</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>E0221288</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247822057</id>
+    <published>2018-03-23T12:40:28-04:00</published>
+    <updated>2018-03-23T12:40:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/dresden-quilt-block-earrings"/>
+    <title>Dresden Quilt Block Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/dresden-quilt-block-earrings.jpg?v=1527015206"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: </strong></p>
+<p><strong>Style Number: </strong>E0400890</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>.925 Sterling Earwires</li>
+<li>Height: 1<sup>1/2"</sup> XåÊWidth: <sup>7/8"</sup>
+</li>
+<li>Weight: 8g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Quilting</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247822057</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>E0400890</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247830285</id>
+    <published>2018-03-23T12:40:27-04:00</published>
+    <updated>2018-03-23T12:40:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/red-thread-earrings"/>
+    <title>Red Thread Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/red-thread-earrings.jpg?v=1527018650"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: </strong></p>
+<p><strong>Style Number: </strong>E0115506</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>.925 Sterling Earwires</li>
+<li>Height: 1<sup>1/2"</sup> XåÊWidth: <sup>7/8"</sup>
+</li>
+<li>Weight: 8g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Quilting</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247830285</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>E0115506</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247830269</id>
+    <published>2018-03-23T12:40:27-04:00</published>
+    <updated>2018-03-23T12:40:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/red-thimble-earrings"/>
+    <title>Red Thimble Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/red-thimble-earrings.jpg?v=1527018640"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: </strong></p>
+<p><strong>Style Number: </strong>E0115505</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>.925 Sterling Earwires</li>
+<li>Height: 1<sup>1/2"</sup> XåÊWidth: <sup>7/8"</sup>
+</li>
+<li>Weight: 8g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Quilting</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247830269</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>E0115505</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247830173</id>
+    <published>2018-03-23T12:40:27-04:00</published>
+    <updated>2018-03-23T12:40:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/red-basket-earrings"/>
+    <title>Red Basket Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/red-basket-earrings.jpg?v=1527018590"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: </strong></p>
+<p><strong>Style Number: </strong>E0315829</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>.925 Sterling Earwires</li>
+<li>Height: 1<sup>1/2"</sup> XåÊWidth: <sup>7/8"</sup>
+</li>
+<li>Weight: 8g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Quilting</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247830173</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>E0315829</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247829301</id>
+    <published>2018-03-23T12:40:27-04:00</published>
+    <updated>2018-03-23T12:40:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/pink-thread-earrings"/>
+    <title>Pink Thread Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/pink-thread-earrings.jpg?v=1527018266"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: </strong></p>
+<p><strong>Style Number: </strong>E0223506</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>.925 Sterling Earwires</li>
+<li>Height: 1<sup>1/2"</sup> XåÊWidth: <sup>7/8"</sup>
+</li>
+<li>Weight: 8g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Quilting</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247829301</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>E0223506</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247832793</id>
+    <published>2018-03-23T12:40:26-04:00</published>
+    <updated>2018-03-23T12:40:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/sunbonnet-sue-earrings"/>
+    <title>Sunbonnet Sue Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/sunbonnet-sue-earrings.jpg?v=1527019660"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: </strong></p>
+<p><strong>Style Number: </strong>E0400832</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>.925 Sterling Earwires</li>
+<li>Height: 1<sup>1/2"</sup> XåÊWidth: <sup>7/8"</sup>
+</li>
+<li>Weight: 8g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Quilting</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247832793</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>E0400832</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247831837</id>
+    <published>2018-03-23T12:40:26-04:00</published>
+    <updated>2018-03-23T12:40:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/silver-scissor-earrings"/>
+    <title>Silver Scissor Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/silver-scissor-earrings.jpg?v=1527019240"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: </strong></p>
+<p><strong>Style Number: </strong>E0203242</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>.925 Sterling Earwires</li>
+<li>Height: 1<sup>1/2"</sup> XåÊWidth: <sup>7/8"</sup>
+</li>
+<li>Weight: 8g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Quilting</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247831837</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>E0203242</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/579545202718</id>
+    <published>2018-03-23T12:40:24-04:00</published>
+    <updated>2018-03-23T12:40:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/copy-of-rack-12-inches"/>
+    <title>Free Jewelry</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: Free Jewelry</strong></p>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Quilting</s:tag>
+    <s:tag>Sewing</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/579545202718</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku>Free</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/579545464862</id>
+    <published>2018-03-23T12:40:23-04:00</published>
+    <updated>2018-03-23T12:40:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/copy-of-quilt-cutter-gold-earrings-with-blue-swarovski-crystals"/>
+    <title>Quilt Cutter Gold Earrings with Blue Swarovski Crystals</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/quilt-cutter-gold-earrings-with-blue-swarovski-crystals.jpg?v=1527020684"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These ear wires are .925 Sterling Silver. This item is Hand Made in Connecticut, USA and</p>
+<p>Made with Blue Swarovski Beads.</p>
+<p>Quilt Cutter is plated Gold.</p>
+<p>The Length of the earring is 1 1/2 and the width is 1/2 inch.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Quilting</s:tag>
+    <s:tag>Swarovski Crystal</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/579545464862</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>E288GC-Purple</s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/579545399326</id>
+    <published>2018-03-23T12:40:23-04:00</published>
+    <updated>2018-03-23T12:40:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/copy-of-____-hand-crank-sewing-machine-silver-earrings-with-purple-swarovski-crystals"/>
+    <title>Thimble Silver Earrings with Purple Swarovski Crystals</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/thimble-silver-earrings-with-purple-swarovski-crystals.jpg?v=1527020680"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These ear wires are .925 Sterling Silver. This item is Hand Made in Connecticut, USA and</p>
+<p>Made with Purple Swarovski Beads.</p>
+<p>Thimble Earring is plated Sterling Silver 100 mils.</p>
+<p>The Length of the earring is 1 1/2 and the width is 1/2 inch.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Swarovski Crystal</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/579545399326</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>E505SC-Purple</s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/579545366558</id>
+    <published>2018-03-23T12:40:23-04:00</published>
+    <updated>2018-03-23T12:40:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/copy-of-____-thimble-silver-earrings-with-purple-swarovski-crystals"/>
+    <title>Thimble Silver Earrings with Blue Swarovski Crystals</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/thimble-silver-earrings-with-blue-swarovski-crystals.jpg?v=1527020675"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These ear wires are .925 Sterling Silver. This item is Hand Made in Connecticut, USA and</p>
+<p>Made with Blue Swarovski Beads.</p>
+<p>Thimble Earring is plated Sterling Silver 100 mils.</p>
+<p>The Length of the earring is 1 1/2 and the width is 1/2 inch.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Swarovski Crystal</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/579545366558</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>E505SC-Blue</s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/579545333790</id>
+    <published>2018-03-23T12:40:23-04:00</published>
+    <updated>2018-03-23T12:40:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/copy-of-____-dresden-quilt-patch-silver-earrings-with-purple-swarovski-crystals-1"/>
+    <title>Dresden Quilt Patch Silver Earrings with Purple Swarovski Crystals</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/dresden-quilt-patch-silver-earrings-with-purple-swarovski-crystals.jpg?v=1527020671"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These ear wires are .925 Sterling Silver. This item is Hand Made in Connecticut, USA and</p>
+<p>Made with Purple Swarovski Beads.</p>
+<p>Dresden Quilt Patch Earring is plated Sterling Silver 100 mils.</p>
+<p>The Length of the earring is 1 1/2 and the width is 1/2 inch.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Quilting</s:tag>
+    <s:tag>Swarovski Crystal</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/579545333790</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>E890SC-Purple</s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/579545301022</id>
+    <published>2018-03-23T12:40:23-04:00</published>
+    <updated>2018-03-23T12:40:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/copy-of-____-dresden-quilt-patch-silver-earrings-with-purple-swarovski-crystals"/>
+    <title>Dresden Quilt Patch Silver Earrings with Blue Swarovski Crystals</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/dresden-quilt-patch-silver-earrings-with-blue-swarovski-crystals.jpg?v=1527020667"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These ear wires are .925 Sterling Silver. This item is Hand Made in Connecticut, USA and</p>
+<p>Made with Blue Swarovski Beads.</p>
+<p>Dresden Quilt Patch Earring is plated Sterling Silver 100 mils.</p>
+<p>The Length of the earring is 1 1/2 and the width is 1/2 inch.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Quilting</s:tag>
+    <s:tag>Swarovski Crystal</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/579545301022</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>E890SC-Blue</s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/579545235486</id>
+    <published>2018-03-23T12:40:23-04:00</published>
+    <updated>2018-03-23T12:40:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/copy-of-blue-quilt-rack-earrings"/>
+    <title>Rack 12 inches</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: Rack 12 inches</strong></p>
+<p> </p>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Quilting</s:tag>
+    <s:tag>Sewing</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/579545235486</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>Rack12</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/579545792542</id>
+    <published>2018-03-23T12:40:22-04:00</published>
+    <updated>2018-03-23T12:40:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/copy-of-hand-crank-sewing-machine-silver-earrings-with-purple-swarovski-crystals"/>
+    <title>Hand Crank Sewing Machine Silver Earrings with Blue Swarovski Crystals</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/hand-crank-sewing-machine-silver-earrings-with-blue-swarovski-crystals.jpg?v=1527020722"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These ear wires are .925 Sterling Silver. This item is Hand Made in Connecticut, USA and</p>
+<p>Made with Blue Swarovski Beads.</p>
+<p>Hand Crank Sewing Machine is plated Sterling Silver 100 mils.</p>
+<p>The Length of the earring is 1 1/2 and the width is 1/2 inch.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sewing</s:tag>
+    <s:tag>Swarovski Crystal</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/579545792542</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>E934SC-Blue</s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/579545727006</id>
+    <published>2018-03-23T12:40:22-04:00</published>
+    <updated>2018-03-23T12:40:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/copy-of-hand-crank-sewing-machine-silver-earrings-with-purple-swarovski-crystals-1"/>
+    <title>Hand Crank Sewing Machine Gold Earrings with Purple Swarovski Crystals</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/hand-crank-sewing-machine-gold-earrings-with-purple-swarovski-crystals.jpg?v=1527020718"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These ear wires are .925 Sterling Silver. This item is Hand Made in Connecticut, USA and</p>
+<p>Made with purple Swarovski Beads.</p>
+<p>Hand Crank Sewing Machine is plated Gold.</p>
+<p>The Length of the earring is 1 1/2 and the width is 1/2 inch.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sewing</s:tag>
+    <s:tag>Swarovski Crystal</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/579545727006</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>E934GC-Purple</s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/579545694238</id>
+    <published>2018-03-23T12:40:22-04:00</published>
+    <updated>2018-03-23T12:40:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/copy-of-hand-crank-sewing-machine-gold-earrings-with-purple-swarovski-crystals"/>
+    <title>Hand Crank Sewing Machine Gold Earrings with Blue Swarovski Crystals</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/hand-crank-sewing-machine-gold-earrings-with-blue-swarovski-crystals.jpg?v=1527020714"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These ear wires are .925 Sterling Silver. This item is Hand Made in Connecticut, USA </p>
+<p>Made with Blue Swarovski Beads.</p>
+<p>Hand Crank Sewing Machine is plated Gold.</p>
+<p>The Length of the earring is 1 1/2 and the width is 1/2 inch.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sewing</s:tag>
+    <s:tag>Swarovski Crystal</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/579545694238</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>E934GC-Blue</s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/579545661470</id>
+    <published>2018-03-23T12:40:22-04:00</published>
+    <updated>2018-03-23T12:40:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/copy-of-purple-painted-bobbin-silver-earrings-with-purple-swarovski-crystals"/>
+    <title>Blue Painted Bobbin Silver Earrings with Blue Swarovski Crystals</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/blue-painted-bobbin-silver-earrings-with-blue-swarovski-crystals.jpg?v=1527020710"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These ear wires are .925 Sterling Silver. This item is Hand Made in Connecticut, USA and</p>
+<p>Made with Blue Swarovski Beads.</p>
+<p>Blue Painted Bobbin is plated Sterling Silver 100 mils.</p>
+<p>The Length of the earring is 1 1/2 and the width is 1/2 inch.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Swarovski Crystal</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/579545661470</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>E949SC-Blue</s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+</feed>

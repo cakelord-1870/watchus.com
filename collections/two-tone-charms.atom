@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://watchus.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://watchus.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://watchus.com/collections/two-tone-charms.atom"/>
+  <title>Watchus</title>
+  <updated>2018-03-19T10:17:32-04:00</updated>
+  <author>
+    <name>Watchus</name>
+  </author>
+  <entry>
+    <id>https://watchus.com/products/247831441</id>
+    <published>2018-03-19T10:17:32-04:00</published>
+    <updated>2018-03-19T10:17:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/silver-and-gold-heart-charm"/>
+    <title>Silver and Gold Heart Charm</title>
+    <s:type>Charms, Two-tone</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/silver-and-gold-heart-charm.jpg?v=1560707629"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Charms, Two-tone<br>
+        <strong>Price: </strong>
+            2.00 - 3.50
+            <a href="https://watchus.com/products/silver-and-gold-heart-charm">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silver and Gold Heart Charm. Show your love with this unique charm!</p>
+<ul>
+<li><strong>Sterling Silver Plated 100 Mils</strong></li>
+<li><strong>Made in the U.S.A.</strong></li>
+<li><strong>Three Dimensional</strong></li>
+<li><strong>Designed by Nancy Dreishpoon</strong></li>
+<li><strong>Copyrighted</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Heart Charms</s:tag>
+    <s:tag>Love Symbol Charms</s:tag>
+    <s:tag>Medium Charms</s:tag>
+    <s:tag>Two Tone Charms</s:tag>
+    <s:tag>Valentine&apos;s Day Charms</s:tag>
+    <s:tag>W: 0.75 inches/19.05 mm H: 0.75 inches/19.05 mm | 2.8 g</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247831441</id>
+      <title>1+</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>C904TS</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247831441</id>
+      <title>2+</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>C904TS</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247831441</id>
+      <title>12+</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>C904TS</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247831441</id>
+      <title>24+</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku>C904TS</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247833533</id>
+    <published>2018-03-19T09:36:04-04:00</published>
+    <updated>2018-03-19T09:36:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/silver-gold-lion-lamb-charm"/>
+    <title>Silver and Gold Lion and Lamb Charm</title>
+    <s:type>Charms, Two-tone</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/silver-and-gold-lion-and-lamb-charm.jpg?v=1547315624"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Charms, Two-tone<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silver and Gold Lion and Lamb Charm. This charm is like April...in like a lion, out like a lamb!</p>
+<ul>
+<li><strong>Sterling Silver Plated 100 Mils</strong></li>
+<li><strong>Made in the U.S.A.</strong></li>
+<li><strong>Three Dimensional</strong></li>
+<li><strong>Designed by Nancy Dreishpoon</strong></li>
+<li><strong>Copyrighted</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Medium Charms</s:tag>
+    <s:tag>Two Tone Charms</s:tag>
+    <s:tag>W: 0.5 in/12.7 mm x H: 0.75 in/19.05 mm  |  3.1 g</s:tag>
+    <s:tag>Was-published</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247833533</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>C903TS</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247824793</id>
+    <published>2018-03-19T09:36:04-04:00</published>
+    <updated>2018-03-19T09:36:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/heart-two-tone-sterling-finish-charm"/>
+    <title>Heart Two Tone Charm</title>
+    <s:type>Charms, Two-tone</s:type>
+    <s:vendor>Watchus - Charms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/heart-two-tone-charm.jpg?v=1547315454"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus - Charms<br>
+        <strong>Type: </strong>Charms, Two-tone<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Heart Two Tone Charm. Check out this cute two tone heart!</p>
+<ul>
+<li><strong>Sterling Silver Plated 100 Mils</strong></li>
+<li><strong>Made in the U.S.A.</strong></li>
+<li><strong>Three Dimensional</strong></li>
+<li><strong>Designed by Nancy Dreishpoon</strong></li>
+<li><strong>Copyrighted</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Medium Charms</s:tag>
+    <s:tag>Two Tone Charms</s:tag>
+    <s:tag>W: 1 in/25.4 mm x H: 1 in/25.4 mm</s:tag>
+    <s:tag>Was-published</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247824793</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>C907ST</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247823337</id>
+    <published>2016-09-27T21:00:00-04:00</published>
+    <updated>2016-09-27T21:00:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/gold-and-silver-heart-charm"/>
+    <title>Gold and Silver Heart Charm</title>
+    <s:type>Charms, Two-tone</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/Gold-and-Silver-Heart-Charm_cb9f9429-d58c-4c98-aed0-b7f8ccff187c.jpg?v=1628877181"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Charms, Two-tone<br>
+        <strong>Price: </strong>
+            2.00 - 3.50
+            <a href="https://watchus.com/products/gold-and-silver-heart-charm">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gold and Silver Heart Two Tone Charm. Show your love with this unique heart!</p>
+<ul>
+<li><strong>Sterling Silver Plated 100 Mils</strong></li>
+<li><strong>Made in the U.S.A.</strong></li>
+<li><strong>Three Dimensional</strong></li>
+<li><strong>Designed by Nancy Dreishpoon</strong></li>
+<li><strong>Copyrighted</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Heart Charms</s:tag>
+    <s:tag>Love Symbol Charms</s:tag>
+    <s:tag>Medium Charms</s:tag>
+    <s:tag>Two Tone Charms</s:tag>
+    <s:tag>Valentine&apos;s Day Charms</s:tag>
+    <s:tag>W: 0.75 inches/19.05 mm H: 0.75 inches/19.05 mm | 2.8 g</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247823337</id>
+      <title>1+</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>C904TG</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247823337</id>
+      <title>2+</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>C904TG</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247823337</id>
+      <title>12+</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>C904TG</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247823337</id>
+      <title>24+</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku>C904TG</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247833497</id>
+    <published>2014-02-24T02:07:00-05:00</published>
+    <updated>2014-02-24T02:07:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/gold-silver-lion-lamb-charm"/>
+    <title>Gold and Silver Lion and Lamb Charm</title>
+    <s:type>Charms, Two-tone</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/gold-and-silver-lion-and-lamb-charm.jpg?v=1547315620"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Charms, Two-tone<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gold and Silver Lion and Lamb Charm. This charm is like April...in like a lion, out like a lamb!</p>
+<ul>
+<li><strong>Sterling Silver Plated 100 Mils</strong></li>
+<li><strong>Made in the U.S.A.</strong></li>
+<li><strong>Three Dimensional</strong></li>
+<li><strong>Designed by Nancy Dreishpoon</strong></li>
+<li><strong>Copyrighted</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Animal Pewter Charms</s:tag>
+    <s:tag>Egyptian Pewter Charm</s:tag>
+    <s:tag>Egyptian Silver Charm</s:tag>
+    <s:tag>Gold Animal Charms</s:tag>
+    <s:tag>Gold Religious Charms</s:tag>
+    <s:tag>Inspiratational Charms</s:tag>
+    <s:tag>Inspirational Silver Charms</s:tag>
+    <s:tag>Medium Charms</s:tag>
+    <s:tag>Religious Charms</s:tag>
+    <s:tag>Safari - Wild Animals Charms</s:tag>
+    <s:tag>Safari - Wild Animals Silver Charm</s:tag>
+    <s:tag>Twilight Charms</s:tag>
+    <s:tag>Two Tone Charms</s:tag>
+    <s:tag>W: 1 in/25.4 mm x H: 0.75 in/19.05 mm  |  3.1 g</s:tag>
+    <s:tag>Zoo Charms</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247833497</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>C903TG</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247831453</id>
+    <published>2014-02-24T02:04:00-05:00</published>
+    <updated>2014-02-24T02:04:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/silver-and-gold-star-charm"/>
+    <title>Silver and Gold Star Charm</title>
+    <s:type>Charms, Two-tone</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/Silver-and-Gold-Star-Charm_a6be9ff8-5fec-4fb4-ad9a-52bff5411476.jpg?v=1628877429"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Charms, Two-tone<br>
+        <strong>Price: </strong>
+            2.00 - 5.00
+            <a href="https://watchus.com/products/silver-and-gold-star-charm">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silver and Gold Star Charm. Shine bright with this charm!</p>
+<ul>
+<li><strong>Sterling Silver Plated 100 Mils</strong></li>
+<li><strong>Made in the U.S.A.</strong></li>
+<li><strong>Three Dimensional</strong></li>
+<li><strong>Designed by Nancy Dreishpoon</strong></li>
+<li><strong>Copyrighted</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Celestial Pewter Charms</s:tag>
+    <s:tag>Medium Charms</s:tag>
+    <s:tag>Star Charms</s:tag>
+    <s:tag>Two Tone Charms</s:tag>
+    <s:tag>W: 0.75 in/19.05 mm x H: 0.875 in/22.23 mm | 2.3 g</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247831453</id>
+      <title>1+</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>C905TS</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247831453</id>
+      <title>2+</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>C905TS</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247831453</id>
+      <title>12+</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>C905TS</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247831453</id>
+      <title>24+</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku>C905TS</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247831433</id>
+    <published>2014-02-24T02:04:00-05:00</published>
+    <updated>2014-02-24T02:04:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/silver-gold-cross-charm"/>
+    <title>Silver and Gold Cross Charm</title>
+    <s:type>Charms, Two-tone</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/silver-and-gold-cross-charm.jpg?v=1547747663"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Charms, Two-tone<br>
+        <strong>Price: </strong>
+            2.00 - 3.50
+            <a href="https://watchus.com/products/silver-gold-cross-charm">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silver and Gold Cross Charm. Check out this cool two tone cross!</p>
+<ul>
+<li><strong>Sterling Silver Plated 100 Mils</strong></li>
+<li><strong>Made in the U.S.A.</strong></li>
+<li><strong>Three Dimensional</strong></li>
+<li><strong>Designed by Nancy Dreishpoon</strong></li>
+<li><strong>Copyrighted</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cross Pewter Charms</s:tag>
+    <s:tag>Epoxy Charms</s:tag>
+    <s:tag>Inspiratational Charms</s:tag>
+    <s:tag>Inspirational Silver Charms</s:tag>
+    <s:tag>Religious Charms</s:tag>
+    <s:tag>Two Tone Charms</s:tag>
+    <s:tag>W: 0.625 in/15.88 mm x H: 0.75 in/19.05 mm | 2 g</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247831433</id>
+      <title>1+</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>C906TS</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247831433</id>
+      <title>2+</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>C906TS</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247831433</id>
+      <title>12+</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>C906TS</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247831433</id>
+      <title>24+</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku>C906TS</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247823353</id>
+    <published>2014-02-24T01:57:00-05:00</published>
+    <updated>2014-02-24T01:57:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/gold-and-silver-star-charm"/>
+    <title>Gold and Silver Star Charm</title>
+    <s:type>Charms, Two-tone</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/gold-and-silver-star-charm.jpg?v=1547315446"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Charms, Two-tone<br>
+        <strong>Price: </strong>
+            2.00 - 5.00
+            <a href="https://watchus.com/products/gold-and-silver-star-charm">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gold and Silver Star Charm. Shine bright with this star!</p>
+<ul>
+<li><strong>Sterling Silver Plated 100 Mils</strong></li>
+<li><strong>Made in the U.S.A.</strong></li>
+<li><strong>Three Dimensional</strong></li>
+<li><strong>Designed by Nancy Dreishpoon</strong></li>
+<li><strong>Copyrighted</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Celestial Pewter Charms</s:tag>
+    <s:tag>Medium Charms</s:tag>
+    <s:tag>Star Charms</s:tag>
+    <s:tag>Two Tone Charms</s:tag>
+    <s:tag>W: 0.75 in/19.05 mm x H: 0.875 in/22.23 mm | 2.3 g</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247823353</id>
+      <title>1+</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>C905TG</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247823353</id>
+      <title>2+</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>C905TG</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247823353</id>
+      <title>12+</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>C905TG</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247823353</id>
+      <title>24+</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku>C905TG</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247823333</id>
+    <published>2014-02-24T01:57:00-05:00</published>
+    <updated>2014-02-24T01:57:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/gold-silver-cross-charm"/>
+    <title>Gold and Silver Cross Charm</title>
+    <s:type>Charms, Two-tone</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/gold-and-silver-cross-charm.jpg?v=1547315442"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Charms, Two-tone<br>
+        <strong>Price: </strong>
+            2.00 - 5.00
+            <a href="https://watchus.com/products/gold-silver-cross-charm">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gold and Silver Cross Charm. Check out this cool two-tone cross!</p>
+<ul>
+<li><strong>Sterling Silver Plated 100 Mils</strong></li>
+<li><strong>Made in the U.S.A.</strong></li>
+<li><strong>Three Dimensional</strong></li>
+<li><strong>Designed by Nancy Dreishpoon</strong></li>
+<li><strong>Copyrighted</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cross Pewter Charms</s:tag>
+    <s:tag>Epoxy Charms</s:tag>
+    <s:tag>Inspiratational Charms</s:tag>
+    <s:tag>Inspirational Silver Charms</s:tag>
+    <s:tag>Religious Charms</s:tag>
+    <s:tag>Two Tone Charms</s:tag>
+    <s:tag>W: 0.625 in/15.88 mm x H: 0.75 in/19.05 mm | 2 g</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247823333</id>
+      <title>1+</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>C906TG</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247823333</id>
+      <title>2+</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>C906TG</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247823333</id>
+      <title>12+</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>C906TG</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247823333</id>
+      <title>24+</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku>C906TG</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+</feed>

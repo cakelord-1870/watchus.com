@@ -1,0 +1,747 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://watchus.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://watchus.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://watchus.com/collections/cancer-earrings.atom"/>
+  <title>Watchus</title>
+  <updated>2018-03-23T12:40:09-04:00</updated>
+  <author>
+    <name>Watchus</name>
+  </author>
+  <entry>
+    <id>https://watchus.com/products/579549560862</id>
+    <published>2018-03-23T12:40:09-04:00</published>
+    <updated>2018-03-23T12:40:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/purple-heart-open-cup-earring"/>
+    <title>Heart Purple Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/heart-purple-earrings.jpg?v=1527021101"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: </strong></p>
+<p><strong>Style Number: </strong>E10390815S</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>.925 Sterling Earwires</li>
+<li>Height: 1<sup>1/2"</sup> XåÊWidth: <sup>7/8"</sup>
+</li>
+<li>Weight: 8g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cancer</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/579549560862</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>E10390815S</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/579549495326</id>
+    <published>2018-03-23T12:40:09-04:00</published>
+    <updated>2018-03-23T12:40:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/purple-ribbon-open-cup-earring"/>
+    <title>Pancreatic Cancer Earrings Purple</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/pancreatic-cancer-earrings-purple.jpg?v=1527021097"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: </strong></p>
+<p><strong>Style Number: </strong>E10393915S</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>.925 Sterling Earwires</li>
+<li>Height: 1<sup>1/2"</sup> XåÊWidth: <sup>7/8"</sup>
+</li>
+<li>Weight: 8g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cancer</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/579549495326</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>E10393915S</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/579549265950</id>
+    <published>2018-03-23T12:40:09-04:00</published>
+    <updated>2018-03-23T12:40:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/teal-heart-open-cup-earring"/>
+    <title>Heart Teal Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/heart-teal-earrings.jpg?v=1527021088"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: </strong></p>
+<p><strong>Style Number: </strong>E10390849S</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>.925 Sterling Earwires</li>
+<li>Height: 1<sup>1/2"</sup> XåÊWidth: <sup>7/8"</sup>
+</li>
+<li>Weight: 8g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cancer</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/579549265950</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>E10390849S</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/579549233182</id>
+    <published>2018-03-23T12:40:09-04:00</published>
+    <updated>2018-03-23T12:40:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/teal-ribbon-open-cup-earring"/>
+    <title>Ovarian Cancer Earrings Teal</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/ovarian-cancer-earrings-teal.jpg?v=1527021084"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: </strong></p>
+<p><strong>Style Number: </strong>E10393949S</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>.925 Sterling Earwires</li>
+<li>Height: 1<sup>1/2"</sup> XåÊWidth: <sup>7/8"</sup>
+</li>
+<li>Weight: 8g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cancer</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/579549233182</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>E10393949S</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/579549200414</id>
+    <published>2018-03-23T12:40:09-04:00</published>
+    <updated>2018-03-23T12:40:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/yellow-heart-open-cup-earring"/>
+    <title>Heart Yellow Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/heart-yellow-earrings.jpg?v=1527021079"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: </strong></p>
+<p><strong>Style Number: </strong>E1039088S</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>.925 Sterling Earwires</li>
+<li>Height: 1<sup>1/2"</sup> XåÊWidth: <sup>7/8"</sup>
+</li>
+<li>Weight: 8g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cancer</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/579549200414</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>E1039088S</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/579549167646</id>
+    <published>2018-03-23T12:40:09-04:00</published>
+    <updated>2018-03-23T12:40:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/yellow-ribbon-open-cup-earring"/>
+    <title>Sarcoma Bone Bladder Cancer Earrings Yellow</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/sarcoma-bone-bladder-cancer-earrings-yellow.jpg?v=1527021074"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: </strong></p>
+<p><strong>Style Number: </strong>E1039398S</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>.925 Sterling Earwires</li>
+<li>Height: 1<sup>1/2"</sup> XåÊWidth: <sup>7/8"</sup>
+</li>
+<li>Weight: 8g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cancer</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/579549167646</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>E1039398S</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/579550019614</id>
+    <published>2018-03-23T12:40:08-04:00</published>
+    <updated>2018-03-23T12:40:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/pearl-heart-open-cup-earring"/>
+    <title>Heart White Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/heart-white-earrings.jpg?v=1527021139"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: </strong></p>
+<p><strong>Style Number: </strong>E1039082S</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>.925 Sterling Earwires</li>
+<li>Height: 1<sup>1/2"</sup> XåÊWidth: <sup>7/8"</sup>
+</li>
+<li>Weight: 8g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cancer</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/579550019614</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>E1039082S</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/579549954078</id>
+    <published>2018-03-23T12:40:08-04:00</published>
+    <updated>2018-03-23T12:40:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/pearl-ribbon-open-cup-earring"/>
+    <title>Lung Cancer Earrings White</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/lung-cancer-earrings-white.jpg?v=1527021134"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: </strong></p>
+<p><strong>Style Number: </strong>E1039392S</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>.925 Sterling Earwires</li>
+<li>Height: 1<sup>1/2"</sup> XåÊWidth: <sup>7/8"</sup>
+</li>
+<li>Weight: 8g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cancer</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/579549954078</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>E1039392S</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/579549855774</id>
+    <published>2018-03-23T12:40:08-04:00</published>
+    <updated>2018-03-23T12:40:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/pink-heart-open-cup-earring"/>
+    <title>Heart Pink Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/heart-pink-earrings_0c33f8cd-013d-425f-9f67-8212fc30a232.jpg?v=1587838113"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: </strong></p>
+<p><strong>Style Number: </strong>E10390810S</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>.925 Sterling Earwires</li>
+<li>Height: 1<sup>1/2"</sup> XåÊWidth: <sup>7/8"</sup>
+</li>
+<li>Weight: 8g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cancer</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/579549855774</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>E10390810S</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/579549823006</id>
+    <published>2018-03-23T12:40:08-04:00</published>
+    <updated>2018-03-23T12:40:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/pink-heart-solid-cup-earring"/>
+    <title>Heart Pink Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/heart-pink-earrings.jpg?v=1527021120"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: </strong></p>
+<p><strong>Style Number: </strong>E00190810S</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>.925 Sterling Earwires</li>
+<li>Height: 1<sup>1/2"</sup> XåÊWidth: <sup>7/8"</sup>
+</li>
+<li>Weight: 8g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cancer</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/579549823006</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>E00190810S</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/579549790238</id>
+    <published>2018-03-23T12:40:08-04:00</published>
+    <updated>2018-03-23T12:40:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/pink-ribbon-open-cup-earring"/>
+    <title>Breast Cancer Earrings Pink</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/breast-cancer-earrings-pink_075c1f77-a006-4d38-8c79-d65989f628c8.jpg?v=1587838108"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: </strong></p>
+<p><strong>Style Number: </strong>E10393910S</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>.925 Sterling Earwires</li>
+<li>Height: 1<sup>1/2"</sup> XåÊWidth: <sup>7/8"</sup>
+</li>
+<li>Weight: 8g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cancer</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/579549790238</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>E10393910S</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/579549691934</id>
+    <published>2018-03-23T12:40:08-04:00</published>
+    <updated>2018-03-23T12:40:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/pink-ribbon-solid-cup-earring"/>
+    <title>Breast Cancer Earrings Pink</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/breast-cancer-earrings-pink.jpg?v=1527021106"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: </strong></p>
+<p><strong>Style Number: </strong>E00193910S</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>.925 Sterling Earwires</li>
+<li>Height: 1<sup>1/2"</sup> XåÊWidth: <sup>7/8"</sup>
+</li>
+<li>Weight: 8g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cancer</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/579549691934</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>E00193910S</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/579550707742</id>
+    <published>2018-03-23T12:40:06-04:00</published>
+    <updated>2018-03-23T12:40:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/black-ribbon-open-cup-earring"/>
+    <title>Melanoma Cancer Earrings Black</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/melanoma-cancer-earrings-black.jpg?v=1527021202"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: </strong></p>
+<p><strong>Style Number: </strong>E1039391S</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>.925 Sterling Earwires</li>
+<li>Height: 1<sup>1/2"</sup> XåÊWidth: <sup>7/8"</sup>
+</li>
+<li>Weight: 8g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cancer</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/579550707742</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>E1039391S</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/579550511134</id>
+    <published>2018-03-23T12:40:06-04:00</published>
+    <updated>2018-03-23T12:40:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/grey-heart-open-cup-earring"/>
+    <title>Heart Grey Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/heart-grey-earrings.jpg?v=1527021182"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: </strong></p>
+<p><strong>Style Number: </strong>E10390814S</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>.925 Sterling Earwires</li>
+<li>Height: 1<sup>1/2"</sup> XåÊWidth: <sup>7/8"</sup>
+</li>
+<li>Weight: 8g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cancer</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/579550511134</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>E10390814S</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/579550445598</id>
+    <published>2018-03-23T12:40:06-04:00</published>
+    <updated>2018-03-23T12:40:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/grey-ribbon-open-cup-earring"/>
+    <title>Brain Cancer Earrings Grey</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/brain-cancer-earrings-grey.jpg?v=1527021178"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: </strong></p>
+<p><strong>Style Number: </strong>E10393914S</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>.925 Sterling Earwires</li>
+<li>Height: 1<sup>1/2"</sup> XåÊWidth: <sup>7/8"</sup>
+</li>
+<li>Weight: 8g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cancer</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/579550445598</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>E10393914S</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/579550806046</id>
+    <published>2018-03-23T12:40:05-04:00</published>
+    <updated>2018-03-23T12:40:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/black-heart-open-cup-earring"/>
+    <title>Heart Black Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/heart-black-earrings.jpg?v=1527021212"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: </strong></p>
+<p><strong>Style Number: </strong>E1039081S</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>.925 Sterling Earwires</li>
+<li>Height: 1<sup>1/2"</sup> XåÊWidth: <sup>7/8"</sup>
+</li>
+<li>Weight: 8g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cancer</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/579550806046</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>E1039081S</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+</feed>

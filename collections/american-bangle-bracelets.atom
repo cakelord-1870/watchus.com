@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://watchus.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://watchus.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://watchus.com/collections/american-bangle-bracelets.atom"/>
+  <title>Watchus</title>
+  <updated>2018-04-11T09:53:29-04:00</updated>
+  <author>
+    <name>Watchus</name>
+  </author>
+  <entry>
+    <id>https://watchus.com/products/581055545374</id>
+    <published>2018-04-11T09:53:29-04:00</published>
+    <updated>2018-04-11T09:53:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/tricorn-hat-minute-man-drummer-bangle-bracelet"/>
+    <title>Tricorn Hat Minute Man Drummer Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/tricorn-hat-minute-man-drummer-bangle-bracelet.jpg?v=1527021503"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>The colonial drummer gave instructions to the soldiers by way of song and melody. </strong></p>
+<p><strong>Style Number: </strong>B035694S</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Expandable Sterling Silver Plated 100 Mils</li>
+<li>Size (Diameter): Small 2 1/4<sup>"</sup> or Medium 2 3/8<sup>"</sup>
+</li>
+<li>Weight: 12g</li>
+<li>Made in America</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581055545374</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B035694S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581055479838</id>
+    <published>2018-04-11T09:53:29-04:00</published>
+    <updated>2018-04-11T09:53:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/cannon-tricorn-hat-bangle-bracelet"/>
+    <title>Cannon Tricorn Hat Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/cannon-tricorn-hat-bangle-bracelet.jpg?v=1527021499"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Cannon Tricorn Hat Bangle Bracelet</strong></p>
+<p><strong>Style Number: </strong>B037035S</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Expandable</li>
+<li>Size (Diameter): Small 2 1/4<sup>"</sup> or Medium 2 3/8<sup>"</sup>
+</li>
+<li>Weight: 12g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581055479838</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B037035S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581055414302</id>
+    <published>2018-04-11T09:53:29-04:00</published>
+    <updated>2018-04-11T09:53:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/cannon-minute-man-drummer-bangle-braclet"/>
+    <title>Cannon Minute Man Drummer Bangle Braclet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/cannon-minute-man-drummer-bangle-braclet.jpg?v=1527021494"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>The cannon was a symbol of America's budding nations technological accomplishments of the time. </strong></p>
+<p><strong>Style Number: </strong>B037694S</p>
+<p><strong>Features:</strong></p>
+<p>Expandable Sterling Silver Plated 100 Mils</p>
+<ul>
+<li>Expandable Sterling Silver Plated 100 Mils</li>
+<li>Size (Diameter): Small 2 1/4<sup>"</sup> or Medium 2 3/8<sup>"</sup>
+</li>
+<li>Weight: 12g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581055414302</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B037694S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581055643678</id>
+    <published>2018-04-11T09:53:28-04:00</published>
+    <updated>2018-04-11T09:53:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/tricorn-hat-fife-minute-man-bangle-bracelet"/>
+    <title>Tricorn Hat Fife Minute Man Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/tricorn-hat-fife-minute-man-bangle-bracelet.jpg?v=1527021507"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>The tricorn hat was worn in American Colonial times. At the head of all George Washington's marches a fife was playing his flute going into battle. Remember the minute man who answered the call to arms in Concord Massachusetts.  </strong></p>
+<p><strong>Style Number: </strong>B035687S</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Expandable Sterling Silver Plated 100 Mils</li>
+<li>Size (Diameter): Small 2 1/4<sup>"</sup> or Medium 2 3/8<sup>"</sup>
+</li>
+<li>Weight: 12g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581055643678</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B035687S</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+</feed>

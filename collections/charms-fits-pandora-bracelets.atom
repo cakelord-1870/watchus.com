@@ -1,0 +1,1864 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://watchus.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://watchus.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://watchus.com/collections/charms-fits-pandora-bracelets.atom"/>
+  <title>Watchus</title>
+  <updated>2018-04-05T17:13:55-04:00</updated>
+  <author>
+    <name>Watchus</name>
+  </author>
+  <entry>
+    <id>https://watchus.com/products/247816665</id>
+    <published>2018-04-05T17:13:55-04:00</published>
+    <updated>2018-04-05T17:13:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/18-snake-chain-fits-pandora-charms"/>
+    <title>18&quot; Snake Chain - Fits Pandora Charms</title>
+    <s:type>Fits Pandora Bracelets,Bracelets Necklaces,Jewelry Supplies,New Products,Chain,Most Popular</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/18-snake-chain-fits-pandora-charms.jpg?v=1527013302"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Fits Pandora Bracelets,Bracelets Necklaces,Jewelry Supplies,New Products,Chain,Most Popular<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bracelets</s:tag>
+    <s:tag>Charm Bracelets and Necklaces - Fits Pandora Charms</s:tag>
+    <s:tag>Fits Pandora Necklaces</s:tag>
+    <s:tag>Link Chain</s:tag>
+    <s:tag>Necklaces - Fits Pandora Charms</s:tag>
+    <s:tag>New Chain</s:tag>
+    <s:tag>New Charms - Fits Pandora Bracelets</s:tag>
+    <s:tag>New Jewelry Supplies</s:tag>
+    <s:tag>Pandora Charms</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247816665</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>J951S</s:sku>
+      <s:grams>22</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247833413</id>
+    <published>2018-03-19T12:47:32-04:00</published>
+    <updated>2018-03-19T12:47:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/turquoise-charm-attachment-fits-pandora-bracelets"/>
+    <title>Turquoise Charm Attachment - Fits Pandora Bracelets</title>
+    <s:type>Charm Hanger</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/turquoise-charm-attachment-fits-pandora-bracelets.jpg?v=1527020031"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Charm Hanger<br>
+        <strong>Price: </strong>
+            3.00 - 9.00
+            <a href="https://watchus.com/products/turquoise-charm-attachment-fits-pandora-bracelets">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Charm Hangers</s:tag>
+    <s:tag>Charm Hangers - Fits Pandora Bracelets</s:tag>
+    <s:tag>Letter Beads - Fits Pandora Bracelets</s:tag>
+    <s:tag>Medium Charms</s:tag>
+    <s:tag>New Charms - Fits Pandora Bracelets</s:tag>
+    <s:tag>Pandora Charms</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247833413</id>
+      <title>Default</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>B952S-17</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247833413</id>
+      <title>Default 4+</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>B952S-17</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247833413</id>
+      <title>Default 8+</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>B952S-17</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247833413</id>
+      <title>Default 24+</title>
+      <s:price currency="USD">3.90</s:price>
+      <s:sku>B952S-17</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247833413</id>
+      <title>Default 48+</title>
+      <s:price currency="USD">3.60</s:price>
+      <s:sku>B952S-17</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247833413</id>
+      <title>Default 96+</title>
+      <s:price currency="USD">3.30</s:price>
+      <s:sku>B952S-17</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247833413</id>
+      <title>Default 168+</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>B952S-17</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247833445</id>
+    <published>2014-02-24T02:06:59-05:00</published>
+    <updated>2014-02-24T02:06:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/turquoise-spacer-beads-fit-pandora-bracelets"/>
+    <title>Turquoise Spacer Beads Fit Pandora Bracelets</title>
+    <s:type>Beads - Spacer</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/turquoise-spacer-beads-fit-pandora-bracelets.jpg?v=1527020051"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Beads - Spacer<br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Letter Beads - Fits Pandora Bracelets</s:tag>
+    <s:tag>New Charms - Fits Pandora Bracelets</s:tag>
+    <s:tag>Pandora Charms</s:tag>
+    <s:tag>Spacer Beads - Fits Pandora Bracelets</s:tag>
+    <s:tag>Theme Beads</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247833445</id>
+      <title>Default</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>B953S-17</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247832385</id>
+    <published>2014-02-24T02:05:39-05:00</published>
+    <updated>2014-02-24T02:05:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/star-bead-fits-pandora-bracelets"/>
+    <title>Star Bead - Fits Pandora Bracelets</title>
+    <s:type>Beads - Pandora</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/Star-Bead-Fits-Pandora-Bracelets_141b780c-296d-4fc5-92e1-8b8364f8ae84.jpg?v=1628877457"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Beads - Pandora<br>
+        <strong>Price: </strong>
+            1.00 - 3.00
+            <a href="https://watchus.com/products/star-bead-fits-pandora-bracelets">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Celestial Charms</s:tag>
+    <s:tag>Celestial Pewter Charms</s:tag>
+    <s:tag>Letter Beads</s:tag>
+    <s:tag>Letter Beads - Fits Pandora Bracelets</s:tag>
+    <s:tag>New Charms</s:tag>
+    <s:tag>New Charms - Fits Pandora Bracelets</s:tag>
+    <s:tag>Pandora Charms</s:tag>
+    <s:tag>Star Charms</s:tag>
+    <s:tag>Theme Beads</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247832385</id>
+      <title>Default</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>B223S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832385</id>
+      <title>Default 6+</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>B223S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832385</id>
+      <title>Default 12+</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku>B223S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832385</id>
+      <title>Default 24+</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku>B223S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832385</id>
+      <title>Default 48+</title>
+      <s:price currency="USD">1.25</s:price>
+      <s:sku>B223S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832385</id>
+      <title>Default 144+</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>B223S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247832113</id>
+    <published>2014-02-24T02:05:19-05:00</published>
+    <updated>2014-02-24T02:05:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/smile-bead-fits-pandora-bracelets"/>
+    <title>Smile Bead - Fits Pandora Bracelets</title>
+    <s:type>Beads - Pandora</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/Smile-Bead-Fits-Pandora-Bracelets_79b0f7f1-ac15-4da0-80c8-cc0822d2f976.jpg?v=1628877445"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Beads - Pandora<br>
+        <strong>Price: </strong>
+            1.00 - 3.00
+            <a href="https://watchus.com/products/smile-bead-fits-pandora-bracelets">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fun Pewter Charms</s:tag>
+    <s:tag>Fun Silver Charms</s:tag>
+    <s:tag>Letter Beads</s:tag>
+    <s:tag>Letter Beads - Fits Pandora Bracelets</s:tag>
+    <s:tag>New Charms</s:tag>
+    <s:tag>New Charms - Fits Pandora Bracelets</s:tag>
+    <s:tag>Pandora Charms</s:tag>
+    <s:tag>Theme Beads</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247832113</id>
+      <title>Default</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>B219S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832113</id>
+      <title>Default 6+</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>B219S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832113</id>
+      <title>Default 12+</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku>B219S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832113</id>
+      <title>Default 24+</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku>B219S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832113</id>
+      <title>Default 48+</title>
+      <s:price currency="USD">1.25</s:price>
+      <s:sku>B219S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832113</id>
+      <title>Default 144+</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>B219S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247831853</id>
+    <published>2014-02-24T02:05:04-05:00</published>
+    <updated>2014-02-24T02:05:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/silver-spacer-beads-fit-pandora-bracelets"/>
+    <title>Silver Spacer Beads Fit Pandora Bracelets</title>
+    <s:type>Beads - Spacer</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/silver-spacer-beads-fit-pandora-bracelets.jpg?v=1527019252"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Beads - Spacer<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Letter Beads - Fits Pandora Bracelets</s:tag>
+    <s:tag>New Charms - Fits Pandora Bracelets</s:tag>
+    <s:tag>Spacer Beads - Fits Pandora Bracelets</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247831853</id>
+      <title>Default</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku>B951S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247830517</id>
+    <published>2014-02-24T02:03:53-05:00</published>
+    <updated>2014-02-24T02:03:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/rose-bead-fits-pandora-bracelets"/>
+    <title>Rose Bead - Fits Pandora Bracelets</title>
+    <s:type>Beads - Pandora</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/Rose-Bead-Fits-Pandora-Bracelets_fefee253-96ed-4865-9eb4-9126ed41ee94.jpg?v=1628877402"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Beads - Pandora<br>
+        <strong>Price: </strong>
+            1.00 - 3.00
+            <a href="https://watchus.com/products/rose-bead-fits-pandora-bracelets">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Flower Charms</s:tag>
+    <s:tag>Flower Pewter Charms</s:tag>
+    <s:tag>Garden Pewter Charms</s:tag>
+    <s:tag>Letter Beads</s:tag>
+    <s:tag>Letter Beads - Fits Pandora Bracelets</s:tag>
+    <s:tag>New Charms</s:tag>
+    <s:tag>New Charms - Fits Pandora Bracelets</s:tag>
+    <s:tag>Pandora Charms</s:tag>
+    <s:tag>Theme Beads</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247830517</id>
+      <title>Default</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>B220S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247830517</id>
+      <title>Default 6+</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>B220S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247830517</id>
+      <title>Default 12+</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku>B220S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247830517</id>
+      <title>Default 24+</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku>B220S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247830517</id>
+      <title>Default 48+</title>
+      <s:price currency="USD">1.25</s:price>
+      <s:sku>B220S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247830517</id>
+      <title>Default 144+</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>B220S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247830257</id>
+    <published>2014-02-24T02:03:36-05:00</published>
+    <updated>2014-02-24T02:03:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/red-spacer-beads-fit-pandora-bracelets"/>
+    <title>Red Spacer Beads Fit Pandora Bracelets</title>
+    <s:type>Beads - Spacer</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/red-spacer-beads-fit-pandora-bracelets.jpg?v=1527018635"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Beads - Spacer<br>
+        <strong>Price: </strong>
+            3.00 - 9.00
+            <a href="https://watchus.com/products/red-spacer-beads-fit-pandora-bracelets">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Charm Hangers</s:tag>
+    <s:tag>Letter Beads - Fits Pandora Bracelets</s:tag>
+    <s:tag>Medium Charms</s:tag>
+    <s:tag>New Charms - Fits Pandora Bracelets</s:tag>
+    <s:tag>Pandora Charms</s:tag>
+    <s:tag>Spacer Beads - Fits Pandora Bracelets</s:tag>
+    <s:tag>Theme Beads</s:tag>
+    <s:tag>Value Pack of 6</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247830257</id>
+      <title>Default</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>B953S-15</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247830257</id>
+      <title>Default 4+</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>B953S-15</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247830257</id>
+      <title>Default 8+</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>B953S-15</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247830257</id>
+      <title>Default 24+</title>
+      <s:price currency="USD">3.90</s:price>
+      <s:sku>B953S-15</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247830257</id>
+      <title>Default 48+</title>
+      <s:price currency="USD">3.60</s:price>
+      <s:sku>B953S-15</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247830257</id>
+      <title>Default 96+</title>
+      <s:price currency="USD">3.30</s:price>
+      <s:sku>B953S-15</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247830257</id>
+      <title>Default 168+</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>B953S-15</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247829809</id>
+    <published>2014-02-24T02:03:12-05:00</published>
+    <updated>2014-02-24T02:03:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/question-mark-letter-bead-fits-pandora-bracelets"/>
+    <title>Question Mark Letter Bead - Fits Pandora Bracelets</title>
+    <s:type>Beads - Pandora</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/question-mark-letter-bead-fits-pandora-bracelets.jpg?v=1527018473"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Beads - Pandora<br>
+        <strong>Price: </strong>
+            1.00 - 3.00
+            <a href="https://watchus.com/products/question-mark-letter-bead-fits-pandora-bracelets">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Letter Beads</s:tag>
+    <s:tag>Letter Beads - Fits Pandora Bracelets</s:tag>
+    <s:tag>New Charms - Fits Pandora Bracelets</s:tag>
+    <s:tag>Pandora Charms</s:tag>
+    <s:tag>Sale Charms</s:tag>
+    <s:tag>Theme Beads</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247829809</id>
+      <title>Default</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>B224S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247829809</id>
+      <title>Default 6+</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>B224S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247829809</id>
+      <title>Default 12+</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku>B224S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247829809</id>
+      <title>Default 24+</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku>B224S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247829809</id>
+      <title>Default 48+</title>
+      <s:price currency="USD">1.25</s:price>
+      <s:sku>B224S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247829809</id>
+      <title>Default 144+</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>B224S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247828509</id>
+    <published>2014-02-24T02:02:09-05:00</published>
+    <updated>2014-02-24T02:02:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/peace-bead-fits-pandora-bracelets"/>
+    <title>Peace Bead - Fits Pandora Bracelets</title>
+    <s:type>Beads - Pandora</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/peace-bead-fits-pandora-bracelets.jpg?v=1527017975"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Beads - Pandora<br>
+        <strong>Price: </strong>
+            1.00 - 3.00
+            <a href="https://watchus.com/products/peace-bead-fits-pandora-bracelets">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fun Pewter Charms</s:tag>
+    <s:tag>Fun Silver Charms</s:tag>
+    <s:tag>Letter Beads</s:tag>
+    <s:tag>Letter Beads - Fits Pandora Bracelets</s:tag>
+    <s:tag>New Charms</s:tag>
+    <s:tag>New Charms - Fits Pandora Bracelets</s:tag>
+    <s:tag>Pandora Charms</s:tag>
+    <s:tag>Theme Beads</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247828509</id>
+      <title>Default</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>B221S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247828509</id>
+      <title>Default 6+</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>B221S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247828509</id>
+      <title>Default 12+</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku>B221S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247828509</id>
+      <title>Default 24+</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku>B221S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247828509</id>
+      <title>Default 48+</title>
+      <s:price currency="USD">1.25</s:price>
+      <s:sku>B221S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247828509</id>
+      <title>Default 144+</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>B221S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247826773</id>
+    <published>2014-02-24T02:00:41-05:00</published>
+    <updated>2014-02-24T02:00:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/letter-z-fits-pandora-bracelets"/>
+    <title>Letter Z - Fits Pandora Bracelets</title>
+    <s:type>Beads - Pandora</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/Letter-Z-Fits-Pandora-Bracelets_6e653f80-4354-4960-9a27-dc1b352e955b.jpg?v=1628877354"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Beads - Pandora<br>
+        <strong>Price: </strong>
+            1.00 - 3.00
+            <a href="https://watchus.com/products/letter-z-fits-pandora-bracelets">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Letter Beads</s:tag>
+    <s:tag>Letter Beads - Fits Pandora Bracelets</s:tag>
+    <s:tag>New Charms</s:tag>
+    <s:tag>New Charms - Fits Pandora Bracelets</s:tag>
+    <s:tag>Pandora Charms</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247826773</id>
+      <title>Default</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>B206S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826773</id>
+      <title>Default 6+</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>B206S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826773</id>
+      <title>Default 12+</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku>B206S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826773</id>
+      <title>Default 24+</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku>B206S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826773</id>
+      <title>Default 48+</title>
+      <s:price currency="USD">1.25</s:price>
+      <s:sku>B206S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826773</id>
+      <title>Default 144+</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>B206S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247826749</id>
+    <published>2014-02-24T02:00:39-05:00</published>
+    <updated>2014-02-24T02:00:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/letter-y-fits-pandora-bracelets"/>
+    <title>Letter Y - Fits Pandora Bracelets</title>
+    <s:type>Beads - Pandora</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/Letter-Y-Fits-Pandora-Bracelets_b6a4ff0c-d0d9-4666-b8c1-21b06d54e54c.jpg?v=1628877345"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Beads - Pandora<br>
+        <strong>Price: </strong>
+            1.00 - 3.00
+            <a href="https://watchus.com/products/letter-y-fits-pandora-bracelets">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Letter Beads</s:tag>
+    <s:tag>Letter Beads - Fits Pandora Bracelets</s:tag>
+    <s:tag>New Charms</s:tag>
+    <s:tag>New Charms - Fits Pandora Bracelets</s:tag>
+    <s:tag>Pandora Charms</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247826749</id>
+      <title>Default</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>B205S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826749</id>
+      <title>Default 6+</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>B205S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826749</id>
+      <title>Default 12+</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku>B205S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826749</id>
+      <title>Default 24+</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku>B205S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826749</id>
+      <title>Default 48+</title>
+      <s:price currency="USD">1.25</s:price>
+      <s:sku>B205S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826749</id>
+      <title>Default 144+</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>B205S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247826729</id>
+    <published>2014-02-24T02:00:38-05:00</published>
+    <updated>2014-02-24T02:00:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/letter-x-fits-pandora-bracelets"/>
+    <title>Letter X - Fits Pandora Bracelets</title>
+    <s:type>Beads - Pandora</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/Letter-X-Fits-Pandora-Bracelets_2f31c674-7c6a-4558-9dd9-fe31fa20f0db.jpg?v=1628877336"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Beads - Pandora<br>
+        <strong>Price: </strong>
+            1.00 - 3.00
+            <a href="https://watchus.com/products/letter-x-fits-pandora-bracelets">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Letter Beads</s:tag>
+    <s:tag>Letter Beads - Fits Pandora Bracelets</s:tag>
+    <s:tag>New Charms</s:tag>
+    <s:tag>New Charms - Fits Pandora Bracelets</s:tag>
+    <s:tag>Pandora Charms</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247826729</id>
+      <title>Default</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>B204S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826729</id>
+      <title>Default 6+</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>B204S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826729</id>
+      <title>Default 12+</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku>B204S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826729</id>
+      <title>Default 24+</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku>B204S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826729</id>
+      <title>Default 48+</title>
+      <s:price currency="USD">1.25</s:price>
+      <s:sku>B204S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826729</id>
+      <title>Default 144+</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>B204S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247826705</id>
+    <published>2014-02-24T02:00:37-05:00</published>
+    <updated>2014-02-24T02:00:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/letter-w-fits-pandora-bracelets"/>
+    <title>Letter W - Fits Pandora Bracelets</title>
+    <s:type>Beads - Pandora</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/Letter-W-Fits-Pandora-Bracelets_f4af57d1-c16d-4f5c-b18c-1c89ba367446.jpg?v=1628877327"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Beads - Pandora<br>
+        <strong>Price: </strong>
+            1.00 - 3.00
+            <a href="https://watchus.com/products/letter-w-fits-pandora-bracelets">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Letter Beads</s:tag>
+    <s:tag>Letter Beads - Fits Pandora Bracelets</s:tag>
+    <s:tag>New Charms</s:tag>
+    <s:tag>New Charms - Fits Pandora Bracelets</s:tag>
+    <s:tag>Pandora Charms</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247826705</id>
+      <title>Default</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>B203S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826705</id>
+      <title>Default 6+</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>B203S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826705</id>
+      <title>Default 12+</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku>B203S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826705</id>
+      <title>Default 24+</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku>B203S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826705</id>
+      <title>Default 48+</title>
+      <s:price currency="USD">1.25</s:price>
+      <s:sku>B203S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826705</id>
+      <title>Default 144+</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>B203S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247826677</id>
+    <published>2014-02-24T02:00:36-05:00</published>
+    <updated>2014-02-24T02:00:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/letter-v-fits-pandora-bracelets"/>
+    <title>Letter V - Fits Pandora Bracelets</title>
+    <s:type>Beads - Pandora</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/Letter-V-Fits-Pandora-Bracelets_2a135f91-0d12-486a-b44d-fa394b87ee44.jpg?v=1628877320"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Beads - Pandora<br>
+        <strong>Price: </strong>
+            1.00 - 3.00
+            <a href="https://watchus.com/products/letter-v-fits-pandora-bracelets">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Letter Beads</s:tag>
+    <s:tag>Letter Beads - Fits Pandora Bracelets</s:tag>
+    <s:tag>New Charms</s:tag>
+    <s:tag>New Charms - Fits Pandora Bracelets</s:tag>
+    <s:tag>Pandora Charms</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247826677</id>
+      <title>Default</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>B202S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826677</id>
+      <title>Default 6+</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>B202S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826677</id>
+      <title>Default 12+</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku>B202S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826677</id>
+      <title>Default 24+</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku>B202S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826677</id>
+      <title>Default 48+</title>
+      <s:price currency="USD">1.25</s:price>
+      <s:sku>B202S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826677</id>
+      <title>Default 144+</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>B202S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247826645</id>
+    <published>2014-02-24T02:00:35-05:00</published>
+    <updated>2014-02-24T02:00:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/letter-u-fits-pandora-bracelets"/>
+    <title>Letter U - Fits Pandora Bracelets</title>
+    <s:type>Beads - Pandora</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/Letter-U-Fits-Pandora-Bracelets_1d0d3a0e-b017-49f6-94e1-ac0dda8dc6de.jpg?v=1628877312"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Beads - Pandora<br>
+        <strong>Price: </strong>
+            1.00 - 3.00
+            <a href="https://watchus.com/products/letter-u-fits-pandora-bracelets">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Letter Beads</s:tag>
+    <s:tag>Letter Beads - Fits Pandora Bracelets</s:tag>
+    <s:tag>New Charms</s:tag>
+    <s:tag>New Charms - Fits Pandora Bracelets</s:tag>
+    <s:tag>Pandora Charms</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247826645</id>
+      <title>Default</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>B201S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826645</id>
+      <title>Default 6+</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>B201S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826645</id>
+      <title>Default 12+</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku>B201S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826645</id>
+      <title>Default 24+</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku>B201S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826645</id>
+      <title>Default 48+</title>
+      <s:price currency="USD">1.25</s:price>
+      <s:sku>B201S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826645</id>
+      <title>Default 144+</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>B201S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247826609</id>
+    <published>2014-02-24T02:00:33-05:00</published>
+    <updated>2014-02-24T02:00:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/letter-t-fits-pandora-bracelets"/>
+    <title>Letter T - Fits Pandora Bracelets</title>
+    <s:type>Beads - Pandora</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/letter-t-fits-pandora-bracelets.jpg?v=1527017141"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Beads - Pandora<br>
+        <strong>Price: </strong>
+            1.00 - 3.00
+            <a href="https://watchus.com/products/letter-t-fits-pandora-bracelets">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Letter Beads</s:tag>
+    <s:tag>Letter Beads - Fits Pandora Bracelets</s:tag>
+    <s:tag>New Charms</s:tag>
+    <s:tag>New Charms - Fits Pandora Bracelets</s:tag>
+    <s:tag>Pandora Charms</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247826609</id>
+      <title>Default</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>B200S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826609</id>
+      <title>Default 6+</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>B200S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826609</id>
+      <title>Default 12+</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku>B200S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826609</id>
+      <title>Default 24+</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku>B200S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826609</id>
+      <title>Default 48+</title>
+      <s:price currency="USD">1.25</s:price>
+      <s:sku>B200S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826609</id>
+      <title>Default 144+</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>B200S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247826593</id>
+    <published>2014-02-24T02:00:32-05:00</published>
+    <updated>2014-02-24T02:00:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/letter-s-fits-pandora-beads"/>
+    <title>Letter S - Fits Pandora Beads</title>
+    <s:type>Beads - Pandora</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/letter-s-fits-pandora-beads.jpg?v=1527017133"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Beads - Pandora<br>
+        <strong>Price: </strong>
+            1.00 - 3.00
+            <a href="https://watchus.com/products/letter-s-fits-pandora-beads">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Letter Beads</s:tag>
+    <s:tag>Letter Beads - Fits Pandora Bracelets</s:tag>
+    <s:tag>New Charms</s:tag>
+    <s:tag>New Charms - Fits Pandora Bracelets</s:tag>
+    <s:tag>Pandora Charms</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247826593</id>
+      <title>Default</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>B199S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826593</id>
+      <title>Default 6+</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>B199S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826593</id>
+      <title>Default 12+</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku>B199S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826593</id>
+      <title>Default 24+</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku>B199S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826593</id>
+      <title>Default 48+</title>
+      <s:price currency="USD">1.25</s:price>
+      <s:sku>B199S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826593</id>
+      <title>Default 144+</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>B199S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247826549</id>
+    <published>2014-02-24T02:00:31-05:00</published>
+    <updated>2014-02-24T02:00:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/letter-r-fits-pandora-bracelets"/>
+    <title>Letter R - Fits Pandora Bracelets</title>
+    <s:type>Beads - Pandora</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/letter-r-fits-pandora-bracelets.jpg?v=1527017121"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Beads - Pandora<br>
+        <strong>Price: </strong>
+            1.00 - 3.00
+            <a href="https://watchus.com/products/letter-r-fits-pandora-bracelets">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Letter Beads</s:tag>
+    <s:tag>Letter Beads - Fits Pandora Bracelets</s:tag>
+    <s:tag>New Charms</s:tag>
+    <s:tag>New Charms - Fits Pandora Bracelets</s:tag>
+    <s:tag>Pandora Charms</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247826549</id>
+      <title>Default</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>B198S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826549</id>
+      <title>Default 6+</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>B198S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826549</id>
+      <title>Default 12+</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku>B198S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826549</id>
+      <title>Default 24+</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku>B198S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826549</id>
+      <title>Default 48+</title>
+      <s:price currency="USD">1.25</s:price>
+      <s:sku>B198S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826549</id>
+      <title>Default 144+</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>B198S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247826529</id>
+    <published>2014-02-24T02:00:30-05:00</published>
+    <updated>2014-02-24T02:00:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/letter-q-fits-pandora-bracelets"/>
+    <title>Letter Q - Fits Pandora Bracelets</title>
+    <s:type>Beads - Pandora</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/Letter-Q-Fits-Pandora-Bracelets_94a1a768-56b7-4e00-8c26-5e2c62c67d5a.jpg?v=1628877289"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Beads - Pandora<br>
+        <strong>Price: </strong>
+            1.00 - 3.00
+            <a href="https://watchus.com/products/letter-q-fits-pandora-bracelets">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Letter Beads</s:tag>
+    <s:tag>Letter Beads - Fits Pandora Bracelets</s:tag>
+    <s:tag>New Charms</s:tag>
+    <s:tag>New Charms - Fits Pandora Bracelets</s:tag>
+    <s:tag>Pandora Charms</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247826529</id>
+      <title>Default</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>B197S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826529</id>
+      <title>Default 6+</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>B197S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826529</id>
+      <title>Default 12+</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku>B197S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826529</id>
+      <title>Default 24+</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku>B197S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826529</id>
+      <title>Default 48+</title>
+      <s:price currency="USD">1.25</s:price>
+      <s:sku>B197S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826529</id>
+      <title>Default 144+</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>B197S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247826489</id>
+    <published>2014-02-24T02:00:29-05:00</published>
+    <updated>2014-02-24T02:00:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/letter-p-fits-pandora-bracelets"/>
+    <title>Letter P - Fits Pandora Bracelets</title>
+    <s:type>Beads - Pandora</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/Letter-P-Fits-Pandora-Bracelets_02d7930f-ab9c-4592-8f9a-55aab2d9feca.jpg?v=1628877277"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Beads - Pandora<br>
+        <strong>Price: </strong>
+            1.00 - 3.00
+            <a href="https://watchus.com/products/letter-p-fits-pandora-bracelets">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Letter Beads</s:tag>
+    <s:tag>Letter Beads - Fits Pandora Bracelets</s:tag>
+    <s:tag>New Charms</s:tag>
+    <s:tag>New Charms - Fits Pandora Bracelets</s:tag>
+    <s:tag>Pandora Charms</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247826489</id>
+      <title>Default</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>B196S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826489</id>
+      <title>Default 6+</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>B196S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826489</id>
+      <title>Default 12+</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku>B196S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826489</id>
+      <title>Default 24+</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku>B196S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826489</id>
+      <title>Default 48+</title>
+      <s:price currency="USD">1.25</s:price>
+      <s:sku>B196S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826489</id>
+      <title>Default 144+</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>B196S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247826461</id>
+    <published>2014-02-24T02:00:27-05:00</published>
+    <updated>2014-02-24T02:00:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/letter-o-fits-pandora-bracelets"/>
+    <title>Letter O - Fits Pandora Bracelets</title>
+    <s:type>Beads - Pandora</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/letter-o-fits-pandora-bracelets.jpg?v=1527017090"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Beads - Pandora<br>
+        <strong>Price: </strong>
+            1.00 - 3.00
+            <a href="https://watchus.com/products/letter-o-fits-pandora-bracelets">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Letter Beads</s:tag>
+    <s:tag>Letter Beads - Fits Pandora Bracelets</s:tag>
+    <s:tag>New Charms</s:tag>
+    <s:tag>New Charms - Fits Pandora Bracelets</s:tag>
+    <s:tag>Pandora Charms</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247826461</id>
+      <title>Default</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>B195S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826461</id>
+      <title>Default 6+</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>B195S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826461</id>
+      <title>Default 12+</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku>B195S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826461</id>
+      <title>Default 24+</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku>B195S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826461</id>
+      <title>Default 48+</title>
+      <s:price currency="USD">1.25</s:price>
+      <s:sku>B195S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826461</id>
+      <title>Default 144+</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>B195S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247826441</id>
+    <published>2014-02-24T02:00:27-05:00</published>
+    <updated>2014-02-24T02:00:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/letter-n-fits-pandora-bracelets"/>
+    <title>Letter N - Fits Pandora Bracelets</title>
+    <s:type>Beads - Pandora</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/letter-n-fits-pandora-bracelets.jpg?v=1527017081"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Beads - Pandora<br>
+        <strong>Price: </strong>
+            1.00 - 3.00
+            <a href="https://watchus.com/products/letter-n-fits-pandora-bracelets">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Letter Beads</s:tag>
+    <s:tag>Letter Beads - Fits Pandora Bracelets</s:tag>
+    <s:tag>New Charms</s:tag>
+    <s:tag>New Charms - Fits Pandora Bracelets</s:tag>
+    <s:tag>Pandora Charms</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247826441</id>
+      <title>Default</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>B194S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826441</id>
+      <title>Default 6+</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>B194S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826441</id>
+      <title>Default 12+</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku>B194S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826441</id>
+      <title>Default 24+</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku>B194S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826441</id>
+      <title>Default 48+</title>
+      <s:price currency="USD">1.25</s:price>
+      <s:sku>B194S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826441</id>
+      <title>Default 144+</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>B194S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247826409</id>
+    <published>2014-02-24T02:00:25-05:00</published>
+    <updated>2014-02-24T02:00:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/letter-m-fits-pandora-bracelets"/>
+    <title>Letter M - Fits Pandora Bracelets</title>
+    <s:type>Beads - Pandora</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/letter-m-fits-pandora-bracelets.jpg?v=1527017072"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Beads - Pandora<br>
+        <strong>Price: </strong>
+            1.00 - 3.00
+            <a href="https://watchus.com/products/letter-m-fits-pandora-bracelets">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Letter Beads</s:tag>
+    <s:tag>Letter Beads - Fits Pandora Bracelets</s:tag>
+    <s:tag>New Charms</s:tag>
+    <s:tag>New Charms - Fits Pandora Bracelets</s:tag>
+    <s:tag>Pandora Charms</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247826409</id>
+      <title>Default</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>B193S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826409</id>
+      <title>Default 6+</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>B193S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826409</id>
+      <title>Default 12+</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku>B193S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826409</id>
+      <title>Default 24+</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku>B193S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826409</id>
+      <title>Default 48+</title>
+      <s:price currency="USD">1.25</s:price>
+      <s:sku>B193S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826409</id>
+      <title>Default 144+</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>B193S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247826377</id>
+    <published>2014-02-24T02:00:24-05:00</published>
+    <updated>2014-02-24T02:00:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/letter-l-fits-pandora-bracelets"/>
+    <title>Letter L - Fits Pandora Bracelets</title>
+    <s:type>Beads - Pandora</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/Letter-L-Fits-Pandora-Bracelets_aab706f1-ffba-4e29-bb4f-f87f8219743f.jpg?v=1628877261"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Beads - Pandora<br>
+        <strong>Price: </strong>
+            1.00 - 3.00
+            <a href="https://watchus.com/products/letter-l-fits-pandora-bracelets">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Letter Beads</s:tag>
+    <s:tag>Letter Beads - Fits Pandora Bracelets</s:tag>
+    <s:tag>New Charms</s:tag>
+    <s:tag>New Charms - Fits Pandora Bracelets</s:tag>
+    <s:tag>Pandora Charms</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247826377</id>
+      <title>Default</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>B192S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826377</id>
+      <title>Default 6+</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>B192S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826377</id>
+      <title>Default 12+</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku>B192S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826377</id>
+      <title>Default 24+</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku>B192S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826377</id>
+      <title>Default 48+</title>
+      <s:price currency="USD">1.25</s:price>
+      <s:sku>B192S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247826377</id>
+      <title>Default 144+</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>B192S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+</feed>

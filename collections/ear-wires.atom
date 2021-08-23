@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://watchus.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://watchus.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://watchus.com/collections/ear-wires.atom"/>
+  <title>Watchus</title>
+  <updated>2014-05-02T00:45:42-04:00</updated>
+  <author>
+    <name>Watchus</name>
+  </author>
+  <entry>
+    <id>https://watchus.com/products/247832481</id>
+    <published>2014-05-02T00:45:42-04:00</published>
+    <updated>2014-05-02T00:45:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/sterling-silver-ear-wires"/>
+    <title>Sterling Silver Ear Wires</title>
+    <s:type>Jewelry Supplies</s:type>
+    <s:vendor>Watchus - Charms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/sterling-silver-ear-wires.jpg?v=1527019569"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Watchus - Charms<br>
+        <strong>Type: </strong>Jewelry Supplies<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Components</s:tag>
+    <s:tag>Ear Wires</s:tag>
+    <s:tag>Jewelry Components</s:tag>
+    <s:tag>Sterling Jewelry Findings</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247832481</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>CE03-2</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247831921</id>
+    <published>2014-02-24T02:05:08-05:00</published>
+    <updated>2014-02-24T02:05:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/goldtone-french-clips"/>
+    <title>Gold tone French Clips - 24 pieces per bag</title>
+    <s:type>Jewelry Supplies</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/gold-tone-french-clips-24-pieces-per-bag.jpg?v=1583344916"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Jewelry Supplies<br>
+        <strong>Price: </strong>
+            2.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>CE02G</p>
+<p>Gold tone French Clips </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Components</s:tag>
+    <s:tag>Ear Wires</s:tag>
+    <s:tag>Value Pack of 12</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247831921</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku>CE02S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247828877</id>
+    <published>2014-02-24T02:02:31-05:00</published>
+    <updated>2014-02-24T02:02:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/pewter-color-french-clips"/>
+    <title>Pewter Color French Clips - 12 pieces per bag</title>
+    <s:type>Jewelry Supplies</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/pewter-color-french-clips-12-pieces-per-bag.jpg?v=1583344846"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Jewelry Supplies<br>
+        <strong>Price: </strong>
+            2.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>CE02P</p>
+<p>Pewter Color French Clips - 12 pieces per bag</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Components</s:tag>
+    <s:tag>Ear Wires</s:tag>
+    <s:tag>Jewelry Components</s:tag>
+    <s:tag>Value Pack of 12</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247828877</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.40</s:price>
+      <s:sku>CE02P</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247823597</id>
+    <published>2014-02-24T01:57:59-05:00</published>
+    <updated>2014-02-24T01:57:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/gold-french-clips-12-pieces-per-bag"/>
+    <title>Gold French Clips…12 pieces per bag</title>
+    <s:type>Jewelry Supplies</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/gold-french-clips12-pieces-per-bag.jpg?v=1527015941"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Jewelry Supplies<br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Components</s:tag>
+    <s:tag>Ear Wires</s:tag>
+    <s:tag>Value Pack of 12</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247823597</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>CE02G</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247822125</id>
+    <published>2014-02-24T01:56:45-05:00</published>
+    <updated>2014-02-24T01:56:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/dutch-girl-earring-sterling-earwires-sterling-silver-plated-charms"/>
+    <title>Dutch Girl Earring-Sterling Earwires-Sterling Silver Plated Charms</title>
+    <s:type>Charms,Charms by Category,Jewelry Supplies,Charm Jewelry,Silver Charms</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/dutch-girl-earring-sterling-earwires-sterling-silver-plated-charms.jpg?v=1527015235"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Charms,Charms by Category,Jewelry Supplies,Charm Jewelry,Silver Charms<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Charm Earrings</s:tag>
+    <s:tag>Charm Trail</s:tag>
+    <s:tag>Ear Wires</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Quilt Guild</s:tag>
+    <s:tag>Quilt Store</s:tag>
+    <s:tag>Quilting Charms</s:tag>
+    <s:tag>Quilting Pewter Charms</s:tag>
+    <s:tag>Quilting Silver Charm</s:tag>
+    <s:tag>Shop Hop</s:tag>
+    <s:tag>Wholesale Charms</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247822125</id>
+      <title>Default</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>E1003</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247821641</id>
+    <published>2014-02-24T01:56:22-05:00</published>
+    <updated>2014-02-24T01:56:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/daisy-earring-sterling-earwires-sterling-silver-plated"/>
+    <title>Daisy Earring-Sterling Earwires-Sterling Silver Plated</title>
+    <s:type>Charms,Charms by Category,Jewelry Supplies,Charm Jewelry,Silver Charms,New Products</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/daisy-earring-sterling-earwires-sterling-silver-plated.jpg?v=1527015043"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Charms,Charms by Category,Jewelry Supplies,Charm Jewelry,Silver Charms,New Products<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Charm Earrings</s:tag>
+    <s:tag>Charm Trail</s:tag>
+    <s:tag>Ear Wires</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>New Charm Jewelry</s:tag>
+    <s:tag>Quilt Guild</s:tag>
+    <s:tag>Quilt Store</s:tag>
+    <s:tag>Quilting Charms</s:tag>
+    <s:tag>Quilting Pewter Charms</s:tag>
+    <s:tag>Quilting Silver Charm</s:tag>
+    <s:tag>Sewing &amp; Knitting</s:tag>
+    <s:tag>Shop Hop</s:tag>
+    <s:tag>Wholesale Charms</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247821641</id>
+      <title>Default</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>E1004</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+</feed>

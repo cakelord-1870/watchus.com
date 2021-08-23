@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://watchus.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://watchus.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://watchus.com/collections/watches.atom"/>
+  <title>Watchus</title>
+  <updated>2018-03-23T12:40:28-04:00</updated>
+  <author>
+    <name>Watchus</name>
+  </author>
+  <entry>
+    <id>https://watchus.com/products/247825917</id>
+    <published>2018-03-23T12:40:28-04:00</published>
+    <updated>2018-03-23T12:40:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/ladies-western-cotton-weave-watch"/>
+    <title>Ladies Western Cotton Weave Watch</title>
+    <s:type>Watch</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/ladies-western-cotton-weave-watch.jpg?v=1527016875"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Watch<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ladies Western Cotton Weave Watch. Japan Miyota Movement.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Handmade Watches</s:tag>
+    <s:tag>New Fashion Watches</s:tag>
+    <s:tag>Silver Watch Faces</s:tag>
+    <s:tag>Women&apos;s Watches</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247825917</id>
+      <title>Default</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>WL001</s:sku>
+      <s:grams>22</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247831825</id>
+    <published>2018-03-23T12:40:27-04:00</published>
+    <updated>2018-03-23T12:40:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/silver-scalloped-southwestern-designed-watch-with-a-black-braided-leather-band-and-a-silver-buckle"/>
+    <title>Silver Scalloped Southwestern Designed Watch with a Black Braided Leather Band and a Silver Buckle.</title>
+    <s:type>Watch</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/silver-scalloped-southwestern-designed-watch-with-a-black-braided-leather-band-and-a-silver-buckle.jpg?v=1527019230"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Watch<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silver Scalloped Southwestern Designed Watch with a Black Braided Leather Band and a Silver Buckle.. Japan Miyota Movement.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12mm Watch Faces</s:tag>
+    <s:tag>Handmade Watches</s:tag>
+    <s:tag>Novelty Watch Faces</s:tag>
+    <s:tag>Ribbon Watch Faces</s:tag>
+    <s:tag>Silver Watch Faces</s:tag>
+    <s:tag>Women&apos;s Watches</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247831825</id>
+      <title>Default</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>W02</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247831813</id>
+    <published>2018-03-23T12:40:27-04:00</published>
+    <updated>2018-03-23T12:40:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/silver-scalloped-southwestern-designed-watch-with-a-black-bow-leather-band-and-a-silver-buckle"/>
+    <title>Silver Scalloped Southwestern Designed Watch with a Black Bow Leather Band and a Silver Buckle.</title>
+    <s:type>Watch</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/silver-scalloped-southwestern-designed-watch-with-a-black-bow-leather-band-and-a-silver-buckle.jpg?v=1527019226"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Watch<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silver Scalloped Southwestern Designed Watch with a Black Bow Leather Band and a Silver Buckle.</p>
+<p>Japan Miyota Movement.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12mm Watch Faces</s:tag>
+    <s:tag>Charm Bracelets</s:tag>
+    <s:tag>Handmade Watches</s:tag>
+    <s:tag>Novelty Watch Faces</s:tag>
+    <s:tag>Ribbon Watch Faces</s:tag>
+    <s:tag>Silver Watch Faces</s:tag>
+    <s:tag>Women&apos;s Watches</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247831813</id>
+      <title>Default</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>WW01</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://watchus.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://watchus.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://watchus.com/collections/wine-earrings.atom"/>
+  <title>Watchus</title>
+  <updated>2018-03-23T12:40:15-04:00</updated>
+  <author>
+    <name>Watchus</name>
+  </author>
+  <entry>
+    <id>https://watchus.com/products/579547562014</id>
+    <published>2018-03-23T12:40:15-04:00</published>
+    <updated>2018-03-23T12:40:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/pearl-corkscrew-earrings"/>
+    <title>Pearl Corkscrew Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/pearl-corkscrew-earrings.jpg?v=1527020903"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: </strong></p>
+<p><strong>Style Number:åÊ</strong>E0132519</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>.925 Sterling Earwires</li>
+<li>Height: 1<sup>1/2"</sup> XåÊWidth: <sup>7/8"</sup>
+</li>
+<li>Weight: 8g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cork screw</s:tag>
+    <s:tag>Drinking</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/579547562014</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>E0132519</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+</feed>

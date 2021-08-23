@@ -1,0 +1,1189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://watchus.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://watchus.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://watchus.com/collections/animals-bangle-bracelets.atom"/>
+  <title>Watchus</title>
+  <updated>2018-04-11T09:53:33-04:00</updated>
+  <author>
+    <name>Watchus</name>
+  </author>
+  <entry>
+    <id>https://watchus.com/products/581055021086</id>
+    <published>2018-04-11T09:53:33-04:00</published>
+    <updated>2018-04-11T09:53:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/b079512-mermaid-starfish-bangle-bracelet"/>
+    <title>Mermaid Starfish Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/mermaid-starfish-bangle-bracelet.jpg?v=1527021443"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Style Number: </strong>B079512S</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Expandable</li>
+<li>Sterling Silver Plated</li>
+<li>Size (Diameter): Small  2 1/4"<span> </span>  Medium  2 3/8"</li>
+<li>Weight: 12g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Animal</s:tag>
+    <s:tag>Fairy Tale</s:tag>
+    <s:tag>Nautical</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581055021086</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B079512SS</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581054988318</id>
+    <published>2018-04-11T09:53:33-04:00</published>
+    <updated>2018-04-11T09:53:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/paw-dog-house-bangle-bracelet"/>
+    <title>Paw Dog House Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/paw-dog-house-bangle-bracelet.jpg?v=1527021438"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Style Number: </strong>B641643S</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Expandable</li>
+<li>Sterling Silver Plated</li>
+<li>Size (Diameter): Small  2 1/4"<span> </span>  Medium  2 3/8"</li>
+<li>Weight: 12g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Animal</s:tag>
+    <s:tag>Dog</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581054988318</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B641643S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581054955550</id>
+    <published>2018-04-11T09:53:33-04:00</published>
+    <updated>2018-04-11T09:53:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/starfish-sand-dollar-bangle-bracelet"/>
+    <title>Starfish Sand Dollar Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/starfish-sand-dollar-bangle-bracelet.jpg?v=1527021433"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Style Number: </strong>B512420S</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Expandable</li>
+<li>Sterling Silver Plated</li>
+<li>Size (Diameter): Small  2 1/4"<span> </span>  Medium  2 3/8"</li>
+<li>Weight: 12g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Animal</s:tag>
+    <s:tag>Nautical</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581054955550</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B512420S</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581055086622</id>
+    <published>2018-04-11T09:53:32-04:00</published>
+    <updated>2018-04-11T09:53:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/palm-tree-alligator-bangle-bracelet"/>
+    <title>Palm Tree Alligator Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/palm-tree-alligator-bangle-bracelet.jpg?v=1527021454"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Style Number: </strong>B713646S</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Expandable</li>
+<li>Sterling Silver Plated</li>
+<li>Size (Diameter): Small  2 1/4"<span> </span>  Medium  2 3/8"</li>
+<li>Weight: 12g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Alligator</s:tag>
+    <s:tag>Animal</s:tag>
+    <s:tag>Vacations</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581055086622</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B713646S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581055217694</id>
+    <published>2018-04-11T09:53:31-04:00</published>
+    <updated>2018-04-11T09:53:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/bear-cabin-bangle-bracelet"/>
+    <title>Bear Cabin Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/bear-cabin-bangle-bracelet.jpg?v=1527021473"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Remember the time you went camping and had to run to the cabin after seeing that wild black bear. Let this lovely bangle be a reminder of a simple and exciting day in the woods.</p>
+<ul>
+<li>Expandable Sterling Silver Plated 100 Mils</li>
+<li>Size (Diameter): Small 2 1/4<sup>"</sup> or Medium 2 3/8<sup>"</sup>
+</li>
+<li>Weight: 12g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Animal</s:tag>
+    <s:tag>Bear</s:tag>
+    <s:tag>Wilderness</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581055217694</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B673777S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581056102430</id>
+    <published>2018-04-11T09:53:24-04:00</published>
+    <updated>2018-04-11T09:53:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/cat-boo-bangle-bracelet"/>
+    <title>Cat - BOO Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/cat-boo-bangle-bracelet.jpg?v=1527021564"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Sterling plated adjustable bangle with cat charm. The bangle size is 2 3/4" and weighs .13 lbs. Made in Derby Connecticut by Sam and Nan</span></p>
+<p><span>B320358371S</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Animal</s:tag>
+    <s:tag>Cat</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581056102430</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B320358371S</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581056069662</id>
+    <published>2018-04-11T09:53:24-04:00</published>
+    <updated>2018-04-11T09:53:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/spider-boo-bangle-bracelet"/>
+    <title>Spider - BOO Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/spider-boo-bangle-bracelet.jpg?v=1527021559"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Sterling plated adjustable charm bangle. The bracelet size is 2 3/4" and weighs .35 lbs. Made in Derby Connecticut by Sam and Nan.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Animal</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581056069662</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B308358371S</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581057544222</id>
+    <published>2018-04-11T09:53:15-04:00</published>
+    <updated>2018-04-11T09:53:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/charm-hummingbird-bangle-bracelet"/>
+    <title>Hummingbird Charm Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/hummingbird-charm-bangle-bracelet.jpg?v=1527021733"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Watch this carefree bird as it flits from flower to flower gathering nectar. This bangle features a hummingbird and elder flower charm.<br></strong></p>
+<p><strong>Our Charm Bangle Bracelet is Handmade by SamandNan in America.<br></strong></p>
+<p><strong>Style Number: </strong>B423578S</p>
+<p><strong>Features: </strong><span style="text-decoration: underline;">Expandable and Hand Made in America</span> !</p>
+<p><strong>Note: </strong>Please add (2) weeks delivery time for 24K Gold Plated!</p>
+<ul>
+<li>Size: Small-Medium 2<sup>3/8"</sup> Round  or  Medium-Large 2<sup>1/2" </sup>Round</li>
+<li>Weight: 12g</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Animal</s:tag>
+    <s:tag>Bird</s:tag>
+    <s:tag>Flower</s:tag>
+    <s:tag>Hummingbird</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581057544222</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B423578S-S</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581057511454</id>
+    <published>2018-04-11T09:53:15-04:00</published>
+    <updated>2018-04-11T09:53:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/charm-zebra-bangle-bracelet"/>
+    <title>Zebra Charm Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/zebra-charm-bangle-bracelet.jpg?v=1527021729"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>This bangle features a running zebra and etruscan heart charm.<br></strong></p>
+<p><strong>Our Charm Bangle Bracelet is Handmade by SamandNan in America.<br></strong></p>
+<p><strong>Style Number: </strong>B588040S</p>
+<p><strong>Features: </strong><span style="text-decoration: underline;">Expandable and Hand Made in America</span> !</p>
+<p><strong>Note: </strong>Please add (2) weeks delivery time for 24K Gold Plated!</p>
+<ul>
+<li>Size: Small-Medium 2<sup>3/8"</sup> Round  or  Medium-Large 2<sup>1/2" </sup>Round</li>
+<li>Weight: 12g</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Animal</s:tag>
+    <s:tag>Heart</s:tag>
+    <s:tag>Safari</s:tag>
+    <s:tag>Zebra</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581057511454</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B588040S-S</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581057675294</id>
+    <published>2018-04-11T09:53:14-04:00</published>
+    <updated>2018-04-11T09:53:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/charm-giraffe-bangle-bracelet"/>
+    <title>Giraffe Charm Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/giraffe-charm-bangle-bracelet.jpg?v=1527021743"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>The gentle giraffe is one of the safari's most beloved animals, this beautiful bangle bracelet features a walking giraffe and puffed heart charm.<br></strong></p>
+<p><strong>Our Charm Bangle Bracelet is Handmade by SamandNan in America.<br></strong></p>
+<p><strong>Style Number: </strong>B527478S</p>
+<p><strong>Features: </strong><span style="text-decoration: underline;">Expandable and Hand Made in America</span> !</p>
+<p><strong>Note: </strong>Please add (2) weeks delivery time for 24K Gold Plated!</p>
+<ul>
+<li>Size: Small 2 1/8<sup>"</sup>  or  Medium- 2 3/8<sup>"</sup>
+</li>
+<li>Weight: 12g</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Animal</s:tag>
+    <s:tag>Giraffe</s:tag>
+    <s:tag>Safari</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581057675294</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B527478S-S</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581058363422</id>
+    <published>2018-04-11T09:53:10-04:00</published>
+    <updated>2018-04-11T09:53:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/charm-dragonfly-disk-bangle-bracelet"/>
+    <title>Dragonfly Disk Charm Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/dragonfly-disk-charm-bangle-bracelet.jpg?v=1527021798"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Embrace the magic of sitting next to a pond on a warm summer day watching the dragonflies zip gracefully around the water with this summery bangle bracelet.<br></strong></p>
+<p><strong>Our Charm Bangle Bracelet is Handmade by SamandNan in America.<br></strong></p>
+<p><strong>Style Number: </strong>B608501S</p>
+<p><strong>Features: </strong><span style="text-decoration: underline;">Expandable and Hand Made in America</span> !</p>
+<p><strong>Note: </strong>Please add (2) weeks delivery time for 24K Gold Plated!</p>
+<ul>
+<li>Size: Small-Medium 2<sup>3/8"</sup> Round  or  Medium-Large 2<sup>1/2" </sup>Round</li>
+<li>Weight: 12g</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Animal</s:tag>
+    <s:tag>Bug</s:tag>
+    <s:tag>Dragonfly</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581058363422</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B608501S-S</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581058297886</id>
+    <published>2018-04-11T09:53:10-04:00</published>
+    <updated>2018-04-11T09:53:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/charm-dragonfly-daisy-bangle-bracelet"/>
+    <title>Dragonfly - Daisy Charm Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/dragonfly-daisy-charm-bangle-bracelet.jpg?v=1527021794"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Embrace the magic of sitting next to a pond on a warm summer day watching the dragonflies zip gracefully around the water with this summery bangle bracelet.<br></strong></p>
+<p><strong>Our Charm Bangle Bracelet is Handmade by SamandNan in America.<br></strong></p>
+<p><strong>Style Number: </strong>B151146S</p>
+<p><strong>Features: </strong><span style="text-decoration: underline;">Expandable and Hand Made in America</span> !</p>
+<p><strong>Note: </strong>Please add (2) weeks delivery time for 24K Gold Plated!</p>
+<ul>
+<li>Size: Small-Medium 2<sup>3/8"</sup> Round  or  Medium-Large 2<sup>1/2" </sup>Round</li>
+<li>Weight: 12g</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Animal</s:tag>
+    <s:tag>Bug</s:tag>
+    <s:tag>Daisy</s:tag>
+    <s:tag>Dragonfly</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581058297886</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B151146S-S</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581058527262</id>
+    <published>2018-04-11T09:53:09-04:00</published>
+    <updated>2018-04-11T09:53:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/charm-paw-bone-bangle-bracelet"/>
+    <title>Paw Bone Charm Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/paw-bone-charm-bangle-bracelet.jpg?v=1527021815"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Perfect for any dog lover this bangle bracelet features a paw and bone charm, making it an ideal companion for one of our breed specific bangles.<br></strong></p>
+<p><strong>Our Charm Bangle Bracelet is Handmade by SamandNan in America.<br></strong></p>
+<p><strong>Style Number: </strong>B641548S</p>
+<p><strong>Features: </strong><span style="text-decoration: underline;">Expandable and Hand Made in America</span> !</p>
+<ul>
+<li>Size: Small 2 1/4<sup>"</sup>  or  Medium 2 3/8<sup>" </sup>Round</li>
+<li>Weight: 12g</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Animal</s:tag>
+    <s:tag>Bone</s:tag>
+    <s:tag>Dog</s:tag>
+    <s:tag>Paw</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581058527262</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B641548S</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581058494494</id>
+    <published>2018-04-11T09:53:09-04:00</published>
+    <updated>2018-04-11T09:53:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/charm-jack-russell-terrier-bangle-bracelet"/>
+    <title>Jack Russell Fire Hydrant Charm Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/jack-russell-fire-hydrant-charm-bangle-bracelet.jpg?v=1527021811"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>The energetic Jack Russell Terrier is accompanied by our fire hydrant charm in this playful bangle bracelet design.<br></strong></p>
+<p><strong>Our Charm Bangle Bracelet is Handmade by SamandNan in America.<br></strong></p>
+<p><strong>Style Number: </strong>B098579S</p>
+<p><strong>Features: </strong><span style="text-decoration: underline;">Expandable and Hand Made in America</span> !</p>
+<ul>
+<li>Size: Small 2 1/4<sup>"</sup>  or  Medium 2 3/8<sup>"</sup>
+</li>
+<li>Weight: 12g</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Animal</s:tag>
+    <s:tag>Bone</s:tag>
+    <s:tag>Dog</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581058494494</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B098579S</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581058625566</id>
+    <published>2018-04-11T09:53:08-04:00</published>
+    <updated>2018-04-11T09:53:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/dachshund-charm-bangle-bracelet"/>
+    <title>Dachshund Dog Bowl Charm Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/dachshund-dog-bowl-charm-bangle-bracelet.jpg?v=1527021828"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Celebrate your beautiful dachshund puppy with this amazingly sweet bangle bracelet.<br></strong></p>
+<p><strong>Our Charm Bangle Bracelet is Handmade by SamandNan in America.<br></strong></p>
+<p><strong>Style Number: </strong>B095549S</p>
+<p><strong>Features: </strong><span style="text-decoration: underline;">Expandable and Hand Made in America</span> !</p>
+<ul>
+<li>Size: Small 2 1/4<sup>"</sup>  or  Medium-Large 2 3/8<sup>"</sup>
+</li>
+<li>Weight: 12g</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Animal</s:tag>
+    <s:tag>Dog</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581058625566</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B095549S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581058658334</id>
+    <published>2018-04-11T09:53:07-04:00</published>
+    <updated>2018-04-11T09:53:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/charm-climbing-cat-ball-of-yarn-bangle-bracelet"/>
+    <title>Cat Ball of Yarn Charm Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/cat-ball-of-yarn-charm-bangle-bracelet.jpg?v=1527021832"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>This bangle features our playful climbing cat charm with our highly detailed ball of yarn.<br></strong></p>
+<p><strong>Our Charm Bangle Bracelet is Handmade by SamandNan in America.<br></strong></p>
+<p><strong>Style Number: </strong>B092283S</p>
+<p><strong>Features: </strong><span style="text-decoration: underline;">Expandable and Hand Made in America</span> !</p>
+<ul>
+<li>Size: Small 2 1/4<sup>"</sup>  or  Medium 2 3/8<sup>"</sup>
+</li>
+<li>Weight: 12g</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Animal</s:tag>
+    <s:tag>Cat</s:tag>
+    <s:tag>Yarn</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581058658334</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B092283S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581059182622</id>
+    <published>2018-04-11T09:53:04-04:00</published>
+    <updated>2018-04-11T09:53:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/charm-cat-fish-skeleton-bangle-bracelet"/>
+    <title>Cat Fish Skeleton Charm Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/cat-fish-skeleton-charm-bangle-bracelet.jpg?v=1527021865"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>This bangle has a real sense of humor! It is the perfect gift for any cat lover.<br></strong></p>
+<p><strong>Our Charm Bangle Bracelet is Handmade by SamandNan in America.<br></strong></p>
+<p><strong>Style Number: </strong>B734732S</p>
+<p><strong>Features: </strong><span style="text-decoration: underline;">Expandable and Hand Made in America</span> !</p>
+<ul>
+<li>Size: Small 2 1/4<sup>"</sup>  or  Medium 2 3/8<sup>"</sup>
+</li>
+<li>Weight: 12g</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Animal</s:tag>
+    <s:tag>Cat</s:tag>
+    <s:tag>Nautical</s:tag>
+    <s:tag>Pet</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581059182622</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B734732S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581059280926</id>
+    <published>2018-04-11T09:53:03-04:00</published>
+    <updated>2018-04-11T09:53:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/charm-australian-sea-dragon-jellyfish-bangle-bracelet"/>
+    <title>Australian Sea Dragon Jellyfish Charm Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/australian-sea-dragon-jellyfish-charm-bangle-bracelet.jpg?v=1527021873"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Visit a land down under and experience some really fun new sea life. Be careful to stay away from the jellyfish though, you don't want to get stung! <br></strong></p>
+<p><strong>Our Charm Bangle Bracelet is Handmade by SamandNan in America.<br></strong></p>
+<p><strong>Style Number: </strong>B822823S</p>
+<p><strong>Features: </strong><span style="text-decoration: underline;">Expandable and Hand Made in America</span> !</p>
+<ul>
+<li>Size: Small-Medium 2 1/4<sup>"</sup>   or  Medium 2 3/8"<sup> </sup>
+</li>
+<li>Weight: 12g</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Animal</s:tag>
+    <s:tag>Australian Sea Dragon</s:tag>
+    <s:tag>Fairy Tale</s:tag>
+    <s:tag>Jelly Fish</s:tag>
+    <s:tag>Nautical</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581059280926</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B822823S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581059248158</id>
+    <published>2018-04-11T09:53:03-04:00</published>
+    <updated>2018-04-11T09:53:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/charm-bass-trout-bangle-bracelet"/>
+    <title>Bass Trout Charm Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/bass-trout-charm-bangle-bracelet.jpg?v=1527021869"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>The perfect gift for your angler. Prove to the world that you know how to catch the biggest fish of the day. Woot woot!<br></strong></p>
+<p><strong>Our Charm Bangle Bracelet is Handmade by SamandNan in America.<br></strong></p>
+<p><strong>Style Number: </strong>B581514S</p>
+<p><strong>Features: </strong><span style="text-decoration: underline;">Expandable and Hand Made in America</span> !</p>
+<ul>
+<li>Size: Small 2 1/4<sup>"</sup> or  Medium 2 3/8<sup>"</sup>
+</li>
+<li>Weight: 12g</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Animal</s:tag>
+    <s:tag>Fish</s:tag>
+    <s:tag>Nautical</s:tag>
+    <s:tag>Trout</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581059248158</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B581514S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581059411998</id>
+    <published>2018-04-11T09:53:02-04:00</published>
+    <updated>2018-04-11T09:53:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/charm-penguin-woven-fish-bangle-bracelet"/>
+    <title>Penguin Woven Fish Charm Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/penguin-woven-fish-charm-bangle-bracelet.jpg?v=1527021881"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Stay young at heart with this playful penguin and woven fish bangle bracelet.<br></strong></p>
+<p><strong>Our Charm Bangle Bracelet is Handmade by SamandNan in America.<br></strong></p>
+<p><strong>Style Number: </strong>B765614S</p>
+<p><strong>Features: </strong><span style="text-decoration: underline;">Expandable and Hand Made in America</span> !</p>
+<ul>
+<li>Size: Small 2 1/4<sup>"</sup>  or  Medium 2 3/4<sup>"</sup>
+</li>
+<li>Weight: 12g</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Animal</s:tag>
+    <s:tag>Fish</s:tag>
+    <s:tag>Nautical</s:tag>
+    <s:tag>Ocean</s:tag>
+    <s:tag>Penguin</s:tag>
+    <s:tag>Sea</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581059411998</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B765614S</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581059346462</id>
+    <published>2018-04-11T09:53:02-04:00</published>
+    <updated>2018-04-11T09:53:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/charm-penguin-bangle-bracelet"/>
+    <title>Penguin Charm Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/penguin-charm-bangle-bracelet.jpg?v=1527021877"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>We mixed a bit of reality with a dash of whimsy in this playful bangle bracelet featuring two types of penguin charms.<br></strong></p>
+<p><strong>Our Charm Bangle Bracelet is Handmade by SamandNan in America.<br></strong></p>
+<p><strong>Style Number: </strong>B765497S</p>
+<p><strong>Features: </strong><span style="text-decoration: underline;">Expandable and Hand Made in America</span> !</p>
+<ul>
+<li>Size: Small 2 1/4<sup>"</sup>  or  Medium 2 3/8<sup>"</sup>
+</li>
+<li>Weight: 12g</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Animal</s:tag>
+    <s:tag>Nautical</s:tag>
+    <s:tag>Ocean</s:tag>
+    <s:tag>Penguin</s:tag>
+    <s:tag>Sea</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581059346462</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B765497S</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581059477534</id>
+    <published>2018-04-11T09:53:01-04:00</published>
+    <updated>2018-04-11T09:53:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/charm-betta-dragonfly-bangle-bracelet"/>
+    <title>Betta Fish Dragonfly Charm Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/betta-fish-dragonfly-charm-bangle-bracelet.jpg?v=1527021890"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>This charming bangle features the Betta fish with his flowing fins, and the busy dragonfly, buzzing from shallow pond to pond visiting all of his different fish friends. <br></strong></p>
+<p><strong>Our Charm Bangle Bracelet is Handmade by SamandNan in America.<br></strong></p>
+<p><strong>Style Number: </strong>B574151S</p>
+<p><strong>Features: </strong><span style="text-decoration: underline;">Expandable and Hand Made in America</span> !</p>
+<ul>
+<li>Size: Small 2 1/4<sup>"</sup>  or  Medium 2 3/8<sup>"</sup>
+</li>
+<li>Weight: 12g</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Animal</s:tag>
+    <s:tag>Beach</s:tag>
+    <s:tag>Betta</s:tag>
+    <s:tag>Bug</s:tag>
+    <s:tag>Dragonfly</s:tag>
+    <s:tag>Fish</s:tag>
+    <s:tag>Nautical</s:tag>
+    <s:tag>Tropical</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581059477534</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B574151S</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581059543070</id>
+    <published>2018-04-11T09:53:00-04:00</published>
+    <updated>2018-04-11T09:53:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/charm-angel-fish-bangle-bracelet"/>
+    <title>Angel Fish Charm Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/angel-fish-charm-bangle-bracelet.jpg?v=1527021898"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>For all you fans of aquatic life we have this stunning bangle bracelet featuring the angel fish and his fishy pal charm. Perfect for aquarium enthusiasts and scuba divers!<br></strong></p>
+<p><strong>Our Charm Bangle Bracelet is Handmade by SamandNan in America.<br></strong></p>
+<p><strong>Style Number: </strong>B165076S</p>
+<p><strong>Features: </strong><span style="text-decoration: underline;">Expandable and Hand Made in America</span> !</p>
+<ul>
+<li>Size: Small  2 1/4"   or   Medium  2 3/8"<sup> </sup>
+</li>
+<li>Weight: 12g</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Animal</s:tag>
+    <s:tag>Fish</s:tag>
+    <s:tag>Nautical</s:tag>
+    <s:tag>Ocean</s:tag>
+    <s:tag>Sea</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581059543070</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B165076S</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581059772446</id>
+    <published>2018-04-11T09:52:58-04:00</published>
+    <updated>2018-04-11T09:52:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/charm-shark-marlin-bangle-bracelet"/>
+    <title>Shark Marlin Charm Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/shark-marlin-charm-bangle-bracelet.jpg?v=1527021919"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Relive the experience and excitement of deep sea fishing with this fierce and playful shark and marlin bangle bracelet.<br></strong></p>
+<p><strong>Our Charm Bangle Bracelet is Handmade by SamandNan in America.<br></strong></p>
+<p><strong>Style Number: </strong>B825465S</p>
+<p><strong>Features: </strong><span style="text-decoration: underline;">Expandable and Hand Made in America</span> !</p>
+<ul>
+<li>Size: Small 2 1/4<sup>"</sup>  or  Medium 2 3/8<sup>" </sup>
+</li>
+<li>Weight: 12g</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Animal</s:tag>
+    <s:tag>Nautical</s:tag>
+    <s:tag>Ocean</s:tag>
+    <s:tag>Sea</s:tag>
+    <s:tag>Shark</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581059772446</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B825465S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581059969054</id>
+    <published>2018-04-11T09:52:57-04:00</published>
+    <updated>2018-04-11T09:52:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/charm-crab-scallop-shell-bracelet-bangle"/>
+    <title>Crab Scallop Shell Charm Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/crab-scallop-shell-charm-bangle-bracelet.jpg?v=1527021936"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>This charming bangle bracelet features our highly detailed crab and scallop sea shell charms.<br></strong></p>
+<p><strong>Our Charm Bangle Bracelet is Handmade by SamandNan in America.<br></strong></p>
+<p><strong>Style Number: </strong>B563418S</p>
+<p><strong>Features: </strong><span style="text-decoration: underline;">Expandable and Hand Made in America</span> !</p>
+<ul>
+<li>Size: Small 2 1/4<sup>"  </sup>or  Medium 2 3/8<sup>"</sup>
+</li>
+<li>Weight: 12g</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Animal</s:tag>
+    <s:tag>Crab</s:tag>
+    <s:tag>Nautical</s:tag>
+    <s:tag>Ocean</s:tag>
+    <s:tag>Sea</s:tag>
+    <s:tag>Shell</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581059969054</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B563418S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+</feed>

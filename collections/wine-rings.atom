@@ -1,0 +1,842 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://watchus.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://watchus.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://watchus.com/collections/wine-rings.atom"/>
+  <title>Watchus</title>
+  <updated>2016-11-10T17:12:00-05:00</updated>
+  <author>
+    <name>Watchus</name>
+  </author>
+  <entry>
+    <id>https://watchus.com/products/247823261</id>
+    <published>2016-11-10T17:12:00-05:00</published>
+    <updated>2016-11-10T17:12:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/144-gold-wine-ring"/>
+    <title>Gold 1&apos;&apos; Wine Ring…12 pieces per bag</title>
+    <s:type>Jewelry Supplies</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/gold-1-wine-ring12-pieces-per-bag.jpeg?v=1521830075"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Jewelry Supplies<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Charm Rings</s:tag>
+    <s:tag>Components</s:tag>
+    <s:tag>Jewelry Components</s:tag>
+    <s:tag>Value Pack of 12</s:tag>
+    <s:tag>Wine &amp; Festivities Charms</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247823261</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>C603G-12</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247823257</id>
+    <published>2016-11-10T17:12:00-05:00</published>
+    <updated>2016-11-10T17:12:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/gold-1-charm-ring-12-pieces-per-bag"/>
+    <title>Gold 1&apos;&apos; Charm Ring… 144 pieces per bag</title>
+    <s:type>Jewelry Supplies</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/gold-1-charm-ring-144-pieces-per-bag.jpg?v=1527015782"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Jewelry Supplies<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Charm Rings</s:tag>
+    <s:tag>Components</s:tag>
+    <s:tag>Jewelry Components</s:tag>
+    <s:tag>Value Pack of 144</s:tag>
+    <s:tag>Wine &amp; Festivities Charms</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247823257</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>C603G-144</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247822717</id>
+    <published>2015-06-28T17:29:48-04:00</published>
+    <updated>2015-06-28T17:29:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/five-charm-ring"/>
+    <title>Five Charm Necklace Ring</title>
+    <s:type>Jewelry Supplies</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/five-charm-necklace-ring.jpg?v=1527015521"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Jewelry Supplies<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Five Charm Necklace Ring. This ring fits 5 charms; it is perfect for necklaces, pendants and all jewelry. Create your own theme memory piece. </p>
+<ul>
+<li><strong>Imitation Rhodium Plated</strong></li>
+<li><strong>Made in the U.S.A.</strong></li>
+<li><strong>Three Dimensional</strong></li>
+<li><strong>Designed by Nancy Dreishpoon</strong></li>
+<li><strong>Copyrighted</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Charm Pins</s:tag>
+    <s:tag>Charm Rings</s:tag>
+    <s:tag>Components</s:tag>
+    <s:tag>Jewelry Charm Pins</s:tag>
+    <s:tag>Jewelry Components</s:tag>
+    <s:tag>Key Rings</s:tag>
+    <s:tag>New Jewelry Supplies</s:tag>
+    <s:tag>Sterling Jewelry Findings</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247822717</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>C937S</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247832241</id>
+    <published>2014-05-02T00:02:31-04:00</published>
+    <updated>2014-05-02T00:02:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/split-rings-6mm-144-pieces-per-bag"/>
+    <title>Split Rings 6mm … 144 pieces per bag</title>
+    <s:type>Jewelry Supplies</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Jewelry Supplies<br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Charm Rings</s:tag>
+    <s:tag>Components</s:tag>
+    <s:tag>Jewelry Components</s:tag>
+    <s:tag>Split Rings</s:tag>
+    <s:tag>Value Pack of 144</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247832241</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>C228G- 144</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247832245</id>
+    <published>2014-02-24T02:05:29-05:00</published>
+    <updated>2014-02-24T02:05:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/split-rings-6mm-1-pound"/>
+    <title>Split Rings 6mm… 1 Pound</title>
+    <s:type>Jewelry Supplies</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/split-rings-6mm-1-pound.jpg?v=1527019455"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Jewelry Supplies<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Charm Rings</s:tag>
+    <s:tag>Components</s:tag>
+    <s:tag>Jewelry Components</s:tag>
+    <s:tag>Split Rings</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247832245</id>
+      <title>Default Title</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>C228LBS</s:sku>
+      <s:grams>455</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247832229</id>
+    <published>2014-02-24T02:05:28-05:00</published>
+    <updated>2014-02-24T02:05:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/split-rings-6mm-12-pieces-per-bag"/>
+    <title>Split Rings 6mm … 12 pieces per bag</title>
+    <s:type>Jewelry Supplies</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Jewelry Supplies<br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Charm Rings</s:tag>
+    <s:tag>Components</s:tag>
+    <s:tag>Jewelry Components</s:tag>
+    <s:tag>Split Rings</s:tag>
+    <s:tag>Value Pack of 12</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247832229</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>C228G-12</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247832225</id>
+    <published>2014-02-24T02:05:27-05:00</published>
+    <updated>2014-02-24T02:05:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/split-rings-6mm-12-pieces-per-bag-1"/>
+    <title>Split Rings 6mm … 12 pieces per bag</title>
+    <s:type>Jewelry Supplies</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/split-rings-6mm-12-pieces-per-bag.jpg?v=1527019448"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Jewelry Supplies<br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Charm Rings</s:tag>
+    <s:tag>Components</s:tag>
+    <s:tag>Jewelry Components</s:tag>
+    <s:tag>Review - Handle</s:tag>
+    <s:tag>Split Rings</s:tag>
+    <s:tag>Value Pack of 12</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247832225</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>C228S-12</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247831865</id>
+    <published>2014-02-24T02:05:05-05:00</published>
+    <updated>2014-02-24T02:05:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/silver-split-rings-for-bracelet-watch-watch-face-not-included-144-pieces-per-bag"/>
+    <title>Silver Split Rings for Bracelet Watch ... &apos;&apos;Watch Face Not Included&apos;&apos;*-144 pieces per bag</title>
+    <s:type>Jewelry Supplies</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/silver-split-rings-for-bracelet-watch-watch-face-not-included-144-pieces-per-bag.jpg?v=1527019260"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Jewelry Supplies<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bracelet Watch Faces</s:tag>
+    <s:tag>Charm Rings</s:tag>
+    <s:tag>Jewelry Components</s:tag>
+    <s:tag>Jump Rings</s:tag>
+    <s:tag>Silver Watch Faces</s:tag>
+    <s:tag>Toggle Sets</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247831865</id>
+      <title>Default</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>T230S-144</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247831645</id>
+    <published>2014-02-24T02:04:52-05:00</published>
+    <updated>2014-02-24T02:04:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/silver-jumprings-6mm-12-pieces-per-bag"/>
+    <title>Silver Jumprings 6mm… 12 pieces per bag</title>
+    <s:type>Jewelry Supplies</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/silver-jumprings-6mm-12-pieces-per-bag.jpg?v=1527019177"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Jewelry Supplies<br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Charm Rings</s:tag>
+    <s:tag>Components</s:tag>
+    <s:tag>Jewelry Components</s:tag>
+    <s:tag>Jump Rings</s:tag>
+    <s:tag>Value Pack of 12</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247831645</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>C229S-12</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247831625</id>
+    <published>2014-02-24T02:04:51-05:00</published>
+    <updated>2014-02-24T02:04:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/silver-jumprings-6-mm-144-pieces-per-bag"/>
+    <title>Silver Jumprings 6 mm ...144 pieces per bag</title>
+    <s:type>Jewelry Supplies</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/silver-jumprings-6-mm-144-pieces-per-bag.jpg?v=1527019169"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Jewelry Supplies<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Charm Rings</s:tag>
+    <s:tag>Components</s:tag>
+    <s:tag>Jewelry Components</s:tag>
+    <s:tag>Jump Rings</s:tag>
+    <s:tag>Value Pack of 144</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247831625</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>C229S-144</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247831617</id>
+    <published>2014-02-24T02:04:50-05:00</published>
+    <updated>2014-02-24T02:04:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/silver-jump-rings"/>
+    <title>Silver Jump Rings 6 mm… 1 lb - 4000 pieces!</title>
+    <s:type>Jewelry Supplies</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/silver-jump-rings-6-mm-1-lb-4000-pieces.jpg?v=1534960403"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Jewelry Supplies<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">6 mm Silver Jump Rings 4000 pieces in a bag.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Charm Rings</s:tag>
+    <s:tag>Components</s:tag>
+    <s:tag>Jump Rings</s:tag>
+    <s:tag>Split Rings</s:tag>
+    <s:tag>Toggle Sets</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247831617</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>C229LBS</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247831329</id>
+    <published>2014-02-24T02:04:00-05:00</published>
+    <updated>2014-02-24T02:04:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/silver-1-charm-ring-12-pieces-per-bag"/>
+    <title>Silver 1&apos;&apos; Charm Ring… 12 pieces per bag</title>
+    <s:type>Jewelry Supplies</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/silver-1-charm-ring-12-pieces-per-bag.jpg?v=1527019065"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Jewelry Supplies<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Charm Rings</s:tag>
+    <s:tag>Components</s:tag>
+    <s:tag>Jewelry Components</s:tag>
+    <s:tag>Jump Rings</s:tag>
+    <s:tag>Value Pack of 12</s:tag>
+    <s:tag>Wine &amp; Festivities Charms</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247831329</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>C603S-12</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247831321</id>
+    <published>2014-02-24T02:04:00-05:00</published>
+    <updated>2014-02-24T02:04:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/silver-wine-ring"/>
+    <title>Wine Ring 1 inch - 144 pieces per bag</title>
+    <s:type>Jewelry Supplies</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/wine-ring-1-inch-144-pieces-per-bag.jpg?v=1554216175"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Jewelry Supplies<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Hoop earring with ring closure for easy assembly.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Charm Rings</s:tag>
+    <s:tag>Components</s:tag>
+    <s:tag>Jewelry Components</s:tag>
+    <s:tag>Jump Rings</s:tag>
+    <s:tag>Value Pack of 144</s:tag>
+    <s:tag>Wine &amp; Festivities Charms</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247831321</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>C603S-144</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247824189</id>
+    <published>2014-02-24T01:58:31-05:00</published>
+    <updated>2014-02-24T01:58:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/gold-split-rings-for-bracelet-watch-watch-face-not-included-144-pieces-per-bag"/>
+    <title>Gold Split Rings for Bracelet Watch ... &apos;&apos;Watch Face Not Included&apos;&apos;*-144 pieces per bag</title>
+    <s:type>Jewelry Supplies</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/gold-split-rings-for-bracelet-watch-watch-face-not-included-144-pieces-per-bag.jpg?v=1527016170"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Jewelry Supplies<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bracelet Watch Faces</s:tag>
+    <s:tag>Charm Rings</s:tag>
+    <s:tag>Jump Rings</s:tag>
+    <s:tag>Silver Watch Faces</s:tag>
+    <s:tag>Split Rings</s:tag>
+    <s:tag>Toggle Sets</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247824189</id>
+      <title>Default</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>T230G-144</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247824181</id>
+    <published>2014-02-24T01:58:31-05:00</published>
+    <updated>2014-02-24T01:58:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/gold-split-rings-for-bracelet-watch-watch-face-not-included-12-pieces-per-bag"/>
+    <title>Gold Split Rings for Bracelet Watch ... &apos;&apos;Watch Face Not Included&apos;&apos;- 12 pieces per bag</title>
+    <s:type>Jewelry Supplies</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/gold-split-rings-for-bracelet-watch-watch-face-not-included-12-pieces-per-bag.jpg?v=1527016166"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Jewelry Supplies<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Charm Rings</s:tag>
+    <s:tag>Jewelry Components</s:tag>
+    <s:tag>Jump Rings</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247824181</id>
+      <title>Default</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>T230G-12</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247823665</id>
+    <published>2014-02-24T01:58:04-05:00</published>
+    <updated>2014-02-24T01:58:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/gold-jumprings-6mm-12-pieces-per-bag"/>
+    <title>Gold Jumprings 6mm… 12 pieces per bag</title>
+    <s:type>Jewelry Supplies</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/gold-jumprings-6mm-12-pieces-per-bag.jpg?v=1527015981"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Jewelry Supplies<br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Charm Rings</s:tag>
+    <s:tag>Components</s:tag>
+    <s:tag>Jewelry Components</s:tag>
+    <s:tag>Jump Rings</s:tag>
+    <s:tag>Value Pack of 12</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247823665</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>C229G-12</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247823657</id>
+    <published>2014-02-24T01:58:03-05:00</published>
+    <updated>2014-02-24T01:58:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/gold-jumprings-6-mm-144-pieces-per-bag"/>
+    <title>Gold Jumprings 6 mm ...144 pieces per bag</title>
+    <s:type>Jewelry Supplies</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/gold-jumprings-6-mm-144-pieces-per-bag.jpg?v=1527015975"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Jewelry Supplies<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Charm Rings</s:tag>
+    <s:tag>Components</s:tag>
+    <s:tag>Jewelry Components</s:tag>
+    <s:tag>Jump Rings</s:tag>
+    <s:tag>Value Pack of 144</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247823657</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>C229G-144</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247823649</id>
+    <published>2014-02-24T01:58:03-05:00</published>
+    <updated>2014-02-24T01:58:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/gold-jump-rings-6mm-1-lb"/>
+    <title>Gold Jump Rings 6mm 1 lb</title>
+    <s:type>Jewelry Supplies</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/gold-jump-rings-6mm-1-lb.jpg?v=1527015971"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Jewelry Supplies<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Charm Rings</s:tag>
+    <s:tag>Components</s:tag>
+    <s:tag>Jump Rings</s:tag>
+    <s:tag>Split Rings</s:tag>
+    <s:tag>Toggle Sets</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247823649</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>C229LBG</s:sku>
+      <s:grams>455</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247819325</id>
+    <published>2014-02-24T01:53:27-05:00</published>
+    <updated>2014-02-24T01:53:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/brass-split-rings-for-bracelet-watch-watch-face-not-included-144-pieces-per-bag"/>
+    <title>Brass Split Rings for Bracelet Watch ... &apos;&apos;Watch Face Not Included&apos;&apos;*-144 pieces per bag</title>
+    <s:type>Jewelry Supplies</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/brass-split-rings-for-bracelet-watch-watch-face-not-included-144-pieces-per-bag.jpg?v=1527014136"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Jewelry Supplies<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bracelet Watch Faces</s:tag>
+    <s:tag>Charm Rings</s:tag>
+    <s:tag>Jump Rings</s:tag>
+    <s:tag>Silver Watch Faces</s:tag>
+    <s:tag>Split Rings</s:tag>
+    <s:tag>Toggle Sets</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247819325</id>
+      <title>Default</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>T230B-144</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247819321</id>
+    <published>2014-02-24T01:53:27-05:00</published>
+    <updated>2014-02-24T01:53:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/brass-split-rings-for-bracelet-watch-watch-face-not-included-12-pieces-per-bag"/>
+    <title>Brass Split Rings for Bracelet Watch ... &apos;&apos;Watch Face Not Included&apos;&apos;- 12 pieces per bag</title>
+    <s:type>Jewelry Supplies</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/brass-split-rings-for-bracelet-watch-watch-face-not-included-12-pieces-per-bag.jpg?v=1527014132"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Jewelry Supplies<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Charm Rings</s:tag>
+    <s:tag>Jewelry Components</s:tag>
+    <s:tag>Jump Rings</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247819321</id>
+      <title>Default</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>T230B-12</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+</feed>

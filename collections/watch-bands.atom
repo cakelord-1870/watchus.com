@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://watchus.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://watchus.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://watchus.com/collections/watch-bands.atom"/>
+  <title>Watchus</title>
+  <updated>2018-03-19T09:46:03-04:00</updated>
+  <author>
+    <name>Watchus</name>
+  </author>
+  <entry>
+    <id>https://watchus.com/products/247817545</id>
+    <published>2018-03-19T09:46:03-04:00</published>
+    <updated>2018-03-19T09:46:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/assorted-charms-by-1-2-pound-approx-100-150-charms"/>
+    <title>Assorted Charms by 1/2 Pound - Approx. 100-150 Charms - Final Sale</title>
+    <s:type>Charms</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/assorted-charms-by-12-pound-approx-100-150-charms-final-sale.jpg?v=1527013578"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Charms<br>
+        <strong>Price: </strong>
+            29.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Charms by the Pound</s:tag>
+    <s:tag>Sale Beach Charms</s:tag>
+    <s:tag>Sale Celestial Charms</s:tag>
+    <s:tag>Sale Charms</s:tag>
+    <s:tag>Sale Craft Charms</s:tag>
+    <s:tag>Sale Crosses Charms</s:tag>
+    <s:tag>Sale Egyptian Charms</s:tag>
+    <s:tag>Sale Food Charms</s:tag>
+    <s:tag>Sale Fun Charms</s:tag>
+    <s:tag>Sale Garden Charms</s:tag>
+    <s:tag>Sale Hearts Charms</s:tag>
+    <s:tag>Sale Insect Charms</s:tag>
+    <s:tag>Sale Inspirational Charms</s:tag>
+    <s:tag>Sale Kitchen Charms</s:tag>
+    <s:tag>Sale Letters Beads</s:tag>
+    <s:tag>Sale Number Charms</s:tag>
+    <s:tag>Sale Patriotic Charms</s:tag>
+    <s:tag>Sale Picture Frame Charms</s:tag>
+    <s:tag>Sale Sayings Charms</s:tag>
+    <s:tag>Sale Sports Charms</s:tag>
+    <s:tag>Sale Tools Charms</s:tag>
+    <s:tag>Sale Year Charms</s:tag>
+    <s:tag>Was-published</s:tag>
+    <s:tag>Watch Attachments</s:tag>
+    <s:tag>Watch Bands</s:tag>
+    <s:tag>Watch Clasps</s:tag>
+    <s:tag>Watch Kits</s:tag>
+    <s:tag>Watch Tools</s:tag>
+    <s:tag>Water Life Charms</s:tag>
+    <s:tag>Water Life Silver Charm</s:tag>
+    <s:tag>Water Life Sterling Silver Charms</s:tag>
+    <s:tag>Wedding Charms</s:tag>
+    <s:tag>Western Charms</s:tag>
+    <s:tag>Western Silver Charm</s:tag>
+    <s:tag>Western Sterling Silver Charms</s:tag>
+    <s:tag>Wholesale Charms</s:tag>
+    <s:tag>wilderness</s:tag>
+    <s:tag>Winter &amp; Snow Charms</s:tag>
+    <s:tag>Winter &amp; Snow Silver Charm</s:tag>
+    <s:tag>Winter and Snow Charms</s:tag>
+    <s:tag>Women&apos;s Watches</s:tag>
+    <s:tag>Word Charms</s:tag>
+    <s:tag>Words Silver Charm</s:tag>
+    <s:tag>Year Charms</s:tag>
+    <s:tag>Years Silver Charm</s:tag>
+    <s:tag>Zoo Charms</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247817545</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>C-CharmsByPound-1</s:sku>
+      <s:grams>230</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247833897</id>
+    <published>2014-02-24T02:07:31-05:00</published>
+    <updated>2014-02-24T02:07:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/womens-italian-black-leather-woven-band-12mm"/>
+    <title>Women&apos;s Italian Black Leather Woven Band - 12mm</title>
+    <s:type>Watch Band</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/womens-italian-black-leather-woven-band-12mm.jpg?v=1527020290"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Watch Band<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Watch Bands</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247833897</id>
+      <title>Default</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>B09</s:sku>
+      <s:grams>22</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247827481</id>
+    <published>2014-02-24T02:01:00-05:00</published>
+    <updated>2014-02-24T02:01:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/mens-western-cotton-weave-watch-with-turquoise-and-pink-band"/>
+    <title>Men&apos;s Western Cotton Weave Watch with Turquoise and Pink Band</title>
+    <s:type>Fashion Watches,New Products,Watch Parts</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/mens-western-cotton-weave-watch-with-turquoise-and-pink-band.jpg?v=1527017521"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Fashion Watches,New Products,Watch Parts<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Men's Western Cotton Weave Watch with Turquoise and Pink Band. Japan Movement.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Men&apos;s Watches</s:tag>
+    <s:tag>Watch Bands</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247827481</id>
+      <title>Default</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>WM002</s:sku>
+      <s:grams>22</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247825537</id>
+    <published>2014-02-24T01:59:40-05:00</published>
+    <updated>2014-02-24T01:59:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/italian-light-brown-leather-woven-band"/>
+    <title>Italian Light Brown Leather Woven Band</title>
+    <s:type>Watch Band</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/italian-light-brown-leather-woven-band.jpg?v=1527016734"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Watch Band<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Watch Bands</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247825537</id>
+      <title>Default</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>B12</s:sku>
+      <s:grams>22</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247825521</id>
+    <published>2014-02-24T01:59:40-05:00</published>
+    <updated>2014-02-24T01:59:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/italian-brown-leather-woven-band"/>
+    <title>Italian Brown Leather Woven Band</title>
+    <s:type>Watch Band</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/italian-brown-leather-woven-band.jpg?v=1527016730"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Watch Band<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Watch Bands</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247825521</id>
+      <title>Default</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>B11</s:sku>
+      <s:grams>22</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247825513</id>
+    <published>2014-02-24T01:59:39-05:00</published>
+    <updated>2014-02-24T01:59:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/italian-black-leather-woven-band-18mm"/>
+    <title>Italian Black Leather Woven Band - 18mm</title>
+    <s:type>Watch Band</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/italian-black-leather-woven-band-18mm.jpg?v=1527016726"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Watch Band<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Watch Bands</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247825513</id>
+      <title>Default</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>B10</s:sku>
+      <s:grams>22</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247816701</id>
+    <published>2014-02-24T01:51:41-05:00</published>
+    <updated>2014-02-24T01:51:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/18mm-red-diamond-band"/>
+    <title>18mm Red Diamond Band</title>
+    <s:type>Watch Band</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/18mm-red-diamond-band.jpg?v=1527013314"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Watch Band<br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Watch Bands</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247816701</id>
+      <title>Default</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>B04</s:sku>
+      <s:grams>22</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247816689</id>
+    <published>2014-02-24T01:51:40-05:00</published>
+    <updated>2014-02-24T01:51:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/18mm-italian-brown-leather-embossed-band"/>
+    <title>18mm Italian Brown Leather Embossed Band</title>
+    <s:type>Watch Band</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/18mm-italian-brown-leather-embossed-band.jpg?v=1527013310"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Watch Band<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Watch Bands</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247816689</id>
+      <title>Default</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>B35</s:sku>
+      <s:grams>22</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247816677</id>
+    <published>2014-02-24T01:51:40-05:00</published>
+    <updated>2014-02-24T01:51:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/18mm-italian-black-leather-embossed-band"/>
+    <title>18mm Italian Black Leather Embossed Band</title>
+    <s:type>Watch Band</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/18mm-italian-black-leather-embossed-band.jpg?v=1527013306"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Watch Band<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Watch Bands</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247816677</id>
+      <title>Default</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>B33</s:sku>
+      <s:grams>22</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247816541</id>
+    <published>2014-02-24T01:51:33-05:00</published>
+    <updated>2014-02-24T01:51:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/14mm-italian-brown-leather-embossed-band"/>
+    <title>14mm Italian Brown Leather Embossed Band</title>
+    <s:type>Watch Band</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/14mm-italian-brown-leather-embossed-band.jpg?v=1527013256"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Watch Band<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Watch Bands</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247816541</id>
+      <title>Default</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>B32</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247816525</id>
+    <published>2014-02-24T01:51:33-05:00</published>
+    <updated>2014-02-24T01:51:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/14mm-italian-black-leather-embossed-band"/>
+    <title>14mm Italian Black Leather Embossed Band</title>
+    <s:type>Watch Band</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/14mm-italian-black-leather-embossed-band.jpg?v=1527013252"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Watch Band<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Watch Bands</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247816525</id>
+      <title>Default</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>B34</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247816517</id>
+    <published>2014-02-24T01:51:32-05:00</published>
+    <updated>2014-02-24T01:51:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/14mm-blue-diamond-band"/>
+    <title>14mm Blue Diamond Band</title>
+    <s:type>Watch Band</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/14mm-blue-diamond-band.jpg?v=1527013247"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Watch Band<br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Colored Watch Faces</s:tag>
+    <s:tag>Watch Bands</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247816517</id>
+      <title>Default</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>B03</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+</feed>

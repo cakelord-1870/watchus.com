@@ -1,0 +1,667 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://watchus.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://watchus.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://watchus.com/collections/holiday-bangle-bracelets.atom"/>
+  <title>Watchus</title>
+  <updated>2018-04-11T09:53:27-04:00</updated>
+  <author>
+    <name>Watchus</name>
+  </author>
+  <entry>
+    <id>https://watchus.com/products/581055807518</id>
+    <published>2018-04-11T09:53:27-04:00</published>
+    <updated>2018-04-11T09:53:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/snowman-wreath-bangle-bracelet"/>
+    <title>Snowman Wreath Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/snowman-wreath-bangle-bracelet.jpg?v=1527021528"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The weather outside is frightful. So enjoy the inside with this pretty little snowman. His nose is made with a carrot and his arms are broken branches. Designed and Made in Derby Connecticut by SamandNan. </p>
+<p>B303315S</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Holiday</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581055807518</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B303315S</s:sku>
+      <s:grams>132</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581055741982</id>
+    <published>2018-04-11T09:53:27-04:00</published>
+    <updated>2018-04-11T09:53:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/santa-ho-bangle-bracelet"/>
+    <title>Santa HO Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/santa-ho-bangle-bracelet.jpg?v=1527021520"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ho Ho Ho. It tis the season to be merry!  How much merrier can you get then this jolly Santa bangle. Made of sterling silver plate and adjustable. It will be a hand me down from great grandma to grandma to you. Through the generations it will go. To bring a lasting smile to your face. Remember your family members fondly with this gift of love. Don't forget a matching pair of Santa earrings. Your family deserves the very best!</p>
+<p>Style Number: B364371306S</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Holiday</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581055741982</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B364371306S</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581055905822</id>
+    <published>2018-04-11T09:53:26-04:00</published>
+    <updated>2018-04-11T09:53:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/santa-christmas-tree-bangle-bracelet"/>
+    <title>Santa Christmas Tree Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/santa-christmas-tree-bangle-bracelet.jpg?v=1527021537"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Decorate under your Christmas tree this season with the gift of love From SamandNan. From our office in Derby Connecticut to your house any where in the world, our sterling silver adjustable bangle bracelet will delight you. It's Made to last a lifetime. It is the perfect gift for mom, grandma, sister, best friend or co-worker. <span>Buy a matching pair of Santa earrings to complete your set.</span></p>
+<p>B306301S</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Holiday</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581055905822</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B306301S</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581055840286</id>
+    <published>2018-04-11T09:53:26-04:00</published>
+    <updated>2018-04-11T09:53:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/present-ornament-stocking-bangle-bracelet"/>
+    <title>Present Ornament Stocking Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/present-ornament-stocking-bangle-bracelet.jpg?v=1527021533"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>You should give the gift of a handmade item of love. This sterling silver adjustable bangle bracelet is made in Derby Connecticut by SamandNan to last beyond your lifetime. <span> The bangle size is 2 3/4".</span></p>
+<p>B312313311S</p>
+<ul>
+<li>Patented Bangle</li>
+<li>Copyrighted Charms</li>
+<li>100 mils Sterling Silver</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Holiday</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581055840286</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B312313311S</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581056004126</id>
+    <published>2018-04-11T09:53:25-04:00</published>
+    <updated>2018-04-11T09:53:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/nutcracker-ballet-shoes-bangle-bracelet"/>
+    <title>Nutcracker Ballet Shoes Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/nutcracker-ballet-shoes-bangle-bracelet.jpg?v=1527021550"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>A ballerina's dream bracelet in sterling plate. An adjustable bangle with the main character of the ballet. The bangle size is 2 3/4" and it is Made in Derby Connecticut by Sam and Nan.</span></p>
+<p>B336555S</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Holiday</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581056004126</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B336555S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581055971358</id>
+    <published>2018-04-11T09:53:25-04:00</published>
+    <updated>2018-04-11T09:53:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/santa-cookies-bangle-bracelet"/>
+    <title>Santa Cookies Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/santa-cookies-bangle-bracelet.jpg?v=1527021546"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Santa is coming down the chimney just in time for his fresh baked cookies. This sterling silver plated adjustable bangle bracelet made by SamandNan in the United States will make a the perfect gift to a loved one special. <span> The bangle size is 2 3/4". Buy a matching pair of Santa earrings to complete your set.</span></p>
+<p>B306785S</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Holiday</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581055971358</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B306785S</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581055938590</id>
+    <published>2018-04-11T09:53:25-04:00</published>
+    <updated>2018-04-11T09:53:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/santa-reindeer-bangle-bracelet"/>
+    <title>Santa Reindeer Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/santa-reindeer-bangle-bracelet.jpg?v=1527021541"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Here come Santa's Reindeer: <span>Dasher, Dancer, Prancer, Vixen, Comet, Cupid, Donner, Blitzen and Rudolph. This sterling silver adjustable bangle bracelet is made in the United States by SamandNan to last a lifetime. The bangle size is 2 3/4". Buy a matching pair of Santa earrings to complete your set.</span></p>
+<p><span>B306300S</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Holiday</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581055938590</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B306300S</s:sku>
+      <s:grams>27</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581061115934</id>
+    <published>2018-04-11T09:52:49-04:00</published>
+    <updated>2018-04-11T09:52:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/roast-marshmallows-backpack-charm-bangle-bracelet"/>
+    <title>Marshmallow Stick Backpack Charm Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/marshmallow-stick-backpack-charm-bangle-bracelet.jpg?v=1527022048"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: </strong></p>
+<p><strong>Style Number: </strong><strong></strong>B726545S</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Expandable</li>
+<li>Size (Diameter): Small 2 1/4<sup>"</sup> or Medium 2 3/8<sup>"</sup>
+</li>
+<li>Weight: 12g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Backpack</s:tag>
+    <s:tag>Camp Fire</s:tag>
+    <s:tag>Camping</s:tag>
+    <s:tag>Hiking</s:tag>
+    <s:tag>Holiday</s:tag>
+    <s:tag>Marshmallow</s:tag>
+    <s:tag>Sports</s:tag>
+    <s:tag>Wilderness</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581061115934</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B726545S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581060886558</id>
+    <published>2018-04-11T09:52:49-04:00</published>
+    <updated>2018-04-11T09:52:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/flip-flops-sunglasses-charm-bangle-bracelet"/>
+    <title>Flip Flops Sunglasses Charm Bangle Bracelet.</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/flip-flops-sunglasses-charm-bangle-bracelet.jpg?v=1527022031"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Flip Flops Sunglasses Charm Bangle Bracelet Sterling Silver Made USA. Beach charms featuring flip flops and sunglasses.</strong></p>
+<p><strong>Style Number: </strong>B559560S</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Expandable</li>
+<li>Sterling Silver Plated</li>
+<li>Size (Diameter): Small  2 1/4"<span style="font-size: 13px; line-height: 18.75px;"> </span>  Medium  2 3/8"</li>
+<li>Weight: 12g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beach</s:tag>
+    <s:tag>Flip Flop</s:tag>
+    <s:tag>Holiday</s:tag>
+    <s:tag>Nautical</s:tag>
+    <s:tag>Sunglasses</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581060886558</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B559560S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581061148702</id>
+    <published>2018-04-11T09:52:48-04:00</published>
+    <updated>2018-04-11T09:52:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/r-v-mount-rushmore-charm-bangle-bracelet"/>
+    <title>R.V. Bike Charm Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/rv-bike-charm-bangle-bracelet.jpg?v=1527022052"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: </strong></p>
+<p><strong>Style Number: </strong><strong></strong>B775273S</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Expandable</li>
+<li>Size (Diameter): Small-Medium 2 1/4<sup>"</sup> or Medium 2 3/8<sup>"</sup>
+</li>
+<li>Weight: 12g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Camper</s:tag>
+    <s:tag>Camping</s:tag>
+    <s:tag>Holiday</s:tag>
+    <s:tag>R.V.</s:tag>
+    <s:tag>Wilderness</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581061148702</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B775273S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581065080862</id>
+    <published>2018-04-11T09:52:25-04:00</published>
+    <updated>2018-04-11T09:52:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/happy-new-year-charm-bangle-bracelet"/>
+    <title>Happy New Year Charm Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/happy-new-year-charm-bangle-bracelet.jpg?v=1527022406"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ring in 2016 with style wearing a SamandNan expandable bangle. Made in Derby, Connecticut just for you. Each bangle is custom made.</p>
+<p><strong>Style Number: </strong>B571598S</p>
+<p>Please add (2) weeks delivery time for 24K Gold Plated!</p>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Holiday</s:tag>
+    <s:tag>New Year</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581065080862</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B571598S</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581065179166</id>
+    <published>2018-04-11T09:52:24-04:00</published>
+    <updated>2018-04-11T09:52:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/green-glitter-cross-present-charm-bangle-bracelet"/>
+    <title>Present Cross Charm Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/present-cross-charm-bangle-bracelet.jpg?v=1527022423"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This lovely present is the perfect gift to give your mother, sister, cousin or neighbor. Made by SamandNan in Derby, Connecticut. It is expandable and sterling silver plated.</p>
+<p>B312907S Green</p>
+<ul>
+<li>Size (Diameter): Small 2 1/4<sup>"</sup> or Medium 2 3/8<sup>"</sup>
+</li>
+<li>Weight: 12g</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cross</s:tag>
+    <s:tag>Gift</s:tag>
+    <s:tag>Holiday</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581065179166</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B312907S Green</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581065211934</id>
+    <published>2018-04-11T09:52:23-04:00</published>
+    <updated>2018-04-11T09:52:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/green-glitter-cross-christmas-tree-charm-bangle-bracelet"/>
+    <title>Christmas Tree Cross Charm Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/christmas-tree-cross-charm-bangle-bracelet.jpg?v=1527022427"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Custom design your sterling silver plated adjustable Christmas tree bangle bracelet by adding any charm. We will assemble it for you in our Derby office. Just mention the charm you want in the memo field when you go to check out. </span></p>
+<p>B301907S Green</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Expandable</li>
+<li>Size (Diameter): Small 2 1/4<sup>"</sup> or Medium 2 3/8<sup>"</sup>
+</li>
+<li>Weight: 12g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cross</s:tag>
+    <s:tag>Holiday</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581065211934</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B301907S Green</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581065572382</id>
+    <published>2018-04-11T09:52:20-04:00</published>
+    <updated>2018-04-11T09:52:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/red-glitter-cross-wreath-charm-bangle-bracelet"/>
+    <title>Wreath Cross Charm Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/wreath-cross-charm-bangle-bracelet.jpg?v=1527022459"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Made from pine branches and a silk bow this wreath is the symbol of Christmas. This expandable sterling silver plated bangle is made in Derby, Connecticut by SamandNan</p>
+<p><strong>Style Number: </strong>B907315S Red</p>
+<ul>
+<li>Size (Diameter): Small 2 1/4<sup>"</sup> or Medium 2 3/8<span style="font-size: 12.5px; line-height: 18.75px;">"</span>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Cross</s:tag>
+    <s:tag>Holiday</s:tag>
+    <s:tag>Wreath</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581065572382</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B907315S Red</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581055152158</id>
+    <published>2018-04-10T10:41:52-04:00</published>
+    <updated>2018-04-10T10:41:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/florida-flamingo-bangle-bracelet"/>
+    <title>Florida Flamingo Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/florida-flamingo-bangle-bracelet.jpg?v=1527021464"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Style Number: </strong>B362368424S</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Expandable</li>
+<li>Sterling Silver Plated</li>
+<li>Size (Diameter): Small  2 1/4"<span> </span>  Medium  2 3/8"</li>
+<li>Weight: 12g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Animal</s:tag>
+    <s:tag>Flamingo</s:tag>
+    <s:tag>Holiday</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581055152158</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B362368424S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+</feed>

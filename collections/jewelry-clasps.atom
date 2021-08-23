@@ -1,0 +1,1343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://watchus.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://watchus.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://watchus.com/collections/jewelry-clasps.atom"/>
+  <title>Watchus</title>
+  <updated>2014-02-24T02:06:15-05:00</updated>
+  <author>
+    <name>Watchus</name>
+  </author>
+  <entry>
+    <id>https://watchus.com/products/247832861</id>
+    <published>2014-02-24T02:06:15-05:00</published>
+    <updated>2014-02-24T02:06:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/sunflower-clasp"/>
+    <title>Sunflower Clasp</title>
+    <s:type>Jewelry Supplies</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/sunflower-clasp.jpg?v=1527019697"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Jewelry Supplies<br>
+        <strong>Price: </strong>
+            3.00 - 4.00
+            <a href="https://watchus.com/products/sunflower-clasp">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jewelry Clasps</s:tag>
+    <s:tag>Jewelry Components</s:tag>
+    <s:tag>Toggle Sets</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247832861</id>
+      <title>Default</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>M62S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832861</id>
+      <title>Default 12+</title>
+      <s:price currency="USD">3.75</s:price>
+      <s:sku>M62S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832861</id>
+      <title>Default 24+</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>M62S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832861</id>
+      <title>Default 48+</title>
+      <s:price currency="USD">3.25</s:price>
+      <s:sku>M62S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832861</id>
+      <title>Default 144+</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>M62S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247831893</id>
+    <published>2014-02-24T02:05:07-05:00</published>
+    <updated>2014-02-24T02:05:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/silver-tiny-bali-toggle-sets"/>
+    <title>Silver Tiny Bali Toggle Sets</title>
+    <s:type>Jewelry Supplies</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/silver-tiny-bali-toggle-sets.jpg?v=1527019276"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Jewelry Supplies<br>
+        <strong>Price: </strong>
+            0.65 - 1.00
+            <a href="https://watchus.com/products/silver-tiny-bali-toggle-sets">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jewelry Clasps</s:tag>
+    <s:tag>Jewelry Components</s:tag>
+    <s:tag>Toggle Sets</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247831893</id>
+      <title>Default</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>M83S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247831893</id>
+      <title>Default 3+</title>
+      <s:price currency="USD">0.85</s:price>
+      <s:sku>M83S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247831893</id>
+      <title>Default 5+</title>
+      <s:price currency="USD">0.80</s:price>
+      <s:sku>M83S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247831893</id>
+      <title>Default 12+</title>
+      <s:price currency="USD">0.75</s:price>
+      <s:sku>M83S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247831893</id>
+      <title>Default 24+</title>
+      <s:price currency="USD">0.70</s:price>
+      <s:sku>M83S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247831893</id>
+      <title>Default 60+</title>
+      <s:price currency="USD">0.65</s:price>
+      <s:sku>M83S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247831809</id>
+    <published>2014-02-24T02:05:00-05:00</published>
+    <updated>2014-02-24T02:05:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/silver-scalloped-clasp"/>
+    <title>Silver Scalloped Clasp</title>
+    <s:type>Watch Clasp</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/silver-scalloped-clasp.jpg?v=1527019223"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Watch Clasp<br>
+        <strong>Price: </strong>
+            3.00 - 4.00
+            <a href="https://watchus.com/products/silver-scalloped-clasp">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jewelry Clasps</s:tag>
+    <s:tag>Watch Attachments</s:tag>
+    <s:tag>Watch Clasps</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247831809</id>
+      <title>Default</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>M20S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247831809</id>
+      <title>Default 12+</title>
+      <s:price currency="USD">3.75</s:price>
+      <s:sku>M20S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247831809</id>
+      <title>Default 24+</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>M20S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247831809</id>
+      <title>Default 48+</title>
+      <s:price currency="USD">3.25</s:price>
+      <s:sku>M20S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247831809</id>
+      <title>Default 144+</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>M20S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247831581</id>
+    <published>2014-02-24T02:04:49-05:00</published>
+    <updated>2014-02-24T02:04:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/silver-etruscan-heart-clasp"/>
+    <title>Silver Etruscan Heart Clasp</title>
+    <s:type>Watch Clasp</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/silver-etruscan-heart-clasp.jpg?v=1527019150"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Watch Clasp<br>
+        <strong>Price: </strong>
+            3.00 - 4.00
+            <a href="https://watchus.com/products/silver-etruscan-heart-clasp">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jewelry Clasps</s:tag>
+    <s:tag>Watch Attachments</s:tag>
+    <s:tag>Watch Clasps</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247831581</id>
+      <title>Default</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>M50S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247831581</id>
+      <title>Default 12+</title>
+      <s:price currency="USD">3.75</s:price>
+      <s:sku>M50S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247831581</id>
+      <title>Default 24+</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>M50S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247831581</id>
+      <title>Default 48+</title>
+      <s:price currency="USD">3.25</s:price>
+      <s:sku>M50S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247831581</id>
+      <title>Default 144+</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>M50S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247831505</id>
+    <published>2014-02-24T02:04:44-05:00</published>
+    <updated>2014-02-24T02:04:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/silver-butterfly-clasp"/>
+    <title>Silver Butterfly Clasp</title>
+    <s:type>Watch Clasp</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/silver-butterfly-clasp.jpg?v=1527019122"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Watch Clasp<br>
+        <strong>Price: </strong>
+            3.00 - 4.00
+            <a href="https://watchus.com/products/silver-butterfly-clasp">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jewelry Clasps</s:tag>
+    <s:tag>Watch Attachments</s:tag>
+    <s:tag>Watch Clasps</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247831505</id>
+      <title>Default</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>M52S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247831505</id>
+      <title>Default 12+</title>
+      <s:price currency="USD">3.75</s:price>
+      <s:sku>M52S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247831505</id>
+      <title>Default 24+</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>M52S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247831505</id>
+      <title>Default 48+</title>
+      <s:price currency="USD">3.25</s:price>
+      <s:sku>M52S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247831505</id>
+      <title>Default 144+</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>M52S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247831485</id>
+    <published>2014-02-24T02:04:43-05:00</published>
+    <updated>2014-02-24T02:04:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/silver-bali-toggle-set"/>
+    <title>Silver Bali Toggle Set</title>
+    <s:type>Jewelry Supplies</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/Silver-Bali-Toggle-Set_1592b2f4-e527-4ac8-82c1-f198c3fc2aa7.jpg?v=1628877433"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Jewelry Supplies<br>
+        <strong>Price: </strong>
+            0.75 - 1.25
+            <a href="https://watchus.com/products/silver-bali-toggle-set">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jewelry Clasps</s:tag>
+    <s:tag>Jewelry Components</s:tag>
+    <s:tag>Toggle Sets</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247831485</id>
+      <title>Default</title>
+      <s:price currency="USD">1.25</s:price>
+      <s:sku>M84S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247831485</id>
+      <title>Default 3+</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>M84S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247831485</id>
+      <title>Default 5+</title>
+      <s:price currency="USD">0.90</s:price>
+      <s:sku>M84S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247831485</id>
+      <title>Default 12+</title>
+      <s:price currency="USD">0.85</s:price>
+      <s:sku>M84S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247831485</id>
+      <title>Default 24+</title>
+      <s:price currency="USD">0.80</s:price>
+      <s:sku>M84S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247831485</id>
+      <title>Default 60+</title>
+      <s:price currency="USD">0.75</s:price>
+      <s:sku>M84S</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247829049</id>
+    <published>2014-02-24T02:02:38-05:00</published>
+    <updated>2014-02-24T02:02:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/pewter-tiny-bali-toggle-sets"/>
+    <title>Pewter Tiny Bali Toggle Sets</title>
+    <s:type>Jewelry Supplies</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/pewter-tiny-bali-toggle-sets.jpg?v=1527018183"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Jewelry Supplies<br>
+        <strong>Price: </strong>
+            0.65 - 1.00
+            <a href="https://watchus.com/products/pewter-tiny-bali-toggle-sets">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jewelry Clasps</s:tag>
+    <s:tag>Jewelry Components</s:tag>
+    <s:tag>Toggle Sets</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247829049</id>
+      <title>Default</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>M83P</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247829049</id>
+      <title>Default 3+</title>
+      <s:price currency="USD">0.85</s:price>
+      <s:sku>M83P</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247829049</id>
+      <title>Default 5+</title>
+      <s:price currency="USD">0.80</s:price>
+      <s:sku>M83P</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247829049</id>
+      <title>Default 12+</title>
+      <s:price currency="USD">0.75</s:price>
+      <s:sku>M83P</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247829049</id>
+      <title>Default 24+</title>
+      <s:price currency="USD">0.70</s:price>
+      <s:sku>M83P</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247829049</id>
+      <title>Default 60+</title>
+      <s:price currency="USD">0.65</s:price>
+      <s:sku>M83P</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247829021</id>
+    <published>2014-02-24T02:02:37-05:00</published>
+    <updated>2014-02-24T02:02:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/pewter-scalloped-clasp"/>
+    <title>Pewter Scalloped Clasp</title>
+    <s:type>Watch Clasp</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/pewter-scalloped-clasp.jpg?v=1527018175"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Watch Clasp<br>
+        <strong>Price: </strong>
+            3.00 - 4.00
+            <a href="https://watchus.com/products/pewter-scalloped-clasp">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jewelry Clasps</s:tag>
+    <s:tag>Watch Attachments</s:tag>
+    <s:tag>Watch Clasps</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247829021</id>
+      <title>Default</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>M20P</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247829021</id>
+      <title>Default 12+</title>
+      <s:price currency="USD">3.75</s:price>
+      <s:sku>M20P</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247829021</id>
+      <title>Default 24+</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>M20P</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247829021</id>
+      <title>Default 48+</title>
+      <s:price currency="USD">3.25</s:price>
+      <s:sku>M20P</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247829021</id>
+      <title>Default 144+</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>M20P</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247828941</id>
+    <published>2014-02-24T02:02:33-05:00</published>
+    <updated>2014-02-24T02:02:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/pewter-lobster-claw-12pcs"/>
+    <title>Pewter Lobster Claw-12pcs</title>
+    <s:type>Jewelry Supplies</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/pewter-lobster-claw-12pcs.jpg?v=1527018154"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Jewelry Supplies<br>
+        <strong>Price: </strong>
+            2.50 - 4.00
+            <a href="https://watchus.com/products/pewter-lobster-claw-12pcs">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jewelry Clasps</s:tag>
+    <s:tag>Jewelry Components</s:tag>
+    <s:tag>Toggle Sets</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247828941</id>
+      <title>Default</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>M81P</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247828941</id>
+      <title>Default 5+</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>M81P</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247828941</id>
+      <title>Default 10+</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>M81P</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247828853</id>
+    <published>2014-02-24T02:02:29-05:00</published>
+    <updated>2014-02-24T02:02:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/pewter-bali-toggle-set"/>
+    <title>Pewter Bali Toggle Set</title>
+    <s:type>Jewelry Supplies</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/pewter-bali-toggle-set.jpg?v=1527018119"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Jewelry Supplies<br>
+        <strong>Price: </strong>
+            0.75 - 1.25
+            <a href="https://watchus.com/products/pewter-bali-toggle-set">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jewelry Clasps</s:tag>
+    <s:tag>Jewelry Components</s:tag>
+    <s:tag>Toggle Sets</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247828853</id>
+      <title>Default</title>
+      <s:price currency="USD">1.25</s:price>
+      <s:sku>M84P</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247828853</id>
+      <title>Default 3+</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>M84P</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247828853</id>
+      <title>Default 5+</title>
+      <s:price currency="USD">0.90</s:price>
+      <s:sku>M84P</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247828853</id>
+      <title>Default 12+</title>
+      <s:price currency="USD">0.85</s:price>
+      <s:sku>M84P</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247828853</id>
+      <title>Default 24+</title>
+      <s:price currency="USD">0.80</s:price>
+      <s:sku>M84P</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247828853</id>
+      <title>Default 60+</title>
+      <s:price currency="USD">0.75</s:price>
+      <s:sku>M84P</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247828365</id>
+    <published>2014-02-24T02:02:00-05:00</published>
+    <updated>2014-02-24T02:02:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/painted-titanium-finish-lobster-claw-12pcs"/>
+    <title>Painted Titanium Finish Lobster Claw-12pcs</title>
+    <s:type>Jewelry Supplies</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/painted-titanium-finish-lobster-claw-12pcs.jpg?v=1527017924"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Jewelry Supplies<br>
+        <strong>Price: </strong>
+            2.50 - 4.00
+            <a href="https://watchus.com/products/painted-titanium-finish-lobster-claw-12pcs">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jewelry Clasps</s:tag>
+    <s:tag>Jewelry Components</s:tag>
+    <s:tag>Toggle Sets</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247828365</id>
+      <title>Default</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>M81J</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247828365</id>
+      <title>Default 5+</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>M81J</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247828365</id>
+      <title>Default 10+</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>M81J</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247824217</id>
+    <published>2014-02-24T01:58:33-05:00</published>
+    <updated>2014-02-24T01:58:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/gold-tiny-bali-toggle-set"/>
+    <title>Gold Tiny Bali Toggle Set</title>
+    <s:type>Jewelry Supplies</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/gold-tiny-bali-toggle-set.jpg?v=1527016184"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Jewelry Supplies<br>
+        <strong>Price: </strong>
+            0.65 - 1.00
+            <a href="https://watchus.com/products/gold-tiny-bali-toggle-set">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jewelry Clasps</s:tag>
+    <s:tag>Jewelry Components</s:tag>
+    <s:tag>Toggle Sets</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247824217</id>
+      <title>Default</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>M83G</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247824217</id>
+      <title>Default 3+</title>
+      <s:price currency="USD">0.85</s:price>
+      <s:sku>M83G</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247824217</id>
+      <title>Default 5+</title>
+      <s:price currency="USD">0.80</s:price>
+      <s:sku>M83G</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247824217</id>
+      <title>Default 12+</title>
+      <s:price currency="USD">0.75</s:price>
+      <s:sku>M83G</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247824217</id>
+      <title>Default 24+</title>
+      <s:price currency="USD">0.70</s:price>
+      <s:sku>M83G</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247824217</id>
+      <title>Default 60+</title>
+      <s:price currency="USD">0.65</s:price>
+      <s:sku>M83G</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247824109</id>
+    <published>2014-02-24T01:58:27-05:00</published>
+    <updated>2014-02-24T01:58:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/gold-scalloped-clasp"/>
+    <title>Gold Scalloped Clasp</title>
+    <s:type>Watch Clasp</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/gold-scalloped-clasp.jpg?v=1527016138"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Watch Clasp<br>
+        <strong>Price: </strong>
+            3.00 - 4.00
+            <a href="https://watchus.com/products/gold-scalloped-clasp">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jewelry Clasps</s:tag>
+    <s:tag>Watch Attachments</s:tag>
+    <s:tag>Watch Clasps</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247824109</id>
+      <title>Default</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>M20G</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247824109</id>
+      <title>Default 12+</title>
+      <s:price currency="USD">3.75</s:price>
+      <s:sku>M20G</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247824109</id>
+      <title>Default 24+</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>M20G</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247824109</id>
+      <title>Default 48+</title>
+      <s:price currency="USD">3.25</s:price>
+      <s:sku>M20G</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247824109</id>
+      <title>Default 144+</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>M20G</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247823741</id>
+    <published>2014-02-24T01:58:07-05:00</published>
+    <updated>2014-02-24T01:58:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/gold-lobster-claw-12pcs"/>
+    <title>Gold Lobster Claw-12pcs</title>
+    <s:type>Jewelry Supplies</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/gold-lobster-claw-12pcs.jpg?v=1527016007"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Jewelry Supplies<br>
+        <strong>Price: </strong>
+            2.50 - 4.00
+            <a href="https://watchus.com/products/gold-lobster-claw-12pcs">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jewelry Clasps</s:tag>
+    <s:tag>Jewelry Components</s:tag>
+    <s:tag>Toggle Sets</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247823741</id>
+      <title>Default</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>M81G</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247823741</id>
+      <title>Default 5+</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>M81G</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247823741</id>
+      <title>Default 10+</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>M81G</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247823569</id>
+    <published>2014-02-24T01:57:57-05:00</published>
+    <updated>2014-02-24T01:57:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/gold-etruscan-heart-clasp"/>
+    <title>Gold Etruscan Heart Clasp</title>
+    <s:type>Watch Clasp</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/gold-etruscan-heart-clasp.jpg?v=1527015920"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Watch Clasp<br>
+        <strong>Price: </strong>
+            3.00 - 4.00
+            <a href="https://watchus.com/products/gold-etruscan-heart-clasp">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jewelry Clasps</s:tag>
+    <s:tag>Watch Attachments</s:tag>
+    <s:tag>Watch Clasps</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247823569</id>
+      <title>Default</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>M50G</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247823569</id>
+      <title>Default 12+</title>
+      <s:price currency="USD">3.75</s:price>
+      <s:sku>M50G</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247823569</id>
+      <title>Default 24+</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>M50G</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247823569</id>
+      <title>Default 48+</title>
+      <s:price currency="USD">3.25</s:price>
+      <s:sku>M50G</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247823569</id>
+      <title>Default 144+</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>M50G</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247823421</id>
+    <published>2014-02-24T01:57:50-05:00</published>
+    <updated>2014-02-24T01:57:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/gold-butterfly-clasp"/>
+    <title>Gold Butterfly Clasp</title>
+    <s:type>Watch Clasp</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/gold-butterfly-clasp.jpg?v=1527015857"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Watch Clasp<br>
+        <strong>Price: </strong>
+            3.00 - 4.00
+            <a href="https://watchus.com/products/gold-butterfly-clasp">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jewelry Clasps</s:tag>
+    <s:tag>Watch Attachments</s:tag>
+    <s:tag>Watch Clasps</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247823421</id>
+      <title>Default</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>M52G</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247823421</id>
+      <title>Default 12+</title>
+      <s:price currency="USD">3.75</s:price>
+      <s:sku>M52G</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247823421</id>
+      <title>Default 24+</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>M52G</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247823421</id>
+      <title>Default 48+</title>
+      <s:price currency="USD">3.25</s:price>
+      <s:sku>M52G</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247823421</id>
+      <title>Default 144+</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>M52G</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247823389</id>
+    <published>2014-02-24T01:57:48-05:00</published>
+    <updated>2014-02-24T01:57:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/gold-bali-toggle-set"/>
+    <title>Gold Bali Toggle Set</title>
+    <s:type>Jewelry Supplies</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/gold-bali-toggle-set.jpg?v=1527015840"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Jewelry Supplies<br>
+        <strong>Price: </strong>
+            0.75 - 1.25
+            <a href="https://watchus.com/products/gold-bali-toggle-set">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jewelry Clasps</s:tag>
+    <s:tag>Jewelry Components</s:tag>
+    <s:tag>Toggle Sets</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247823389</id>
+      <title>Default</title>
+      <s:price currency="USD">1.25</s:price>
+      <s:sku>M84G</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247823389</id>
+      <title>Default 3+</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>M84G</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247823389</id>
+      <title>Default 5+</title>
+      <s:price currency="USD">0.90</s:price>
+      <s:sku>M84G</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247823389</id>
+      <title>Default 12+</title>
+      <s:price currency="USD">0.85</s:price>
+      <s:sku>M84G</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247823389</id>
+      <title>Default 24+</title>
+      <s:price currency="USD">0.80</s:price>
+      <s:sku>M84G</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247823389</id>
+      <title>Default 60+</title>
+      <s:price currency="USD">0.75</s:price>
+      <s:sku>M84G</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247821045</id>
+    <published>2014-02-24T01:55:44-05:00</published>
+    <updated>2014-02-24T01:55:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/copper-scalloped-clasp"/>
+    <title>Copper Scalloped Clasp</title>
+    <s:type>Watch Clasp</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/copper-scalloped-clasp.jpg?v=1527014808"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Watch Clasp<br>
+        <strong>Price: </strong>
+            3.00 - 4.00
+            <a href="https://watchus.com/products/copper-scalloped-clasp">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jewelry Clasps</s:tag>
+    <s:tag>Watch Attachments</s:tag>
+    <s:tag>Watch Clasps</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247821045</id>
+      <title>Default</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>M20C</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247821045</id>
+      <title>Default 12+</title>
+      <s:price currency="USD">3.75</s:price>
+      <s:sku>M20C</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247821045</id>
+      <title>Default 24+</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>M20C</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247821045</id>
+      <title>Default 48+</title>
+      <s:price currency="USD">3.25</s:price>
+      <s:sku>M20C</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247821045</id>
+      <title>Default 144+</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>M20C</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247819301</id>
+    <published>2014-02-24T01:53:26-05:00</published>
+    <updated>2014-02-24T01:53:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/brass-scalloped-clasp"/>
+    <title>Brass Scalloped Clasp</title>
+    <s:type>Watch Clasp</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/brass-scalloped-clasp.jpg?v=1527014124"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Watch Clasp<br>
+        <strong>Price: </strong>
+            3.00 - 4.00
+            <a href="https://watchus.com/products/brass-scalloped-clasp">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jewelry Clasps</s:tag>
+    <s:tag>Watch Attachments</s:tag>
+    <s:tag>Watch Clasps</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247819301</id>
+      <title>Default</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>M20B</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247819301</id>
+      <title>Default 12+</title>
+      <s:price currency="USD">3.75</s:price>
+      <s:sku>M20B</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247819301</id>
+      <title>Default 24+</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>M20B</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247819301</id>
+      <title>Default 48+</title>
+      <s:price currency="USD">3.25</s:price>
+      <s:sku>M20B</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247819301</id>
+      <title>Default 144+</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>M20B</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247817057</id>
+    <published>2014-02-24T01:51:57-05:00</published>
+    <updated>2014-02-24T01:51:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/6-pcs-silver-plated-lobster-claw-clasps"/>
+    <title>6 pcs - Silver Plated Lobster Claw Clasps</title>
+    <s:type>Jewelry Supplies</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/6-pcs-silver-plated-lobster-claw-clasps.jpg?v=1527013422"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Jewelry Supplies<br>
+        <strong>Price: </strong>
+            2.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jewelry Clasps</s:tag>
+    <s:tag>Jewelry Components</s:tag>
+    <s:tag>New Jewelry Supplies</s:tag>
+    <s:tag>Sterling Jewelry Findings</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247817057</id>
+      <title>Default</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku>M81S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+</feed>

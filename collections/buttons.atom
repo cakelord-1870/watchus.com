@@ -1,0 +1,2191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://watchus.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://watchus.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://watchus.com/collections/buttons.atom"/>
+  <title>Watchus</title>
+  <updated>2014-02-24T02:07:48-05:00</updated>
+  <author>
+    <name>Watchus</name>
+  </author>
+  <entry>
+    <id>https://watchus.com/products/247834081</id>
+    <published>2014-02-24T02:07:48-05:00</published>
+    <updated>2014-02-24T02:07:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/zig-zag-star-button"/>
+    <title>Zig Zag Star Button</title>
+    <s:type>Buttons</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/zig-zag-star-button.jpg?v=1527020419"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Buttons<br>
+        <strong>Price: </strong>
+            0.49 - 1.50
+            <a href="https://watchus.com/products/zig-zag-star-button">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Buttons</s:tag>
+    <s:tag>Celestial Pewter Charms</s:tag>
+    <s:tag>Star Charms</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247834081</id>
+      <title>Default</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku>L402S</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247834081</id>
+      <title>Default 3+</title>
+      <s:price currency="USD">1.25</s:price>
+      <s:sku>L402S</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247834081</id>
+      <title>Default 5+</title>
+      <s:price currency="USD">1.15</s:price>
+      <s:sku>L402S</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247834081</id>
+      <title>Default 12+</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>L402S</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247834081</id>
+      <title>Default 24+</title>
+      <s:price currency="USD">0.79</s:price>
+      <s:sku>L402S</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247834081</id>
+      <title>Default 48+</title>
+      <s:price currency="USD">0.69</s:price>
+      <s:sku>L402S</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247834081</id>
+      <title>Default 144+</title>
+      <s:price currency="USD">0.59</s:price>
+      <s:sku>L402S</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247834081</id>
+      <title>Default 288+</title>
+      <s:price currency="USD">0.49</s:price>
+      <s:sku>L402S</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247834037</id>
+    <published>2014-02-24T02:07:44-05:00</published>
+    <updated>2014-02-24T02:07:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/zig-zag-heart-buttons-gold-plated"/>
+    <title>Zig Zag Heart Buttons Gold Plated</title>
+    <s:type>Buttons</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Buttons<br>
+        <strong>Price: </strong>
+            0.49 - 1.50
+            <a href="https://watchus.com/products/zig-zag-heart-buttons-gold-plated">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Buttons</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247834037</id>
+      <title>Default</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku>L404G</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247834037</id>
+      <title>Default 3+</title>
+      <s:price currency="USD">1.25</s:price>
+      <s:sku>L404G</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247834037</id>
+      <title>Default 5+</title>
+      <s:price currency="USD">1.15</s:price>
+      <s:sku>L404G</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247834037</id>
+      <title>Default 12+</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>L404G</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247834037</id>
+      <title>Default 24+</title>
+      <s:price currency="USD">0.79</s:price>
+      <s:sku>L404G</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247834037</id>
+      <title>Default 48+</title>
+      <s:price currency="USD">0.69</s:price>
+      <s:sku>L404G</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247834037</id>
+      <title>Default 144+</title>
+      <s:price currency="USD">0.59</s:price>
+      <s:sku>L404G</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247834037</id>
+      <title>Default 288+</title>
+      <s:price currency="USD">0.49</s:price>
+      <s:sku>L404G</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247834033</id>
+    <published>2014-02-24T02:07:44-05:00</published>
+    <updated>2014-02-24T02:07:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/zig-zag-heart-buttons"/>
+    <title>Zig Zag Heart Buttons</title>
+    <s:type>Buttons</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/zig-zag-heart-buttons.jpg?v=1527020391"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Buttons<br>
+        <strong>Price: </strong>
+            0.49 - 1.50
+            <a href="https://watchus.com/products/zig-zag-heart-buttons">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Buttons</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247834033</id>
+      <title>Default</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku>L404P</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247834033</id>
+      <title>Default 3+</title>
+      <s:price currency="USD">1.25</s:price>
+      <s:sku>L404P</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247834033</id>
+      <title>Default 5+</title>
+      <s:price currency="USD">1.15</s:price>
+      <s:sku>L404P</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247834033</id>
+      <title>Default 12+</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>L404P</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247834033</id>
+      <title>Default 24+</title>
+      <s:price currency="USD">0.79</s:price>
+      <s:sku>L404P</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247834033</id>
+      <title>Default 48+</title>
+      <s:price currency="USD">0.69</s:price>
+      <s:sku>L404P</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247834033</id>
+      <title>Default 144+</title>
+      <s:price currency="USD">0.59</s:price>
+      <s:sku>L404P</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247834033</id>
+      <title>Default 288+</title>
+      <s:price currency="USD">0.49</s:price>
+      <s:sku>L404P</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247833133</id>
+    <published>2014-02-24T02:06:36-05:00</published>
+    <updated>2014-02-24T02:06:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/thimble-button"/>
+    <title>Thimble Button</title>
+    <s:type>Buttons</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/thimble-button.jpg?v=1527019876"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Buttons<br>
+        <strong>Price: </strong>
+            0.49 - 1.50
+            <a href="https://watchus.com/products/thimble-button">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Buttons</s:tag>
+    <s:tag>Craft Charms</s:tag>
+    <s:tag>Quilt Guild</s:tag>
+    <s:tag>Quilt Store</s:tag>
+    <s:tag>Quilting Charms</s:tag>
+    <s:tag>Sewing &amp; Knitting</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247833133</id>
+      <title>Default</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku>L505S</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247833133</id>
+      <title>Default 3+</title>
+      <s:price currency="USD">1.25</s:price>
+      <s:sku>L505S</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247833133</id>
+      <title>Default 5+</title>
+      <s:price currency="USD">1.15</s:price>
+      <s:sku>L505S</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247833133</id>
+      <title>Default 12+</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>L505S</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247833133</id>
+      <title>Default 24+</title>
+      <s:price currency="USD">0.79</s:price>
+      <s:sku>L505S</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247833133</id>
+      <title>Default 48+</title>
+      <s:price currency="USD">0.69</s:price>
+      <s:sku>L505S</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247833133</id>
+      <title>Default 144+</title>
+      <s:price currency="USD">0.59</s:price>
+      <s:sku>L505S</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247833133</id>
+      <title>Default 288+</title>
+      <s:price currency="USD">0.49</s:price>
+      <s:sku>L505S</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247832961</id>
+    <published>2014-02-24T02:06:22-05:00</published>
+    <updated>2014-02-24T02:06:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/tape-measure-button"/>
+    <title>Tape Measure Button</title>
+    <s:type>Buttons</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/Tape-Measure-Button_51f8a626-ce40-4c7e-8b2f-8eb37d557b25.jpg?v=1628877473"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Buttons<br>
+        <strong>Price: </strong>
+            0.49 - 1.50
+            <a href="https://watchus.com/products/tape-measure-button">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Buttons</s:tag>
+    <s:tag>Craft Charms</s:tag>
+    <s:tag>Quilt Guild</s:tag>
+    <s:tag>Quilt Store</s:tag>
+    <s:tag>Quilting Charms</s:tag>
+    <s:tag>Sewing &amp; Knitting</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247832961</id>
+      <title>Default</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku>L508S</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832961</id>
+      <title>Default 3+</title>
+      <s:price currency="USD">1.25</s:price>
+      <s:sku>L508S</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832961</id>
+      <title>Default 5+</title>
+      <s:price currency="USD">1.15</s:price>
+      <s:sku>L508S</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832961</id>
+      <title>Default 12+</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>L508S</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832961</id>
+      <title>Default 24+</title>
+      <s:price currency="USD">0.79</s:price>
+      <s:sku>L508S</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832961</id>
+      <title>Default 48+</title>
+      <s:price currency="USD">0.69</s:price>
+      <s:sku>L508S</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832961</id>
+      <title>Default 144+</title>
+      <s:price currency="USD">0.59</s:price>
+      <s:sku>L508S</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832961</id>
+      <title>Default 288+</title>
+      <s:price currency="USD">0.49</s:price>
+      <s:sku>L508S</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247832953</id>
+    <published>2014-02-24T02:06:21-05:00</published>
+    <updated>2014-02-24T02:06:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/swirl-button"/>
+    <title>Round Swirl Button</title>
+    <s:type>Buttons</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/round-swirl-button.jpg?v=1587838078"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Buttons<br>
+        <strong>Price: </strong>
+            0.49 - 1.50
+            <a href="https://watchus.com/products/swirl-button">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Buttons</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247832953</id>
+      <title>Default</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku>L537S</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832953</id>
+      <title>Default 3+</title>
+      <s:price currency="USD">1.25</s:price>
+      <s:sku>L537S</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832953</id>
+      <title>Default 5+</title>
+      <s:price currency="USD">1.15</s:price>
+      <s:sku>L537S</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832953</id>
+      <title>Default 12+</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>L537S</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832953</id>
+      <title>Default 24+</title>
+      <s:price currency="USD">0.79</s:price>
+      <s:sku>L537S</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832953</id>
+      <title>Default 48+</title>
+      <s:price currency="USD">0.69</s:price>
+      <s:sku>L537S</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832953</id>
+      <title>Default 144+</title>
+      <s:price currency="USD">0.59</s:price>
+      <s:sku>L537S</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832953</id>
+      <title>Default 288+</title>
+      <s:price currency="USD">0.49</s:price>
+      <s:sku>L537S</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247832853</id>
+    <published>2014-02-24T02:06:14-05:00</published>
+    <updated>2014-02-24T02:06:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/sunflower-button"/>
+    <title>Round Sunflower Silver Button</title>
+    <s:type>Charms,Buttons</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/round-sunflower-silver-button.jpg?v=1588097088"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Charms,Buttons<br>
+        <strong>Price: </strong>
+            0.49 - 1.50
+            <a href="https://watchus.com/products/sunflower-button">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Buttons</s:tag>
+    <s:tag>Flower Pewter Charms</s:tag>
+    <s:tag>Garden Pewter Charms</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247832853</id>
+      <title>Default</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku>L077S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832853</id>
+      <title>Default 3+</title>
+      <s:price currency="USD">1.25</s:price>
+      <s:sku>L077S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832853</id>
+      <title>Default 5+</title>
+      <s:price currency="USD">1.15</s:price>
+      <s:sku>L077S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832853</id>
+      <title>Default 12+</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>L077S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832853</id>
+      <title>Default 24+</title>
+      <s:price currency="USD">0.79</s:price>
+      <s:sku>L077S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832853</id>
+      <title>Default 48+</title>
+      <s:price currency="USD">0.69</s:price>
+      <s:sku>L077S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832853</id>
+      <title>Default 144+</title>
+      <s:price currency="USD">0.59</s:price>
+      <s:sku>L077S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832853</id>
+      <title>Default 288+</title>
+      <s:price currency="USD">0.49</s:price>
+      <s:sku>L077S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247832817</id>
+    <published>2014-02-24T02:06:11-05:00</published>
+    <updated>2014-02-24T02:06:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/sunbonnet-sue-quilt-square-button"/>
+    <title>Sunbonnet Sue Quilt Square Button</title>
+    <s:type>Charms,Buttons</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/sunbonnet-sue-quilt-square-button.jpg?v=1527019676"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Charms,Buttons<br>
+        <strong>Price: </strong>
+            0.49 - 1.50
+            <a href="https://watchus.com/products/sunbonnet-sue-quilt-square-button">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Buttons</s:tag>
+    <s:tag>Quilt Guild</s:tag>
+    <s:tag>Quilt Store</s:tag>
+    <s:tag>Quilting Charms</s:tag>
+    <s:tag>Sewing &amp; Knitting</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247832817</id>
+      <title>Default</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku>L832S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832817</id>
+      <title>Default 3+</title>
+      <s:price currency="USD">1.25</s:price>
+      <s:sku>L832S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832817</id>
+      <title>Default 5+</title>
+      <s:price currency="USD">1.15</s:price>
+      <s:sku>L832S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832817</id>
+      <title>Default 12+</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>L832S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832817</id>
+      <title>Default 24+</title>
+      <s:price currency="USD">0.79</s:price>
+      <s:sku>L832S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832817</id>
+      <title>Default 48+</title>
+      <s:price currency="USD">0.69</s:price>
+      <s:sku>L832S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832817</id>
+      <title>Default 144+</title>
+      <s:price currency="USD">0.59</s:price>
+      <s:sku>L832S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832817</id>
+      <title>Default 288+</title>
+      <s:price currency="USD">0.49</s:price>
+      <s:sku>L832S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247832781</id>
+    <published>2014-02-24T02:06:08-05:00</published>
+    <updated>2014-02-24T02:06:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/sun-button"/>
+    <title>Round Sun Button</title>
+    <s:type>Buttons</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/round-sun-button.jpg?v=1587838063"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Buttons<br>
+        <strong>Price: </strong>
+            0.49 - 1.50
+            <a href="https://watchus.com/products/sun-button">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Buttons</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247832781</id>
+      <title>Default</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku>L2004S</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832781</id>
+      <title>Default 3+</title>
+      <s:price currency="USD">1.25</s:price>
+      <s:sku>L2004S</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832781</id>
+      <title>Default 5+</title>
+      <s:price currency="USD">1.15</s:price>
+      <s:sku>L2004S</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832781</id>
+      <title>Default 12+</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>L2004S</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832781</id>
+      <title>Default 24+</title>
+      <s:price currency="USD">0.79</s:price>
+      <s:sku>L2004S</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832781</id>
+      <title>Default 48+</title>
+      <s:price currency="USD">0.69</s:price>
+      <s:sku>L2004S</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832781</id>
+      <title>Default 144+</title>
+      <s:price currency="USD">0.59</s:price>
+      <s:sku>L2004S</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832781</id>
+      <title>Default 288+</title>
+      <s:price currency="USD">0.49</s:price>
+      <s:sku>L2004S</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247832669</id>
+    <published>2014-02-24T02:06:00-05:00</published>
+    <updated>2014-02-24T02:06:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/stork-scissors-button"/>
+    <title>Stork Scissors Button</title>
+    <s:type>Charms,Buttons</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/Stork-Scissors-Button_4f03bfd2-df0c-4a2e-a358-dcccf6ad214a.jpg?v=1628877466"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Charms,Buttons<br>
+        <strong>Price: </strong>
+            0.49 - 1.50
+            <a href="https://watchus.com/products/stork-scissors-button">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Buttons</s:tag>
+    <s:tag>Quilt Guild</s:tag>
+    <s:tag>Quilt Store</s:tag>
+    <s:tag>Quilting Charms</s:tag>
+    <s:tag>Sewing &amp; Knitting</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247832669</id>
+      <title>Default</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku>L342S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832669</id>
+      <title>Default 3+</title>
+      <s:price currency="USD">1.25</s:price>
+      <s:sku>L342S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832669</id>
+      <title>Default 5+</title>
+      <s:price currency="USD">1.15</s:price>
+      <s:sku>L342S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832669</id>
+      <title>Default 12+</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>L342S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832669</id>
+      <title>Default 24+</title>
+      <s:price currency="USD">0.79</s:price>
+      <s:sku>L342S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832669</id>
+      <title>Default 48+</title>
+      <s:price currency="USD">0.69</s:price>
+      <s:sku>L342S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832669</id>
+      <title>Default 144+</title>
+      <s:price currency="USD">0.59</s:price>
+      <s:sku>L342S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832669</id>
+      <title>Default 288+</title>
+      <s:price currency="USD">0.49</s:price>
+      <s:sku>L342S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247832425</id>
+    <published>2014-02-24T02:05:42-05:00</published>
+    <updated>2014-02-24T02:05:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/starfish-buttons"/>
+    <title>Starfish Buttons</title>
+    <s:type>Buttons</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/Starfish-Buttons_04ca3ae4-7675-4f5c-9fae-4e88c23f27d2.jpg?v=1628877461"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Buttons<br>
+        <strong>Price: </strong>
+            0.49 - 1.50
+            <a href="https://watchus.com/products/starfish-buttons">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Buttons</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247832425</id>
+      <title>Default</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku>L512P</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832425</id>
+      <title>Default 3+</title>
+      <s:price currency="USD">1.25</s:price>
+      <s:sku>L512P</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832425</id>
+      <title>Default 5+</title>
+      <s:price currency="USD">1.15</s:price>
+      <s:sku>L512P</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832425</id>
+      <title>Default 12+</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>L512P</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832425</id>
+      <title>Default 24+</title>
+      <s:price currency="USD">0.79</s:price>
+      <s:sku>L512P</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832425</id>
+      <title>Default 48+</title>
+      <s:price currency="USD">0.69</s:price>
+      <s:sku>L512P</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832425</id>
+      <title>Default 144+</title>
+      <s:price currency="USD">0.59</s:price>
+      <s:sku>L512P</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832425</id>
+      <title>Default 288+</title>
+      <s:price currency="USD">0.49</s:price>
+      <s:sku>L512P</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247832289</id>
+    <published>2014-02-24T02:05:33-05:00</published>
+    <updated>2014-02-24T02:05:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/spool-quilting-square-2-hole-button"/>
+    <title>Spool Quilting Square 2 Hole Button</title>
+    <s:type>Charms,Buttons</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/spool-quilting-square-2-hole-button.jpg?v=1527019484"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Charms,Buttons<br>
+        <strong>Price: </strong>
+            0.49 - 1.50
+            <a href="https://watchus.com/products/spool-quilting-square-2-hole-button">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Buttons</s:tag>
+    <s:tag>Quilt Guild</s:tag>
+    <s:tag>Quilt Store</s:tag>
+    <s:tag>Quilting Charms</s:tag>
+    <s:tag>Sewing &amp; Knitting</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247832289</id>
+      <title>Default</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku>L827S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832289</id>
+      <title>Default 3+</title>
+      <s:price currency="USD">1.25</s:price>
+      <s:sku>L827S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832289</id>
+      <title>Default 5+</title>
+      <s:price currency="USD">1.15</s:price>
+      <s:sku>L827S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832289</id>
+      <title>Default 12+</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>L827S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832289</id>
+      <title>Default 24+</title>
+      <s:price currency="USD">0.79</s:price>
+      <s:sku>L827S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832289</id>
+      <title>Default 48+</title>
+      <s:price currency="USD">0.69</s:price>
+      <s:sku>L827S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832289</id>
+      <title>Default 144+</title>
+      <s:price currency="USD">0.59</s:price>
+      <s:sku>L827S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832289</id>
+      <title>Default 288+</title>
+      <s:price currency="USD">0.49</s:price>
+      <s:sku>L827S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247832277</id>
+    <published>2014-02-24T02:05:31-05:00</published>
+    <updated>2014-02-24T02:05:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/spool-of-thread-button"/>
+    <title>Spool of Thread Button</title>
+    <s:type>Charms,Buttons</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/spool-of-thread-button.jpg?v=1527019467"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Charms,Buttons<br>
+        <strong>Price: </strong>
+            0.49 - 1.50
+            <a href="https://watchus.com/products/spool-of-thread-button">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Buttons</s:tag>
+    <s:tag>Craft Charms</s:tag>
+    <s:tag>Quilt Guild</s:tag>
+    <s:tag>Quilt Store</s:tag>
+    <s:tag>Quilting Charms</s:tag>
+    <s:tag>Sewing &amp; Knitting</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247832277</id>
+      <title>Default</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku>L506S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832277</id>
+      <title>Default 3+</title>
+      <s:price currency="USD">1.25</s:price>
+      <s:sku>L506S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832277</id>
+      <title>Default 5+</title>
+      <s:price currency="USD">1.15</s:price>
+      <s:sku>L506S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832277</id>
+      <title>Default 12+</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>L506S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832277</id>
+      <title>Default 24+</title>
+      <s:price currency="USD">0.79</s:price>
+      <s:sku>L506S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832277</id>
+      <title>Default 48+</title>
+      <s:price currency="USD">0.69</s:price>
+      <s:sku>L506S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832277</id>
+      <title>Default 144+</title>
+      <s:price currency="USD">0.59</s:price>
+      <s:sku>L506S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832277</id>
+      <title>Default 288+</title>
+      <s:price currency="USD">0.49</s:price>
+      <s:sku>L506S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247832081</id>
+    <published>2014-02-24T02:05:17-05:00</published>
+    <updated>2014-02-24T02:05:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/small-rose-button"/>
+    <title>Small Rose Button</title>
+    <s:type>Charms,Buttons</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/small-rose-button.jpg?v=1527019368"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Charms,Buttons<br>
+        <strong>Price: </strong>
+            0.49 - 1.50
+            <a href="https://watchus.com/products/small-rose-button">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Buttons</s:tag>
+    <s:tag>Flower Pewter Charms</s:tag>
+    <s:tag>Garden Pewter Charms</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247832081</id>
+      <title>Default</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku>L166S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832081</id>
+      <title>Default 3+</title>
+      <s:price currency="USD">1.25</s:price>
+      <s:sku>L166S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832081</id>
+      <title>Default 5+</title>
+      <s:price currency="USD">1.15</s:price>
+      <s:sku>L166S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832081</id>
+      <title>Default 12+</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>L166S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832081</id>
+      <title>Default 24+</title>
+      <s:price currency="USD">0.79</s:price>
+      <s:sku>L166S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832081</id>
+      <title>Default 48+</title>
+      <s:price currency="USD">0.69</s:price>
+      <s:sku>L166S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832081</id>
+      <title>Default 144+</title>
+      <s:price currency="USD">0.59</s:price>
+      <s:sku>L166S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832081</id>
+      <title>Default 288+</title>
+      <s:price currency="USD">0.49</s:price>
+      <s:sku>L166S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247832077</id>
+    <published>2014-02-24T02:05:17-05:00</published>
+    <updated>2014-02-24T02:05:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/small-heart-button"/>
+    <title>Small Heart Button</title>
+    <s:type>Charms,Buttons</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/small-heart-button.jpg?v=1527019364"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Charms,Buttons<br>
+        <strong>Price: </strong>
+            0.49 - 1.50
+            <a href="https://watchus.com/products/small-heart-button">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Buttons</s:tag>
+    <s:tag>Heart Charms</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247832077</id>
+      <title>Default</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku>L478S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832077</id>
+      <title>Default 3+</title>
+      <s:price currency="USD">1.25</s:price>
+      <s:sku>L478S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832077</id>
+      <title>Default 5+</title>
+      <s:price currency="USD">1.15</s:price>
+      <s:sku>L478S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832077</id>
+      <title>Default 12+</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>L478S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832077</id>
+      <title>Default 24+</title>
+      <s:price currency="USD">0.79</s:price>
+      <s:sku>L478S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832077</id>
+      <title>Default 48+</title>
+      <s:price currency="USD">0.69</s:price>
+      <s:sku>L478S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832077</id>
+      <title>Default 144+</title>
+      <s:price currency="USD">0.59</s:price>
+      <s:sku>L478S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832077</id>
+      <title>Default 288+</title>
+      <s:price currency="USD">0.49</s:price>
+      <s:sku>L478S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247832061</id>
+    <published>2014-02-24T02:05:16-05:00</published>
+    <updated>2014-02-24T02:05:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/small-gold-plated-heart-button"/>
+    <title>Small Gold Plated Heart Button</title>
+    <s:type>Charms,Buttons</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/small-gold-plated-heart-button.jpg?v=1527019356"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Charms,Buttons<br>
+        <strong>Price: </strong>
+            0.49 - 1.50
+            <a href="https://watchus.com/products/small-gold-plated-heart-button">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Buttons</s:tag>
+    <s:tag>Heart Charms</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247832061</id>
+      <title>Default</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku>L478G</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832061</id>
+      <title>Default 3+</title>
+      <s:price currency="USD">1.25</s:price>
+      <s:sku>L478G</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832061</id>
+      <title>Default 5+</title>
+      <s:price currency="USD">1.15</s:price>
+      <s:sku>L478G</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832061</id>
+      <title>Default 12+</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>L478G</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832061</id>
+      <title>Default 24+</title>
+      <s:price currency="USD">0.79</s:price>
+      <s:sku>L478G</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832061</id>
+      <title>Default 48+</title>
+      <s:price currency="USD">0.69</s:price>
+      <s:sku>L478G</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832061</id>
+      <title>Default 144+</title>
+      <s:price currency="USD">0.59</s:price>
+      <s:sku>L478G</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247832061</id>
+      <title>Default 288+</title>
+      <s:price currency="USD">0.49</s:price>
+      <s:sku>L478G</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247831137</id>
+    <published>2014-02-24T02:04:25-05:00</published>
+    <updated>2014-02-24T02:04:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/shoe-buttons-gold-plated"/>
+    <title>Shoe Buttons Gold Plated</title>
+    <s:type>Buttons</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/Shoe-Buttons-Gold-Plated_142d13a9-7494-405c-8ed3-32f19f78f44b.jpg?v=1628877410"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Buttons<br>
+        <strong>Price: </strong>
+            0.69 - 1.50
+            <a href="https://watchus.com/products/shoe-buttons-gold-plated">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Buttons</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247831137</id>
+      <title>Default</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku>L528G</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247831137</id>
+      <title>Default 4+</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku>L528G</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247831137</id>
+      <title>Default 6+</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>L528G</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247831137</id>
+      <title>Default 12+</title>
+      <s:price currency="USD">0.89</s:price>
+      <s:sku>L528G</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247831137</id>
+      <title>Default 48+</title>
+      <s:price currency="USD">0.85</s:price>
+      <s:sku>L528G</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247831137</id>
+      <title>Default 144+</title>
+      <s:price currency="USD">0.79</s:price>
+      <s:sku>L528G</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247831137</id>
+      <title>Default 288+</title>
+      <s:price currency="USD">0.75</s:price>
+      <s:sku>L528G</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247831137</id>
+      <title>Default 432+</title>
+      <s:price currency="USD">0.69</s:price>
+      <s:sku>L528G</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247831137</id>
+      <title>Default 3+</title>
+      <s:price currency="USD">1.25</s:price>
+      <s:sku>L528G</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247831137</id>
+      <title>Default 5+</title>
+      <s:price currency="USD">1.15</s:price>
+      <s:sku>L528G</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247830793</id>
+    <published>2014-02-24T02:04:09-05:00</published>
+    <updated>2014-02-24T02:04:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/sailboat-buttons"/>
+    <title>Sailboat Buttons</title>
+    <s:type>Buttons</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/sailboat-buttons.jpg?v=1527018856"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Buttons<br>
+        <strong>Price: </strong>
+            0.49 - 1.50
+            <a href="https://watchus.com/products/sailboat-buttons">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Buttons</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247830793</id>
+      <title>Default</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku>L421P</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247830793</id>
+      <title>Default 3+</title>
+      <s:price currency="USD">1.25</s:price>
+      <s:sku>L421P</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247830793</id>
+      <title>Default 5+</title>
+      <s:price currency="USD">1.15</s:price>
+      <s:sku>L421P</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247830793</id>
+      <title>Default 12+</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>L421P</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247830793</id>
+      <title>Default 24+</title>
+      <s:price currency="USD">0.79</s:price>
+      <s:sku>L421P</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247830793</id>
+      <title>Default 48+</title>
+      <s:price currency="USD">0.69</s:price>
+      <s:sku>L421P</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247830793</id>
+      <title>Default 144+</title>
+      <s:price currency="USD">0.59</s:price>
+      <s:sku>L421P</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247830793</id>
+      <title>Default 288+</title>
+      <s:price currency="USD">0.49</s:price>
+      <s:sku>L421P</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247830753</id>
+    <published>2014-02-24T02:04:06-05:00</published>
+    <updated>2014-02-24T02:04:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/round-concho-button"/>
+    <title>Round Concho Button</title>
+    <s:type>Buttons</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/round-concho-button.jpg?v=1527018832"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Buttons<br>
+        <strong>Price: </strong>
+            0.49 - 1.50
+            <a href="https://watchus.com/products/round-concho-button">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Buttons</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247830753</id>
+      <title>Default</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku>L2001S</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247830753</id>
+      <title>Default 3+</title>
+      <s:price currency="USD">1.25</s:price>
+      <s:sku>L2001S</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247830753</id>
+      <title>Default 5+</title>
+      <s:price currency="USD">1.15</s:price>
+      <s:sku>L2001S</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247830753</id>
+      <title>Default 12+</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>L2001S</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247830753</id>
+      <title>Default 24+</title>
+      <s:price currency="USD">0.79</s:price>
+      <s:sku>L2001S</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247830753</id>
+      <title>Default 48+</title>
+      <s:price currency="USD">0.69</s:price>
+      <s:sku>L2001S</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247830753</id>
+      <title>Default 144+</title>
+      <s:price currency="USD">0.59</s:price>
+      <s:sku>L2001S</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247830753</id>
+      <title>Default 288+</title>
+      <s:price currency="USD">0.49</s:price>
+      <s:sku>L2001S</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247829921</id>
+    <published>2014-02-24T02:03:17-05:00</published>
+    <updated>2014-02-24T02:03:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/quilt-square-buttons"/>
+    <title>Quilt Square Buttons</title>
+    <s:type>Charms,Buttons</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/quilt-square-buttons.jpg?v=1527018507"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Charms,Buttons<br>
+        <strong>Price: </strong>
+            0.49 - 1.50
+            <a href="https://watchus.com/products/quilt-square-buttons">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Buttons</s:tag>
+    <s:tag>Quilt Guild</s:tag>
+    <s:tag>Quilt Store</s:tag>
+    <s:tag>Quilting Charms</s:tag>
+    <s:tag>Sewing &amp; Knitting</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247829921</id>
+      <title>Default</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku>L347S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247829921</id>
+      <title>Default 3+</title>
+      <s:price currency="USD">1.25</s:price>
+      <s:sku>L347S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247829921</id>
+      <title>Default 5+</title>
+      <s:price currency="USD">1.15</s:price>
+      <s:sku>L347S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247829921</id>
+      <title>Default 12+</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>L347S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247829921</id>
+      <title>Default 24+</title>
+      <s:price currency="USD">0.79</s:price>
+      <s:sku>L347S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247829921</id>
+      <title>Default 48+</title>
+      <s:price currency="USD">0.69</s:price>
+      <s:sku>L347S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247829921</id>
+      <title>Default 144+</title>
+      <s:price currency="USD">0.59</s:price>
+      <s:sku>L347S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247829921</id>
+      <title>Default 288+</title>
+      <s:price currency="USD">0.49</s:price>
+      <s:sku>L347S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247829521</id>
+    <published>2014-02-24T02:02:59-05:00</published>
+    <updated>2014-02-24T02:02:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/pocket-book-buttons-gold-plated"/>
+    <title>Pocket Book Buttons Gold Plated</title>
+    <s:type>Buttons</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/Pocket-Book-Buttons-Gold-Plated_e471105e-75be-4690-8c3f-4840a256ecd6.jpg?v=1628877391"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Buttons<br>
+        <strong>Price: </strong>
+            0.49 - 1.50
+            <a href="https://watchus.com/products/pocket-book-buttons-gold-plated">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Buttons</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247829521</id>
+      <title>Default</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku>L529G</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247829521</id>
+      <title>Default 3+</title>
+      <s:price currency="USD">1.25</s:price>
+      <s:sku>L529G</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247829521</id>
+      <title>Default 5+</title>
+      <s:price currency="USD">1.15</s:price>
+      <s:sku>L529G</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247829521</id>
+      <title>Default 12+</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>L529G</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247829521</id>
+      <title>Default 24+</title>
+      <s:price currency="USD">0.79</s:price>
+      <s:sku>L529G</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247829521</id>
+      <title>Default 48+</title>
+      <s:price currency="USD">0.69</s:price>
+      <s:sku>L529G</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247829521</id>
+      <title>Default 144+</title>
+      <s:price currency="USD">0.59</s:price>
+      <s:sku>L529G</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247829521</id>
+      <title>Default 288+</title>
+      <s:price currency="USD">0.49</s:price>
+      <s:sku>L529G</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247827457</id>
+    <published>2014-02-24T02:01:15-05:00</published>
+    <updated>2014-02-24T02:01:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/megaphone-buttons"/>
+    <title>Megaphone Buttons</title>
+    <s:type>Buttons</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/megaphone-buttons.jpg?v=1527017509"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Buttons<br>
+        <strong>Price: </strong>
+            0.49 - 1.50
+            <a href="https://watchus.com/products/megaphone-buttons">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Buttons</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247827457</id>
+      <title>Default</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku>L274P</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247827457</id>
+      <title>Default 3+</title>
+      <s:price currency="USD">1.25</s:price>
+      <s:sku>L274P</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247827457</id>
+      <title>Default 5+</title>
+      <s:price currency="USD">1.15</s:price>
+      <s:sku>L274P</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247827457</id>
+      <title>Default 12+</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>L274P</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247827457</id>
+      <title>Default 24+</title>
+      <s:price currency="USD">0.79</s:price>
+      <s:sku>L274P</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247827457</id>
+      <title>Default 48+</title>
+      <s:price currency="USD">0.69</s:price>
+      <s:sku>L274P</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247827457</id>
+      <title>Default 144+</title>
+      <s:price currency="USD">0.59</s:price>
+      <s:sku>L274P</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247827457</id>
+      <title>Default 288+</title>
+      <s:price currency="USD">0.49</s:price>
+      <s:sku>L274P</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247825473</id>
+    <published>2014-02-24T01:59:38-05:00</published>
+    <updated>2014-02-24T01:59:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/indian-head-button"/>
+    <title>Round Indian Head Button</title>
+    <s:type>Buttons</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Buttons<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Buttons</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247825473</id>
+      <title>Default</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku>L30C</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247825077</id>
+    <published>2014-02-24T01:59:18-05:00</published>
+    <updated>2014-02-24T01:59:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/humming-bird-buttons"/>
+    <title>Humming Bird Buttons</title>
+    <s:type>Buttons</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/humming-bird-buttons.jpg?v=1527016550"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Buttons<br>
+        <strong>Price: </strong>
+            0.49 - 1.50
+            <a href="https://watchus.com/products/humming-bird-buttons">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Buttons</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247825077</id>
+      <title>Default</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku>L423P</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247825077</id>
+      <title>Default 3+</title>
+      <s:price currency="USD">1.25</s:price>
+      <s:sku>L423P</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247825077</id>
+      <title>Default 5+</title>
+      <s:price currency="USD">1.15</s:price>
+      <s:sku>L423P</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247825077</id>
+      <title>Default 12+</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>L423P</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247825077</id>
+      <title>Default 24+</title>
+      <s:price currency="USD">0.79</s:price>
+      <s:sku>L423P</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247825077</id>
+      <title>Default 48+</title>
+      <s:price currency="USD">0.69</s:price>
+      <s:sku>L423P</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247825077</id>
+      <title>Default 144+</title>
+      <s:price currency="USD">0.59</s:price>
+      <s:sku>L423P</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247825077</id>
+      <title>Default 288+</title>
+      <s:price currency="USD">0.49</s:price>
+      <s:sku>L423P</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247824001</id>
+    <published>2014-02-24T01:58:22-05:00</published>
+    <updated>2014-02-24T01:58:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/gold-plated-zig-zag-star-button"/>
+    <title>Gold Plated Zig Zag Star Button</title>
+    <s:type>Charms,Buttons</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/gold-plated-zig-zag-star-button.jpg?v=1527016117"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Charms,Buttons<br>
+        <strong>Price: </strong>
+            0.49 - 1.50
+            <a href="https://watchus.com/products/gold-plated-zig-zag-star-button">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Buttons</s:tag>
+    <s:tag>Celestial Pewter Charms</s:tag>
+    <s:tag>Star Charms</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247824001</id>
+      <title>Default</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku>L402G</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247824001</id>
+      <title>Default 3+</title>
+      <s:price currency="USD">1.25</s:price>
+      <s:sku>L402G</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247824001</id>
+      <title>Default 5+</title>
+      <s:price currency="USD">1.15</s:price>
+      <s:sku>L402G</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247824001</id>
+      <title>Default 12+</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>L402G</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247824001</id>
+      <title>Default 24+</title>
+      <s:price currency="USD">0.79</s:price>
+      <s:sku>L402G</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247824001</id>
+      <title>Default 48+</title>
+      <s:price currency="USD">0.69</s:price>
+      <s:sku>L402G</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247824001</id>
+      <title>Default 144+</title>
+      <s:price currency="USD">0.59</s:price>
+      <s:sku>L402G</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watchus.com/products/247824001</id>
+      <title>Default 288+</title>
+      <s:price currency="USD">0.49</s:price>
+      <s:sku>L402G</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+</feed>

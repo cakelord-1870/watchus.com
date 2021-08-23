@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://watchus.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://watchus.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://watchus.com/collections/gold-watch-faces.atom"/>
+  <title>Watchus</title>
+  <updated>2016-01-12T15:00:00-05:00</updated>
+  <author>
+    <name>Watchus</name>
+  </author>
+  <entry>
+    <id>https://watchus.com/products/247830705</id>
+    <published>2016-01-12T15:00:00-05:00</published>
+    <updated>2016-01-12T15:00:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/round-bracelet-watchface-1"/>
+    <title>Round Bracelet Watch face - Final Sale</title>
+    <s:type>Watch Faces</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/round-bracelet-watch-face-final-sale.jpg?v=1527018813"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Watch Faces<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bracelet Watch Faces</s:tag>
+    <s:tag>Gold Watch Faces</s:tag>
+    <s:tag>Sale Watch Faces</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247830705</id>
+      <title>Default</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>H111G</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247830421</id>
+    <published>2014-02-24T02:03:00-05:00</published>
+    <updated>2014-02-24T02:03:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/ribbon-watch-faces-mini-oval__9mm-springbar"/>
+    <title>Ribbon Watch Faces Mini Oval__9mm Springbar</title>
+    <s:type>Watch Faces</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/ribbon-watch-faces-mini-oval__9mm-springbar.jpg?v=1527018701"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Watch Faces<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>9mm Watch Faces</s:tag>
+    <s:tag>Gold Watch Faces</s:tag>
+    <s:tag>Ribbon Watch Faces</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247830421</id>
+      <title>Default</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>H93G</s:sku>
+      <s:grams>11</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247824225</id>
+    <published>2014-02-24T01:58:33-05:00</published>
+    <updated>2014-02-24T01:58:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/gold-tone-rectangle-watch-face__12mm"/>
+    <title>Gold Tone Rectangle Watch Face__12mm</title>
+    <s:type>Watch Faces</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/gold-tone-rectangle-watch-face__12mm.jpg?v=1527016188"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Watch Faces<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12mm Watch Faces</s:tag>
+    <s:tag>Gold Watch Faces</s:tag>
+    <s:tag>Ribbon Watch Faces</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247824225</id>
+      <title>Default</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>H58G</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247824209</id>
+    <published>2014-02-24T01:58:32-05:00</published>
+    <updated>2014-02-24T01:58:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/gold-swirl-watch-face_18mm"/>
+    <title>Gold Swirl Watch Face_18mm</title>
+    <s:type>Watch Faces</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/gold-swirl-watch-face_18mm.jpg?v=1527016178"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Watch Faces<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>18mm Watch Faces</s:tag>
+    <s:tag>Gold Watch Faces</s:tag>
+    <s:tag>New Watch Faces</s:tag>
+    <s:tag>Novelty Watch Faces</s:tag>
+    <s:tag>Ribbon Watch Faces</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247824209</id>
+      <title>Default</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>H65G</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247824197</id>
+    <published>2014-02-24T01:58:32-05:00</published>
+    <updated>2014-02-24T01:58:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/gold-sunflower-watch-face-18mm-bars"/>
+    <title>Gold Sunflower Watch Face-18mm Bars</title>
+    <s:type>Watch Faces</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/gold-sunflower-watch-face-18mm-bars.jpg?v=1527016174"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Watch Faces<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>18mm Watch Faces</s:tag>
+    <s:tag>Gold Watch Faces</s:tag>
+    <s:tag>New Watch Faces</s:tag>
+    <s:tag>Platform Watch Faces</s:tag>
+    <s:tag>Ribbon Watch Faces</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247824197</id>
+      <title>Default</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>H63G</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247824013</id>
+    <published>2014-02-24T01:58:22-05:00</published>
+    <updated>2014-02-24T01:58:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/gold-pop-in-watch-face"/>
+    <title>Gold Pop-in Watch Face</title>
+    <s:type>Watch Faces</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/gold-pop-in-watch-face.jpg?v=1527016121"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Watch Faces<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gold Watch Faces</s:tag>
+    <s:tag>New Watch Faces</s:tag>
+    <s:tag>Novelty Watch Faces</s:tag>
+    <s:tag>Pop-in Watch Faces</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247824013</id>
+      <title>default 6+</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku/>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247823761</id>
+    <published>2014-02-24T01:58:00-05:00</published>
+    <updated>2014-02-24T01:58:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/gold-mini-bracelet-watch-faces"/>
+    <title>Gold Mini Bracelet Watch Faces - Final Sale</title>
+    <s:type>Watch Faces</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/gold-mini-bracelet-watch-faces-final-sale.jpg?v=1527016020"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Watch Faces<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bracelet Watch Faces</s:tag>
+    <s:tag>Gold Watch Faces</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247823761</id>
+      <title>Default</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>H120G</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/247821701</id>
+    <published>2014-02-24T01:56:00-05:00</published>
+    <updated>2014-02-24T01:56:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/dead-watch-faces"/>
+    <title>Dead Watch Faces for Parts - Set of 6 - Assorted Styles and Colors - Watch Faces - Final Sale</title>
+    <s:type>Watch Faces</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/dead-watch-faces-for-parts-set-of-6-assorted-styles-and-colors-watch-faces-final-sale.jpg?v=1527015069"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Watch Faces<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dead Watch Faces</p>
+<p>Bracelet watch faces, Bar watch faces, silver, gold, copper, pewter color.</p>
+<p>Final Sale</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12mm Watch Faces</s:tag>
+    <s:tag>Bracelet Watch Faces</s:tag>
+    <s:tag>Brass Gold Watch Faces</s:tag>
+    <s:tag>Copper Watch Faces</s:tag>
+    <s:tag>Gold Watch Faces</s:tag>
+    <s:tag>New Watch Faces</s:tag>
+    <s:tag>Pewter Watch Faces</s:tag>
+    <s:tag>Ribbon Watch Faces</s:tag>
+    <s:tag>Sale Watch Faces</s:tag>
+    <s:tag>Sale Watch Faces - $4.99 and Up</s:tag>
+    <s:tag>Silver Watch Faces</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/247821701</id>
+      <title>Default</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>H101</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+</feed>

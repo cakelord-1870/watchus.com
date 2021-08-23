@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://watchus.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://watchus.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://watchus.com/collections/necklaces.atom"/>
+  <title>Watchus</title>
+  <updated>2018-03-23T12:40:26-04:00</updated>
+  <author>
+    <name>Watchus</name>
+  </author>
+  <entry>
+    <id>https://watchus.com/products/579526918174</id>
+    <published>2018-03-23T12:40:26-04:00</published>
+    <updated>2018-03-23T12:40:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/cheer-mom-necklace"/>
+    <title>Cheer Mom Necklace</title>
+    <s:type>Necklace</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/cheer-mom-necklace.jpg?v=1527020599"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Necklace<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details:</strong></p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Sterling Silver Plated</li>
+<li>Epoxy Charm</li>
+<li>Size: 22" Chain</li>
+<li>Weight: 48g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Charm Jewelry</s:tag>
+    <s:tag>Cheerleader</s:tag>
+    <s:tag>Cheerleader Necklace</s:tag>
+    <s:tag>Epoxy</s:tag>
+    <s:tag>Necklace</s:tag>
+    <s:tag>Star</s:tag>
+    <s:tag>Wholesale</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/579526918174</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>NSCHEER</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/579526885406</id>
+    <published>2018-03-23T12:40:26-04:00</published>
+    <updated>2018-03-23T12:40:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/pink-ribbon-necklace"/>
+    <title>Breast Cancer Necklace Pink</title>
+    <s:type>Necklace</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/breast-cancer-necklace-pink.jpg?v=1527020595"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Necklace<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sterling silver plated pink ribbon of hope.</p>
+<p><strong>Style Number: </strong>NSHOPE10</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Sterling Silver Plated</li>
+<li>Epoxy Charm</li>
+<li>Size: 18" Chain</li>
+<li>Weight: 9g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Breast Cancer</s:tag>
+    <s:tag>Epoxy</s:tag>
+    <s:tag>Necklace</s:tag>
+    <s:tag>Wholesale</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/579526885406</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>NSHOPE10</s:sku>
+      <s:grams>9984</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/579527245854</id>
+    <published>2018-03-23T12:40:25-04:00</published>
+    <updated>2018-03-23T12:40:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/sewing-machine-necklace"/>
+    <title>Sewing Machine Necklace</title>
+    <s:type>Necklace</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/sewing-machine-necklace.jpg?v=1527020631"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Necklace<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Sewing Machine Necklace</strong></p>
+<p><strong>Style Number: N507S</strong></p>
+<p><strong>Features:  </strong></p>
+<ul>
+<li>Sterling Silver Plated</li>
+<li>Size: 18" Chain</li>
+<li>Weight: 10g</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://watchus.com/products/579527245854</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>N507S</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/579527213086</id>
+    <published>2018-03-23T12:40:25-04:00</published>
+    <updated>2018-03-23T12:40:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/pine-cone-necklace"/>
+    <title>Pine Cone Necklace</title>
+    <s:type>Necklace</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/pine-cone-necklace.jpg?v=1527020627"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Necklace<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Pine Cone Necklace. Made in the USA.</strong></p>
+<p><strong>Style Number: N650S</strong></p>
+<p><strong>Features: </strong></p>
+<ul>
+<li>Sterling Silver Plated</li>
+<li>Size: 18" Chain</li>
+<li>Weight: 10g</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://watchus.com/products/579527213086</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>N650S</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/579527147550</id>
+    <published>2018-03-23T12:40:25-04:00</published>
+    <updated>2018-03-23T12:40:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/sterling-silver-plated-18-inch-snake-chain-necklace"/>
+    <title>Sterling Silver Plated 18 Inch Snake Chain Necklace</title>
+    <s:type>Necklace</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/sterling-silver-plated-18-inch-snake-chain-necklace.jpg?v=1527020623"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Necklace<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>18 inch snake chain necklace with 3 inch extension. Sterling Silver Plated.</strong></p>
+<p><strong>Purchase any of our beautiful charms to make your very own necklace! When purchasing more than one charm for a Necklace, please specify the positioning of each of your charms during checkout, (right,middle, left, etc.)</strong></p>
+<p><strong>Style Number: J951S</strong></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://watchus.com/products/579527147550</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>J951S</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/579527082014</id>
+    <published>2018-03-23T12:40:25-04:00</published>
+    <updated>2018-03-23T12:40:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/nautical-quilters-love-necklace"/>
+    <title>Nautical Quilters Love Necklace</title>
+    <s:type>Necklace</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/nautical-quilters-love-necklace.jpg?v=1527020617"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Necklace<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: Nautical Quilters Love Necklace. Made in the USA.</strong></p>
+<p><strong>Style Number: N959928S</strong></p>
+<p><strong>Features: </strong></p>
+<ul>
+<li>Sterling Silver Plated</li>
+<li>Size: 18" Chain</li>
+<li>Weight: 12g</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://watchus.com/products/579527082014</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>N959928S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/579527049246</id>
+    <published>2018-03-23T12:40:25-04:00</published>
+    <updated>2018-03-23T12:40:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/starfish-necklace"/>
+    <title>Starfish Necklace</title>
+    <s:type>Necklace</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/starfish-necklace.jpg?v=1527020612"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Necklace<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: Starfish Necklace. Made in the USA.</strong></p>
+<p><strong>Style Number: N512S</strong></p>
+<p><strong>Features: </strong></p>
+<ul>
+<li>Sterling Silver Plated</li>
+<li>Size: 18" Chain</li>
+<li>Weight: 10g</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://watchus.com/products/579527049246</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>N512S</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/579527016478</id>
+    <published>2018-03-23T12:40:25-04:00</published>
+    <updated>2018-03-23T12:40:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/day-at-the-races-necklace"/>
+    <title>Day At The Races Necklace</title>
+    <s:type>Necklace</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/day-at-the-races-necklace.jpg?v=1527020608"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Necklace<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: </strong></p>
+<p><strong>Style Number:åÊ</strong>NSSNOW</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Sterling Silver Plated</li>
+<li>Epoxy Charm</li>
+<li>Size: 22" Chain</li>
+<li>Weight: 48g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Charm Jewelry</s:tag>
+    <s:tag>Derby</s:tag>
+    <s:tag>Horse</s:tag>
+    <s:tag>Race</s:tag>
+    <s:tag>Sterling Silver Plated</s:tag>
+    <s:tag>Western</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/579527016478</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>NSWEST</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/579526950942</id>
+    <published>2018-03-23T12:40:25-04:00</published>
+    <updated>2018-03-23T12:40:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/let-it-snow-necklace"/>
+    <title>Let It Snow Necklace</title>
+    <s:type>Necklace</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/let-it-snow-necklace.jpg?v=1527020604"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Necklace<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: </strong></p>
+<p><strong>Style Number:åÊ</strong>NSSNOW</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Sterling Silver Plated</li>
+<li>Epoxy Charm</li>
+<li>Size: 22" Chain</li>
+<li>Weight: 48g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Charm Jewelry</s:tag>
+    <s:tag>Mitten</s:tag>
+    <s:tag>Necklace</s:tag>
+    <s:tag>Snow</s:tag>
+    <s:tag>Snowflake</s:tag>
+    <s:tag>Sterling Silver Plated</s:tag>
+    <s:tag>Wholesale</s:tag>
+    <s:tag>Winter</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/579526950942</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>NSSNOW</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/579527278622</id>
+    <published>2018-03-23T12:40:24-04:00</published>
+    <updated>2018-03-23T12:40:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/spool-of-thread-necklace"/>
+    <title>Spool of Thread Necklace</title>
+    <s:type>Necklace</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/spool-of-thread-necklace.jpg?v=1527020635"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Necklace<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Spool of Thread Necklace</strong></p>
+<p><strong>Style Number: N506S</strong></p>
+<p><strong>Features:  </strong></p>
+<ul>
+<li>Sterling Silver Plated</li>
+<li>Size: 18" Chain</li>
+<li>Weight: 10g</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://watchus.com/products/579527278622</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>N506S</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+</feed>

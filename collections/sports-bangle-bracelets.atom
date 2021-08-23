@@ -1,0 +1,1220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://watchus.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://watchus.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://watchus.com/collections/sports-bangle-bracelets.atom"/>
+  <title>Watchus</title>
+  <updated>2018-04-11T09:53:11-04:00</updated>
+  <author>
+    <name>Watchus</name>
+  </author>
+  <entry>
+    <id>https://watchus.com/products/581058232350</id>
+    <published>2018-04-11T09:53:11-04:00</published>
+    <updated>2018-04-11T09:53:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/soccer-player-paw-charm-bangle-bracelet"/>
+    <title>Soccer Player - Paw Charm Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/soccer-player-paw-charm-bangle-bracelet.jpg?v=1527021790"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Show your school spirit with this soccer player bangle bracelet featuring the paw for our neighbors the Pomperaug Panthers.<br></strong></p>
+<p><strong>Our Charm Bangle Bracelet is Handmade by SamandNan in America.<br></strong></p>
+<p><strong>Style Number: </strong>B696641S</p>
+<p><strong>Features: </strong><span style="text-decoration: underline;">Expandable and Hand Made in America</span> !</p>
+<p><strong>Note: </strong>Please add (2) weeks delivery time for 24K Gold Plated!</p>
+<ul>
+<li>Size: Small-Medium 2<sup>3/8"</sup> Round  or  Medium-Large 2<sup>1/2" </sup>Round</li>
+<li>Weight: 12g</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Athletic</s:tag>
+    <s:tag>Paw</s:tag>
+    <s:tag>Pomperaug</s:tag>
+    <s:tag>Soccer</s:tag>
+    <s:tag>Sports</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581058232350</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B696641S-S</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581058592798</id>
+    <published>2018-04-11T09:53:08-04:00</published>
+    <updated>2018-04-11T09:53:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/charm-swim-bangle-bracelet"/>
+    <title>Swim Charm Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/swim-charm-bangle-bracelet.jpg?v=1527021824"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Splash into the refreshing water with this stunning bangle bracelet featuring our graceful swimmer charm. This is a perfect item for a team.<br></strong></p>
+<p><strong>Our Bangle Bracelet is Handmade by SamandNan in America and is 100 mils sterling plate.<br></strong></p>
+<p><strong>Style Number: </strong>B085021S</p>
+<p><strong>Features: </strong><span style="text-decoration: underline;">Expandable and Hand Made in America</span> !</p>
+<p><strong>Note: </strong>Please add (2) weeks delivery time for 24K Gold Plated!</p>
+<ul>
+<li>Size: Small-Medium 2<sup>3/8"</sup> Round  or  Medium-Large 2<sup>1/2" </sup>Round</li>
+<li>Weight: 12g</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Athletic</s:tag>
+    <s:tag>Diver</s:tag>
+    <s:tag>Sports</s:tag>
+    <s:tag>Swim</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581058592798</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B085479S-S</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581058560030</id>
+    <published>2018-04-11T09:53:08-04:00</published>
+    <updated>2018-04-11T09:53:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/charm-meditation-bangle-bracelet"/>
+    <title>Meditation Charm Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/meditation-charm-bangle-bracelet.jpg?v=1527021819"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Achieve balance in your daily life with this beautiful bangle bracelet featuring a seated figure in the lotus pose.<br></strong></p>
+<p><strong>Our Charm Bangle Bracelet is Handmade by SamandNan in America.<br></strong></p>
+<p><strong>Style Number: </strong>B942714S</p>
+<p><strong>Features: </strong><span style="text-decoration: underline;">Expandable and Hand Made in America</span> !</p>
+<p><strong>Note: </strong>Please add (2) weeks delivery time for 24K Gold Plated!</p>
+<ul>
+<li>Size: Small-Medium 2<sup>3/8"</sup> Round  or  Medium-Large 2<sup>1/2" </sup>Round</li>
+<li>Weight: 12g</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Athletic</s:tag>
+    <s:tag>Sports</s:tag>
+    <s:tag>Yoga</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581058560030</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B942714S-S</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581059444766</id>
+    <published>2018-04-11T09:53:01-04:00</published>
+    <updated>2018-04-11T09:53:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/charm-worlds-best-angler-salmon-bangle-bracelet"/>
+    <title>World&apos;s Best Angler Salmon Charm Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/worlds-best-angler-salmon-charm-bangle-bracelet.jpg?v=1527021886"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>An outstanding bangle bracelet for any fly fishing enthusiast. Featuring the world's best angler and salmon charms.<br></strong></p>
+<p><strong>Our Charm Bangle Bracelet is Handmade by SamandNan in America.<br></strong></p>
+<p><strong>Style Number: </strong>B575776S</p>
+<p><strong>Features: </strong><span style="text-decoration: underline;">Expandable and Hand Made in America</span> !</p>
+<ul>
+<li>Size: Small 2 1/8<sup>"</sup>  or  Medium 2 3/8</li>
+<li>Weight: 12g</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Angler</s:tag>
+    <s:tag>Fish</s:tag>
+    <s:tag>Fishing</s:tag>
+    <s:tag>Nautical</s:tag>
+    <s:tag>Salmon</s:tag>
+    <s:tag>Sports</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581059444766</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B575776S</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581060034590</id>
+    <published>2018-04-11T09:52:56-04:00</published>
+    <updated>2018-04-11T09:52:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/charm-sailboat-lighthouse-bracelet-bangle"/>
+    <title>Sailboat Lighthouse Charm Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/sailboat-lighthouse-charm-bangle-bracelet.jpg?v=1527021941"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Feel the ocean breeze on your face with this beautiful nautical themed bangle bracelet featuring a sailboat and lighthouse charm.<br></strong></p>
+<p><strong>Our Charm Bangle Bracelet is Handmade by SamandNan in America.<br></strong></p>
+<p><strong>Style Number: </strong>B421660S</p>
+<p><strong>Features: </strong><span style="text-decoration: underline;">Expandable and Hand Made in America</span> !</p>
+<ul>
+<li>Size: Small  2 1/4"  Medium   2 3/8"</li>
+<li>Weight: 12g</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Boat</s:tag>
+    <s:tag>Lighthouse</s:tag>
+    <s:tag>Nautical</s:tag>
+    <s:tag>Ocean</s:tag>
+    <s:tag>Sports</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581060034590</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B421660S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581061115934</id>
+    <published>2018-04-11T09:52:49-04:00</published>
+    <updated>2018-04-11T09:52:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/roast-marshmallows-backpack-charm-bangle-bracelet"/>
+    <title>Marshmallow Stick Backpack Charm Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/marshmallow-stick-backpack-charm-bangle-bracelet.jpg?v=1527022048"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: </strong></p>
+<p><strong>Style Number: </strong><strong></strong>B726545S</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Expandable</li>
+<li>Size (Diameter): Small 2 1/4<sup>"</sup> or Medium 2 3/8<sup>"</sup>
+</li>
+<li>Weight: 12g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Backpack</s:tag>
+    <s:tag>Camp Fire</s:tag>
+    <s:tag>Camping</s:tag>
+    <s:tag>Hiking</s:tag>
+    <s:tag>Holiday</s:tag>
+    <s:tag>Marshmallow</s:tag>
+    <s:tag>Sports</s:tag>
+    <s:tag>Wilderness</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581061115934</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B726545S</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581066194974</id>
+    <published>2018-04-11T09:52:15-04:00</published>
+    <updated>2018-04-11T09:52:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/golf-clubs-charm-bangle-bracelet"/>
+    <title>Golf Clubs Charm Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/golf-clubs-charm-bangle-bracelet.jpg?v=1527022525"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: Golf Clubs Charm Bangle Bracelet</strong></p>
+<p><strong>Style Number: </strong>B093252S</p>
+<p>Please add (2) weeks delivery time for 24K Gold Plated!</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Expandable</li>
+<li>Size (Diameter): Small-Medium 2<sup>3/8"</sup> or Medium-Large 2<sup>1/2"</sup>
+</li>
+<li>Weight: 12g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Golf</s:tag>
+    <s:tag>Sports</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581066194974</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B093252S</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581066162206</id>
+    <published>2018-04-11T09:52:15-04:00</published>
+    <updated>2018-04-11T09:52:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/i-love-sports-charm-bangle-bracelet"/>
+    <title>I Love Sports Charm Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/i-love-sports-charm-bangle-bracelet.jpg?v=1527022521"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: I Love Sports Charm Bangle Bracelet</strong></p>
+<p><strong>Style Number: </strong>B869468S</p>
+<p>Please add (2) weeks delivery time for 24K Gold Plated!</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Expandable</li>
+<li>Size (Diameter): Small-Medium 2<sup>3/8"</sup> or Medium-Large 2<sup>1/2"</sup>
+</li>
+<li>Weight: 12g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Balls</s:tag>
+    <s:tag>Heart</s:tag>
+    <s:tag>Sports</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581066162206</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B869468S</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581066129438</id>
+    <published>2018-04-11T09:52:15-04:00</published>
+    <updated>2018-04-11T09:52:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/raquet-and-ball-charm-bangle-bracelet"/>
+    <title>Tennis and Ball Charm Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/tennis-and-ball-charm-bangle-bracelet.jpg?v=1527022517"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: </strong></p>
+<p><strong>Style Number: </strong>B269414S</p>
+<p>Please add (2) weeks delivery time for 24K Gold Plated!</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Expandable</li>
+<li>Size (Diameter): Small-Medium 2<sup>3/8"</sup> or Medium-Large 2<sup>1/2"</sup>
+</li>
+<li>Weight: 12g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Balls</s:tag>
+    <s:tag>Heart</s:tag>
+    <s:tag>Sports</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581066129438</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B269414S</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581066391582</id>
+    <published>2018-04-11T09:52:14-04:00</published>
+    <updated>2018-04-11T09:52:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/golf-bag-charm-bangle-bracelet"/>
+    <title>Golf Bag Charm Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/golf-bag-charm-bangle-bracelet.jpg?v=1527022538"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: Golf Bag Charm Bangle Bracelet</strong></p>
+<p><strong>Style Number: </strong>B268252S</p>
+<p>Please add (2) weeks delivery time for 24K Gold Plated!</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Expandable</li>
+<li>Size (Diameter): Small-Medium 2<sup>3/8"</sup> or Medium-Large 2<sup>1/2"</sup>
+</li>
+<li>Weight: 12g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Golf</s:tag>
+    <s:tag>Sports</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581066391582</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B268252S</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581066326046</id>
+    <published>2018-04-11T09:52:14-04:00</published>
+    <updated>2018-04-11T09:52:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/golf-ball-on-tee-charm-bangle-bracelet"/>
+    <title>Golf Ball On Tee Charm Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/golf-ball-on-tee-charm-bangle-bracelet.jpg?v=1527022534"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: Golf Ball On Tee Charm Bangle Bracelet</strong></p>
+<p><strong>Style Number: </strong>B090252S</p>
+<p>Please add (2) weeks delivery time for 24K Gold Plated!</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Expandable</li>
+<li>Size (Diameter): Small-Medium 2<sup>3/8"</sup> or Medium-Large 2<sup>1/2"</sup>
+</li>
+<li>Weight: 12g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Golf</s:tag>
+    <s:tag>Sports</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581066326046</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B090252S</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581066260510</id>
+    <published>2018-04-11T09:52:14-04:00</published>
+    <updated>2018-04-11T09:52:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/golf-cart-charm-bangle-bracelet"/>
+    <title>Golf Cart Charm Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/golf-cart-charm-bangle-bracelet.jpg?v=1527022529"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: Golf Cart Charm Bangle Bracelet</strong></p>
+<p><strong>Style Number: </strong>B089252SM</p>
+<p>Please add (2) weeks delivery time for 24K Gold Plated!</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Expandable</li>
+<li>Size (Diameter): Small-Medium 2<sup>3/8"</sup> or Medium-Large 2<sup>1/2"</sup>
+</li>
+<li>Weight: 12g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Golf</s:tag>
+    <s:tag>Sports</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581066260510</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B089252SM</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581066489886</id>
+    <published>2018-04-11T09:52:13-04:00</published>
+    <updated>2018-04-11T09:52:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/female-golfer-charm-bangle-bracelet"/>
+    <title>Female Golfer I Love Golf Charm Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/female-golfer-i-love-golf-charm-bangle-bracelet.jpg?v=1527022546"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: Female Golfer I Love Golf Charm Bangle Bracelet</strong></p>
+<p><strong>Style Number: </strong>B087252S</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Expandable</li>
+<li>Size (Diameter): Small 2 1/4<sup>"</sup> or Medium 2 3/8<sup>"</sup>
+</li>
+<li>Weight: 12g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Golf</s:tag>
+    <s:tag>Sports</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581066489886</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B087252S</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581066457118</id>
+    <published>2018-04-11T09:52:13-04:00</published>
+    <updated>2018-04-11T09:52:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/football-helmet-charm-bangle-bracelet"/>
+    <title>Football Helmet Charm Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/football-helmet-charm-bangle-bracelet.jpg?v=1527022542"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: Football Helmet Charm Bangle Bracelet</strong></p>
+<p><strong>Style Number: </strong>B325266S</p>
+<p>Please add (2) weeks delivery time for 24K Gold Plated!</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Expandable</li>
+<li>Size (Diameter): Small-Medium 2<sup>3/8"</sup> or Medium-Large 2<sup>1/2"</sup>
+</li>
+<li>Weight: 12g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Football</s:tag>
+    <s:tag>Sports</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581066457118</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B325266S</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581066620958</id>
+    <published>2018-04-11T09:52:12-04:00</published>
+    <updated>2018-04-11T09:52:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/cheerleader-pendant-watch-silver-bangle-bracelet"/>
+    <title>Cheerleader Pendant Watch Silver Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/cheerleader-pendant-watch-silver-bangle-bracelet.jpg?v=1527022559"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: </strong></p>
+<p><strong>Style Number: </strong>NBP949RS</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Expandable</li>
+<li>Size (Diameter): Small-Medium 2<sup>3/8"</sup> or Medium-Large 2<sup>1/2"</sup>
+</li>
+<li>Weight: 12g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cheerleader</s:tag>
+    <s:tag>Sports</s:tag>
+    <s:tag>Watch</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581066620958</id>
+      <title>Default Title</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>NBP024S-1</s:sku>
+      <s:grams>5992</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581066555422</id>
+    <published>2018-04-11T09:52:12-04:00</published>
+    <updated>2018-04-11T09:52:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/baseball-bat-charm-bangle-bracelet"/>
+    <title>Baseball Bat Glove Charm Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/baseball-bat-glove-charm-bangle-bracelet.jpg?v=1527022555"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: Baseball Bat Glove Charm Bangle Bracelet</strong></p>
+<p><strong>Style Number: </strong>B271272S</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Expandable</li>
+<li>Size (Diameter): Small 2 1/4<sup>"</sup> or Medium 2 3/8<sup>"</sup>
+</li>
+<li>Weight: 12g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baseball</s:tag>
+    <s:tag>Sports</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581066555422</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B271272S</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581066522654</id>
+    <published>2018-04-11T09:52:12-04:00</published>
+    <updated>2018-04-11T09:52:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/bicycle-charm-bangle-bracelet"/>
+    <title>Bicycle Peace Charm Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/bicycle-peace-charm-bangle-bracelet.jpg?v=1527022550"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: Bicycle Peace Charm Bangle Bracelet</strong></p>
+<p><strong>Style Number: </strong>B273885S</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Expandable</li>
+<li>Size (Diameter): Small 2 1/4<sup>"</sup> or Medium 2 3/8<sup>"</sup>
+</li>
+<li>Weight: 12g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bicycle</s:tag>
+    <s:tag>Sports</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581066522654</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B273885S</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581066784798</id>
+    <published>2018-04-11T09:52:10-04:00</published>
+    <updated>2018-04-11T09:52:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/golf-bag-pendant-watch-silver-bangle-bracelet"/>
+    <title>Golf Bag Pendant Watch Silver Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/golf-bag-pendant-watch-silver-bangle-bracelet.jpg?v=1527022575"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: Golf Bag Pendant Watch Silver Bangle Bracelet</strong></p>
+<p><strong>Style Number: </strong>NBP024S</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Expandable</li>
+<li>Size (Diameter): Small-Medium 2<sup>3/8"</sup> or Medium-Large 2<sup>1/2"</sup>
+</li>
+<li>Weight: 12g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Golf</s:tag>
+    <s:tag>Heart</s:tag>
+    <s:tag>Sports</s:tag>
+    <s:tag>Watch</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581066784798</id>
+      <title>Default Title</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>NBP024S-1</s:sku>
+      <s:grams>5992</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581066915870</id>
+    <published>2018-04-11T09:52:09-04:00</published>
+    <updated>2018-04-11T09:52:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/blue_star_cheer_bangle_bracelet"/>
+    <title>Blue Star Cheer Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/blue-star-cheer-bangle-bracelet.jpg?v=1527022591"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><strong>Style Number: B909938SM-Blue</strong></strong></p>
+<p> </p>
+<p><strong>Description: Cheerleader Blue Star Bangle Sterling Silver Plated Bangle Bracelet</strong></p>
+<p>Please add (2) weeks delivery time for 24K Gold Plated!</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Expandable</li>
+<li>Size (Diameter): Small-Medium 2<sup>3/8"</sup> or Medium-Large 2<sup>1/2"</sup>
+</li>
+<li>Weight: 12g</li>
+<li>Made in America</li>
+</ul>
+<strong>Style Number: B909938SM-Blue</strong></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cheerleader</s:tag>
+    <s:tag>Sports</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581066915870</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B909938SM-Blue</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581067014174</id>
+    <published>2018-04-11T09:52:08-04:00</published>
+    <updated>2018-04-11T09:52:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/blue_star_puff_star_bangle_bracelet"/>
+    <title>Blue Star Puff Star Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/blue-star-puff-star-bangle-bracelet.jpg?v=1527022604"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: Blue Star Puff Star Bangle Bracelet</strong></p>
+<p><strong>Style Number: </strong>NB479189S</p>
+<p>Please add (2) weeks delivery time for 24K Gold Plated!</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Expandable</li>
+<li>Size (Diameter): Small-Medium 2<sup>3/8"</sup> or Medium-Large 2<sup>1/2"</sup>
+</li>
+<li>Weight: 12g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cheerleader</s:tag>
+    <s:tag>Sports</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581067014174</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>NB479189S-S</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581066981406</id>
+    <published>2018-04-11T09:52:08-04:00</published>
+    <updated>2018-04-11T09:52:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/red_star_cheer_bangle_bracelet"/>
+    <title>Red Star Cheer Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/red-star-cheer-bangle-bracelet.jpg?v=1527022600"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: </strong></p>
+<p><strong>Style Number: </strong>B909938S Red</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Expandable</li>
+<li>Size (Diameter): Small 2 1/4<sup>"</sup> or Medium 2 3/4<sup>"</sup>
+</li>
+<li>Weight: 12g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cheerleader</s:tag>
+    <s:tag>Sports</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581066981406</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B909938S Red</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581066948638</id>
+    <published>2018-04-11T09:52:08-04:00</published>
+    <updated>2018-04-11T09:52:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/white_star_cheer_bangle_bracelet"/>
+    <title>White Star Cheer Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/white-star-cheer-bangle-bracelet.jpg?v=1527022596"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: </strong></p>
+<p><strong>Style Number: </strong>NB93893S</p>
+<p>Please add (2) weeks delivery time for 24K Gold Plated!</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Expandable</li>
+<li>Size (Diameter): Small-Medium 2<sup>3/8"</sup> or Medium-Large 2<sup>1/2"</sup>
+</li>
+<li>Weight: 12g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cheerleader</s:tag>
+    <s:tag>Sports</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581066948638</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>NB93893S-S</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581067210782</id>
+    <published>2018-04-11T09:52:07-04:00</published>
+    <updated>2018-04-11T09:52:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/white_star_puff_heart_bangle_bracelet"/>
+    <title>White Star Puff Heart Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/white-star-puff-heart-bangle-bracelet.jpg?v=1527022619"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: </strong></p>
+<p><strong>Style Number: </strong>NB47893S</p>
+<p>Please add (2) weeks delivery time for 24K Gold Plated!</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Expandable</li>
+<li>Size (Diameter): Small-Medium 2<sup>3/8"</sup> or Medium-Large 2<sup>1/2"</sup>
+</li>
+<li>Weight: 12g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cheerleader</s:tag>
+    <s:tag>Sports</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581067210782</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>NB47893S-S</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581067145246</id>
+    <published>2018-04-11T09:52:07-04:00</published>
+    <updated>2018-04-11T09:52:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/blue_star_puff_heart_bangle_bracelet"/>
+    <title>Blue Star Puff Heart Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/blue-star-puff-heart-bangle-bracelet.jpg?v=1527022615"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: Blue Star Puff Heart Bangle Bracelet</strong></p>
+<p><strong>Style Number: </strong>B478909S Blue</p>
+<p>Show your loved one how much you care with this blue star and heart combination bangle bracelet.</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Expandable</li>
+<li>Size (Diameter): Small 21/4<sup>"</sup> or Medium 2 3/8<sup>"</sup>
+</li>
+<li>Weight: 12g</li>
+<li>Sterling Silver Plated</li>
+<li>Made in America</li>
+<li>Designed by Nancy Dreishpoon</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cheerleader</s:tag>
+    <s:tag>Sports</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581067145246</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B478909S Blue</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581067112478</id>
+    <published>2018-04-11T09:52:07-04:00</published>
+    <updated>2018-04-11T09:52:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/red_star_puff_star_bangle_bracelet"/>
+    <title>Red Star Puff Star Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/red-star-puff-star-bangle-bracelet.jpg?v=1527022611"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: </strong></p>
+<p><strong>Style Number: </strong>NB47911S</p>
+<p>Please add (2) weeks delivery time for 24K Gold Plated!</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Expandable</li>
+<li>Size (Diameter): Small-Medium 2<sup>3/8"</sup> or Medium-Large 2<sup>1/2"</sup>
+</li>
+<li>Weight: 12g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cheerleader</s:tag>
+    <s:tag>Sports</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581067112478</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>NB47911S-S</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+</feed>

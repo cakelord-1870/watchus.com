@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://watchus.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://watchus.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://watchus.com/collections/winter-bangle-bracelets.atom"/>
+  <title>Watchus</title>
+  <updated>2018-04-11T09:53:11-04:00</updated>
+  <author>
+    <name>Watchus</name>
+  </author>
+  <entry>
+    <id>https://watchus.com/products/581058166814</id>
+    <published>2018-04-11T09:53:11-04:00</published>
+    <updated>2018-04-11T09:53:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/charm-large-snowflake-bangle-bracelet"/>
+    <title>Large Snowflake Charm Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/large-snowflake-charm-bangle-bracelet.jpg?v=1527021781"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Embrace the magic of sitting by a cozy fire in a snow storm with this bangle bracelet featuring our large and small snowflake charms.<br></strong></p>
+<p><strong>Our Charm Bangle Bracelet is Handmade by SamandNan in America.<br></strong></p>
+<p><strong>Style Number: </strong>B105103S</p>
+<p><strong>Features: </strong><span style="text-decoration: underline;">Expandable and Hand Made in America</span> !</p>
+<p><strong>Note: </strong>Please add (2) weeks delivery time for 24K Gold Plated!</p>
+<ul>
+<li>Size: Small-Medium 2<sup>3/8"</sup> Round  or  Medium-Large 2<sup>1/2" </sup>Round</li>
+<li>Weight: 12g</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Snow</s:tag>
+    <s:tag>Snowflake</s:tag>
+    <s:tag>Winter</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581058166814</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B105103S-S</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581060100126</id>
+    <published>2018-04-11T09:52:56-04:00</published>
+    <updated>2018-04-11T09:52:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/skier-bangle-charm-bracelet"/>
+    <title>Skier Charm Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/skier-charm-bangle-bracelet.jpg?v=1527021944"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Skier Charm Bracelet. Skiing down a white powder mountain in Colorado in a Feeling of Ecstasy! </strong></p>
+<p><strong>Our Charm Bangle Bracelet is Handmade by SamandNan in America.<br></strong></p>
+<p><strong>Style Number: </strong>B102103S</p>
+<p><strong>Features: </strong><span style="text-decoration: underline;">Expandable and Hand Made in America</span> !</p>
+<p><strong>Note: </strong>Please add (2) weeks delivery time for 24K Gold Plated!</p>
+<ul>
+<li>Size: Small-Medium 2<sup>3/8"</sup> Round  or  Medium-Large 2<sup>1/2" </sup>Round</li>
+<li>Weight: 12g</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Snow</s:tag>
+    <s:tag>Winter</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581060100126</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B102103S</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581065998366</id>
+    <published>2018-04-11T09:52:17-04:00</published>
+    <updated>2018-04-11T09:52:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/medium-snowflake-charm-bangle-bracelet"/>
+    <title>Medium Snowflake Charm Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/medium-snowflake-charm-bangle-bracelet.jpg?v=1527022500"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: Medium Snowflake Charm Bangle Bracelet</strong></p>
+<p><strong>Style Number: </strong>NB104103SM</p>
+<p>Please add (2) weeks delivery time for 24K Gold Plated!</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Expandable</li>
+<li>Size (Diameter): Small-Medium 2<sup>3/8"</sup> or Medium-Large 2<sup>1/2"</sup>
+</li>
+<li>Weight: 12g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Snow</s:tag>
+    <s:tag>Snowflake</s:tag>
+    <s:tag>Winter</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581065998366</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>NB104103SM</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581065965598</id>
+    <published>2018-04-11T09:52:17-04:00</published>
+    <updated>2018-04-11T09:52:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/mitten-charm-bangle-bracelet"/>
+    <title>Mitten Charm Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/mitten-charm-bangle-bracelet.jpg?v=1527022496"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: Mitten Charm Bangle Bracelet</strong></p>
+<p><strong>Style Number: </strong>B100103SM</p>
+<p>Please add (2) weeks delivery time for 24K Gold Plated!</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Expandable</li>
+<li>Size (Diameter): Small-Medium 2<sup>3/8"</sup> or Medium-Large 2<sup>1/2"</sup>
+</li>
+<li>Weight: 12g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mitten</s:tag>
+    <s:tag>Snow</s:tag>
+    <s:tag>Snowflake</s:tag>
+    <s:tag>Winter</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581065965598</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B100103SM</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581066096670</id>
+    <published>2018-04-11T09:52:16-04:00</published>
+    <updated>2018-04-11T09:52:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/crystal-snowflake-charm-bangle-bracelet"/>
+    <title>Crystal Snowflake Charm Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/crystal-snowflake-charm-bangle-bracelet.jpg?v=1527022513"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: Crystal Snowflake Charm Bangle Bracelet</strong></p>
+<p><strong>Style Number:  </strong>B338103S</p>
+<p>Please add (2) weeks delivery time for 24K Gold Plated!</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Expandable</li>
+<li>Size (Diameter): Small-Medium 2<sup>3/8"</sup> or Medium-Large 2<sup>1/2"</sup>
+</li>
+<li>Weight: 12g</li>
+<li>Hand Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Snow</s:tag>
+    <s:tag>Snowflake</s:tag>
+    <s:tag>Winter</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581066096670</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B338103S</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581066063902</id>
+    <published>2018-04-11T09:52:16-04:00</published>
+    <updated>2018-04-11T09:52:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/hockey-stick-charm-bangle-bracelet"/>
+    <title>Hockey Stick Charm Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/hockey-stick-charm-bangle-bracelet.jpg?v=1527022507"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: Hockey Stick Charm Bangle Bracelet</strong></p>
+<p><strong>Style Number: </strong>B264479S</p>
+<p>Please add (2) weeks delivery time for 24K Gold Plated!</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Expandable</li>
+<li>Size (Diameter): Small-Medium 2<sup>3/8"</sup> or Medium-Large 2<sup>1/2"</sup>
+</li>
+<li>Weight: 12g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hockey</s:tag>
+    <s:tag>Hockey Stick</s:tag>
+    <s:tag>Sport</s:tag>
+    <s:tag>Winter</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581066063902</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B264479S</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581066031134</id>
+    <published>2018-04-11T09:52:16-04:00</published>
+    <updated>2018-04-11T09:52:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/ice-skate-charm-bangle-bracelet"/>
+    <title>Ice Skate Charm Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/ice-skate-charm-bangle-bracelet.jpg?v=1527022504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: Ice Skate Charm Bangle Bracelet</strong></p>
+<p><strong>Style Number: </strong>B265103S</p>
+<p>Please add (2) weeks delivery time for 24K Gold Plated!</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Expandable</li>
+<li>Size (Diameter): Small-Medium 2<sup>3/8"</sup> or Medium-Large 2<sup>1/2"</sup>
+</li>
+<li>Weight: 12g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ice Skate</s:tag>
+    <s:tag>Skate</s:tag>
+    <s:tag>Snow</s:tag>
+    <s:tag>Snowflake</s:tag>
+    <s:tag>Sport</s:tag>
+    <s:tag>Winter</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581066031134</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B265103S</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+</feed>

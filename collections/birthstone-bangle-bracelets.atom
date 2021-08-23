@@ -1,0 +1,786 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://watchus.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://watchus.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://watchus.com/collections/birthstone-bangle-bracelets.atom"/>
+  <title>Watchus</title>
+  <updated>2018-04-10T10:46:10-04:00</updated>
+  <author>
+    <name>Watchus</name>
+  </author>
+  <entry>
+    <id>https://watchus.com/products/581057445918</id>
+    <published>2018-04-10T10:46:10-04:00</published>
+    <updated>2018-04-10T10:46:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/july-red-birthstone-charms-bangle-bracelet-jpg"/>
+    <title>July Red Birthstone Charms Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/july-red-birthstone-charms-bangle-bracelet.jpg?v=1527021725"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>O<span>ur SamandNan January Red Birthstone Charms Bangle Bracelet celebrates your Birth Month. With the number seven and a Red Sparkle charm/</span> Handmade in America and Sterling Silver Plated.</strong></p>
+<p><strong>Style Number: </strong>B954July</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Expandable</li>
+<li>Size (Diameter): Small 2 1/4"  Medium 2<sup>3/8"  </sup>Large 2<sup>1/2" </sup>
+</li>
+<li>Weight: 12g</li>
+<li>Sterling Silver Plated</li>
+<li>Handmade Made in America</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Birthstone</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581057445918</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B954July</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581057380382</id>
+    <published>2018-04-10T10:46:10-04:00</published>
+    <updated>2018-04-10T10:46:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/copy-of-july-red-birthstone-charms-bangle-bracelet"/>
+    <title>December Light Blue Birthstone Charms Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/december-light-blue-birthstone-charms-bangle-bracelet.jpg?v=1527021715"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>O<span>ur December Light Blue Sparkle Birthstone Charms Bangle Bracelet celebrates your Birth Month. With the number Twelve and a Light Blue Sparkle charm.</span> Handmade in America and Sterling Silver Plated.</strong></p>
+<p><strong>Style Number: B95425S</strong></p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Expandable</li>
+<li>Size (Diameter): Small 2 1/4"  Medium 2<sup>3/8"  </sup>Large 2<sup>1/2" </sup>
+</li>
+<li>Weight: 12g</li>
+<li>Sterling Silver Plated</li>
+<li>Handmade Made in America</li>
+</ul>
+<p>December Light Blue Birthstone Charms Bangle Bracelet</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Birthstone</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581057380382</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>Cred</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581057347614</id>
+    <published>2018-04-10T10:46:09-04:00</published>
+    <updated>2018-04-10T10:46:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/february-sparkle-grey-birthstone-charms-bangle-bracelet"/>
+    <title>February Sparkle Grey Birthstone Charms Bangle Bracelet 1</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/february-sparkle-grey-birthstone-charms-bangle-bracelet-1.jpg?v=1527021711"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>O<span>ur SamandNan February Grey Sparkle Birthstone Charms Bangle Bracelet celebrates your Birth Month. With the number seven and a Red Sparkle charm/</span> Handmade in America and Sterling Silver Plated.</strong></p>
+<p><strong>Style Number: B954155</strong></p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Expandable</li>
+<li>Size (Diameter): Small 2 1/4"  Medium 2<sup>3/8"  </sup>Large 2<sup>1/2" </sup>
+</li>
+<li>Weight: 12g</li>
+<li>Sterling Silver Plated</li>
+<li>Handmade Made in America</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Birthstone</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581057347614</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>Cred</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581057314846</id>
+    <published>2018-04-10T10:46:09-04:00</published>
+    <updated>2018-04-10T10:46:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/february-sparkle-grey-birthstone-charms-bangle-bracelet-2"/>
+    <title>February Sparkle Grey Birthstone Charms Bangle Bracelet 2</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/february-sparkle-grey-birthstone-charms-bangle-bracelet-2.jpg?v=1527021707"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong><strong>O<span>ur SamandNan February Grey Sparkle Birthstone Charms Bangle Bracelet celebrates your Birth Month. With the number seven and a Red Sparkle charm/</span> Handmade in America and Sterling Silver Plated.</strong><br></strong></p>
+<p><strong>Our Charm Bangle Bracelet is Handmade by SamandNan in America.<br></strong></p>
+<p><strong>Style Number: </strong>B954February</p>
+<p><strong>Features: </strong><span style="text-decoration: underline;">Expandable and Hand Made in America</span> !</p>
+<ul>
+<ul>
+<li>Size: Small 2 1/4<sup>"</sup>  or  Medium 2 3/8<sup>"</sup>
+</li>
+<li>Weight: 12g</li>
+<li>Sterling Silver Plated</li>
+<li>Handmade Made in America</li>
+</ul>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Anchor</s:tag>
+    <s:tag>Beach</s:tag>
+    <s:tag>Birthstone</s:tag>
+    <s:tag>Nautical</s:tag>
+    <s:tag>Ocean</s:tag>
+    <s:tag>Sea</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581057314846</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B954February</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581057282078</id>
+    <published>2018-04-10T10:46:09-04:00</published>
+    <updated>2018-04-10T10:46:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/march-turquoise-birthstone-charms-bangle-bracelet-3"/>
+    <title>March Turquoise Birthstone Charms Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/march-turquoise-birthstone-charms-bangle-bracelet.jpg?v=1527021703"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: March Turquoise Birthstone Charms Bangle Bracelet</strong></p>
+<p><strong>Style Number: </strong>B954Turquoise</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Expandable</li>
+<li>Size (Diameter): Small 2 1/4<sup>"</sup> or Medium 2 3/8<sup>"</sup>
+</li>
+<li>Weight: 12g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Birthstone</s:tag>
+    <s:tag>Star</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581057282078</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B954March</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581057249310</id>
+    <published>2018-04-10T10:46:08-04:00</published>
+    <updated>2018-04-10T10:46:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/light_blue_december_birthstone_charms_bangl_-bracelet"/>
+    <title>Light Blue December Birthstone Charms Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/light-blue-december-birthstone-charms-bangle-bracelet.jpg?v=1527021699"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>O<span>ur Light Blue December Birthstone Charms Bangle Bracelet celebrates your Birth Month. With the number Twelve and a Light Blue Sparkle charm.</span> Handmade in America and Sterling Silver Plated.</strong></p>
+<p><strong>Style Number: </strong>B954December</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Expandable</li>
+<li>Size (Diameter): Small 2 1/4"  Medium 2<sup>3/8"  </sup>Large 2<sup>1/2" </sup>
+</li>
+<li>Weight: 12g</li>
+<li>Sterling Silver Plated</li>
+<li>Handmade Made in America</li>
+</ul>
+<p>December Light Blue Birthstone Charms Bangle Bracelet</p>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Birthstone</s:tag>
+    <s:tag>Star</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581057249310</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B954December</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581057216542</id>
+    <published>2018-04-10T10:46:08-04:00</published>
+    <updated>2018-04-10T10:46:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/july-red-sparkle-birthstone-charms-bangle-bracelet"/>
+    <title>July Red Sparkle Birthstone Charms Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/july-red-sparkle-birthstone-charms-bangle-bracelet.jpg?v=1527021695"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>O<span>ur SamandNan July Red Sparkle Birthstone Charms Bangle Bracelet celebrates your Birth Month. With the number seven and a Red Sparkle charm/</span> Handmade in America and Sterling Silver Plated.</strong></p>
+<p><strong>Style Number: B954July</strong></p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Expandable</li>
+<li>Size (Diameter): Small 2 1/4"  Medium 2<sup>3/8"  </sup>Large 2<sup>1/2" </sup>
+</li>
+<li>Weight: 12g</li>
+<li>Sterling Silver Plated</li>
+<li>Handmade Made in America</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Birthstone</s:tag>
+    <s:tag>Star</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581057216542</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B954July</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581057183774</id>
+    <published>2018-04-10T10:46:08-04:00</published>
+    <updated>2018-04-10T10:46:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/january-red-birthstone-charms-bangle-bracelet"/>
+    <title>January Red Birthstone Charms Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/january-red-birthstone-charms-bangle-bracelet.jpg?v=1527021691"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: January Red Birthstone Charms Bangle Bracelet</strong></p>
+<p><strong>Style Number: </strong>B954January<strong><span> </span></strong></p>
+<p><strong><span></span></strong><strong>Features:</strong></p>
+<ul>
+<li>Expandable</li>
+<li>Size (Diameter): Small 2 1/4<sup>"</sup> or Medium 2 3/8<sup>"</sup>
+</li>
+<li>Weight: 12g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Birthstone</s:tag>
+    <s:tag>Star</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581057183774</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B954January</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581057118238</id>
+    <published>2018-04-10T10:46:07-04:00</published>
+    <updated>2018-04-10T10:46:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/october-pink-birthstone-charms-bangle-bracelet"/>
+    <title>October Pink Birthstone Charms Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/october-pink-birthstone-charms-bangle-bracelet.jpg?v=1527021687"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: October Pink Birthstone Charms Bangle Bracelet</strong></p>
+<p><strong>Style Number: </strong>B954October</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Expandable</li>
+<li>Size (Diameter): Small 2 1/4<sup>"</sup> or Medium 2 3/8<sup>"</sup>
+</li>
+<li>Weight: 12g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Birthstone</s:tag>
+    <s:tag>Star</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581057118238</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B954October</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581057052702</id>
+    <published>2018-04-10T10:46:07-04:00</published>
+    <updated>2018-04-10T10:46:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/silver-april-birthstone-charms-bangle-bracelet"/>
+    <title>April Silver Birthstone Charms Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/april-silver-birthstone-charms-bangle-bracelet.jpg?v=1527021683"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: April Silver Birthstone Charms Bangle Bracelet</strong></p>
+<p><strong>Style Number: </strong>B954Diamond</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Expandable</li>
+<li>Size (Diameter): Small 2 1/4<sup>"</sup> or Medium 2 3/8<sup>"</sup>
+</li>
+<li>Weight: 12g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Birthstone</s:tag>
+    <s:tag>Star</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581057052702</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B954April</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581057019934</id>
+    <published>2018-04-10T10:46:07-04:00</published>
+    <updated>2018-04-10T10:46:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/may-green-birthstone-charms-bangle-bracelet"/>
+    <title>May Green Birthstone Charms Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/may-green-birthstone-charms-bangle-bracelet.jpg?v=1527021679"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: May Green Birthstone Charms Bangle Bracelet</strong></p>
+<p><strong>Style Number: </strong>B954Green</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Expandable</li>
+<li>Size (Diameter): Small 2 1/4<sup>"</sup> or Medium 2 3/8<sup>"</sup>
+</li>
+<li>Weight: 12g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Birthstone</s:tag>
+    <s:tag>Star</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581057019934</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B954May</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581056987166</id>
+    <published>2018-04-10T10:46:06-04:00</published>
+    <updated>2018-04-10T10:46:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/june-pink-birthstone-charms-bangle-bracelet"/>
+    <title>June Pink Birthstone Charms Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/june-pink-birthstone-charms-bangle-bracelet.jpg?v=1527021675"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>O<span>ur SamandNan June Pink Birthstone Charms Bangle Bracelet celebrates your Birth Month. With the number seven and a Red Sparkle charm/</span> Handmade in America and Sterling Silver Plated.</strong></p>
+<p><strong>Style Number: </strong>B954June</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Expandable</li>
+<li>Size (Diameter): Small 2 1/4"  Medium 2<sup>3/8"  </sup>Large 2<sup>1/2" </sup>
+</li>
+<li>Weight: 12g</li>
+<li>Sterling Silver Plated</li>
+<li>Handmade Made in America</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Birthstone</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581056987166</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B954June</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581056954398</id>
+    <published>2018-04-10T10:46:06-04:00</published>
+    <updated>2018-04-10T10:46:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/august-green-birthstone-charms-bangle-bracelet"/>
+    <title>August Green Birthstone Charms Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/august-green-birthstone-charms-bangle-bracelet.jpg?v=1527021671"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>O<span>ur SamandNan August Green Birthstone Charms Bangle Bracelet celebrates your Birth Month. With the number seven and a Red Sparkle charm/</span> Handmade in America and Sterling Silver Plated.</strong></p>
+<p><strong>Style Number:</strong> B954August</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Expandable</li>
+<li>Size (Diameter): Small 2 1/4"  Medium 2<sup>3/8"  </sup>Large 2<sup>1/2" </sup>
+</li>
+<li>Weight: 12g</li>
+<li>Sterling Silver Plated</li>
+<li>Handmade Made in America</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Birthstone</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581056954398</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B954August</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581056921630</id>
+    <published>2018-04-10T10:46:06-04:00</published>
+    <updated>2018-04-10T10:46:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/september-blue-birthstone-charms-bangle-bracelet"/>
+    <title>September Blue Birthstone Charms Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/september-blue-birthstone-charms-bangle-bracelet.jpg?v=1527021667"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>O<span>ur SamandNan September Blue Birthstone Charms Bangle Bracelet celebrates your Birth Month. With the number seven and a Red Sparkle charm/</span> Handmade in America and Sterling Silver Plated.</strong></p>
+<p><strong>Style Number: </strong>B954September</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Expandable</li>
+<li>Size (Diameter): Small 2 1/4"  Medium 2<sup>3/8"  </sup>Large 2<sup>1/2" </sup>
+</li>
+<li>Weight: 12g</li>
+<li>Sterling Silver Plated</li>
+<li>Handmade Made in America</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Birthstone</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581056921630</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B954September</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581056888862</id>
+    <published>2018-04-10T10:46:06-04:00</published>
+    <updated>2018-04-10T10:46:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/february-purple-birthstone-charms-bangle-bracelet"/>
+    <title>February Purple Birthstone Charms Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/february-purple-birthstone-charms-bangle-bracelet.jpg?v=1527021663"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: February Purple Birthstone Charms Bangle Bracelet</strong></p>
+<p><strong>Style:</strong> B954February</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Expandable</li>
+<li>Size (Diameter): Small 2 1/4<sup>"</sup> or Medium 2 3/8<sup>"</sup>
+</li>
+<li>Weight: 12g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Birthstone</s:tag>
+    <s:tag>Star</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581056888862</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B954February</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581056856094</id>
+    <published>2018-04-10T10:46:05-04:00</published>
+    <updated>2018-04-10T10:46:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/november-gold-birthstone-charms-bangle-bracelet"/>
+    <title>November Gold Birthstone Charms Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/november-gold-birthstone-charms-bangle-bracelet.jpg?v=1527021659"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>O<span>ur SamandNan November Gold Birthstone Charms Bangle Bracelet celebrates your Birth Month. With the number seven and a Red Sparkle charm/</span> Handmade in America and Sterling Silver Plated.</strong></p>
+<p><strong>Style Number: </strong>B954November</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Expandable</li>
+<li>Size (Diameter): Small 2 1/4"  Medium 2<sup>3/8"  </sup>Large 2<sup>1/2" </sup>
+</li>
+<li>Weight: 12g</li>
+<li>Sterling Silver Plated</li>
+<li>Handmade Made in America</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Birthstone</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581056856094</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B954November</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+</feed>

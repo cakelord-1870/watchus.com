@@ -1,0 +1,574 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://watchus.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://watchus.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://watchus.com/collections/wedding-bangle-bracelets.atom"/>
+  <title>Watchus</title>
+  <updated>2018-04-11T09:52:01-04:00</updated>
+  <author>
+    <name>Watchus</name>
+  </author>
+  <entry>
+    <id>https://watchus.com/products/581068029982</id>
+    <published>2018-04-11T09:52:01-04:00</published>
+    <updated>2018-04-11T09:52:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/wedding-cake-charm-bangle-bracelet"/>
+    <title>Wedding Cake Charm Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/wedding-cake-charm-bangle-bracelet.jpg?v=1527022692"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: </strong></p>
+<p><strong>Style Number: </strong>NB642S</p>
+<p>Please add (2) weeks delivery time for 24K Gold Plated!</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Expandable</li>
+<li>Size (Diameter): Small-Medium 2<sup>3/8"</sup> or Medium-Large 2<sup>1/2"</sup>
+</li>
+<li>Weight: 12g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wedding</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581068029982</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>NB642S-S</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581068095518</id>
+    <published>2018-04-11T09:52:00-04:00</published>
+    <updated>2018-04-11T09:52:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/wedding-bells-charm-bangle-bracelet"/>
+    <title>Wedding Bells Charm Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/wedding-bells-charm-bangle-bracelet.jpg?v=1527022696"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: </strong></p>
+<p><strong>Style Number: </strong>NB339S</p>
+<p>Please add (2) weeks delivery time for 24K Gold Plated!</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Expandable</li>
+<li>Size (Diameter): Small-Medium 2<sup>3/8"</sup> or Medium-Large 2<sup>1/2"</sup>
+</li>
+<li>Weight: 12g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wedding</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581068095518</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>NB339S-S</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581069078558</id>
+    <published>2018-04-11T09:51:55-04:00</published>
+    <updated>2018-04-11T09:51:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/rose-charm-bangle-bracelet"/>
+    <title>Rose Charm Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/rose-charm-bangle-bracelet.jpg?v=1527022766"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: </strong></p>
+<p><strong>Style Number: </strong>B166478SM</p>
+<p>Please add (2) weeks delivery time for 24K Gold Plated!</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Expandable</li>
+<li>Size (Diameter): Small-Medium 2<sup>3/8"</sup> or Medium-Large 2<sup>1/2"</sup>
+</li>
+<li>Weight: 12g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wedding</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581069078558</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B166478SM</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581069701150</id>
+    <published>2018-04-11T09:51:51-04:00</published>
+    <updated>2018-04-11T09:51:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/perfume-bottle-charm-bangle-bracelet"/>
+    <title>Perfume Bottle Charm Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/perfume-bottle-charm-bangle-bracelet.jpg?v=1527022812"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: </strong></p>
+<p><strong>Style Number: </strong>NB663S</p>
+<p>Please add (2) weeks delivery time for 24K Gold Plated!</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Expandable</li>
+<li>Size (Diameter): Small-Medium 2<sup>3/8"</sup> or Medium-Large 2<sup>1/2"</sup>
+</li>
+<li>Weight: 12g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wedding</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581069701150</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>NB663S-S</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581070258206</id>
+    <published>2018-04-11T09:51:45-04:00</published>
+    <updated>2018-04-11T09:51:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/just-married-charm-bangle-bracelet"/>
+    <title>Just Married Heart Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/just-married-heart-bangle-bracelet.jpg?v=1527022868"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: Just Married Heart Bangle Bracelet</strong></p>
+<p><strong>Style Number: </strong>B665889S</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Expandable</li>
+<li>Size (Diameter): Small  2 1/4<sup>"</sup> or Medium  2 3/8<sup>"</sup>
+</li>
+<li>Weight: 12g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wedding</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581070258206</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B665889S</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581070782494</id>
+    <published>2018-04-11T09:51:41-04:00</published>
+    <updated>2018-04-11T09:51:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/engagement-ring-charm-bangle-bracelet"/>
+    <title>Engagement Ring Love Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/engagement-ring-love-bangle-bracelet.jpg?v=1527022917"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: Engagement Ring Love Bangle Bracelet</strong></p>
+<p><strong>Style Number: </strong>B664928S</p>
+<p> </p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Expandable</li>
+<li>Size (Diameter): Small-Medium 2 1/4<sup>"</sup> or Medium-Large 2 3/8<sup>"</sup>
+</li>
+<li>Weight: 12g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wedding</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581070782494</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B664928S</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581070946334</id>
+    <published>2018-04-11T09:51:40-04:00</published>
+    <updated>2018-04-11T09:51:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/cross-in-heart-charm-bangle-bracelet"/>
+    <title>Cross In Heart Charm Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/cross-in-heart-charm-bangle-bracelet.jpg?v=1527022929"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: Cross In Heart Charm Bangle Bracelet</strong></p>
+<p><strong>Style Number: </strong>B068040S</p>
+<p>Please add (2) weeks delivery time for 24K Gold Plated!</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Expandable</li>
+<li>Size (Diameter): Small 2 1/4<sup>"</sup> or Medium 2 3/8<sup>"</sup>
+</li>
+<li>Weight: 12g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wedding</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581070946334</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B068040S</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581070880798</id>
+    <published>2018-04-11T09:51:40-04:00</published>
+    <updated>2018-04-11T09:51:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/dove-charm-bangle-bracelet"/>
+    <title>Dove Charm Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/dove-charm-bangle-bracelet.jpg?v=1527022926"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: Dove Charm Bangle Bracelet</strong></p>
+<p><strong>Style Number: </strong>B337478S</p>
+<p>Please add (2) weeks delivery time for 24K Gold Plated!</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Expandable</li>
+<li>Size (Diameter): Small-Medium 2<sup>3/8"</sup> or Medium-Large 2<sup>1/2"</sup>
+</li>
+<li>Weight: 12g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wedding</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581070880798</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B337478S</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581071306782</id>
+    <published>2018-04-11T09:51:37-04:00</published>
+    <updated>2018-04-11T09:51:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/church-charm-bangle-bracelet"/>
+    <title>Church Charm Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/church-charm-bangle-bracelet.jpg?v=1527022970"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: Church Charm Bangle Bracelet</strong></p>
+<p><strong>Style Number: </strong>B626040S</p>
+<p>Please add (2) weeks delivery time for 24K Gold Plated!</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Expandable</li>
+<li>Size (Diameter): Small-Medium 2<sup>3/8"</sup> or Medium-Large 2<sup>1/2"</sup>
+</li>
+<li>Weight: 12g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Religious</s:tag>
+    <s:tag>Wedding</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581071306782</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B626040S</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581071732766</id>
+    <published>2018-04-11T09:51:33-04:00</published>
+    <updated>2018-04-11T09:51:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/bride-and-groom-charm-bangle-bracelet"/>
+    <title>Bride and Groom Charm Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/bride-and-groom-charm-bangle-bracelet.jpg?v=1527023014"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: </strong></p>
+<p><strong>Style Number: <span>B678478S</span></strong></p>
+<p>Please add (2) weeks delivery time for 24K Gold Plated!</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Expandable</li>
+<li>Size (Diameter): Small-Medium 2<sup>3/8"</sup> or Medium-Large 2<sup>1/2"</sup>
+</li>
+<li>Weight: 12g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wedding</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581071732766</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B678478S</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581071831070</id>
+    <published>2018-04-11T09:51:32-04:00</published>
+    <updated>2018-04-11T09:51:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/bouquet-of-flowers-charm-bangle-bracelet"/>
+    <title>Bouquet Heart Charm Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/bouquet-heart-charm-bangle-bracelet.jpg?v=1527023022"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>Details: Bouquet Charm Bangle Bracelet. Handmade in America and Sterling Silver Plated.</strong></p>
+<p><strong>Style Number: B677404S</strong></p>
+<p> </p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Expandable</li>
+<li>Weight: 12g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wedding</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581071831070</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B677404S</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://watchus.com/products/581071765534</id>
+    <published>2018-04-11T09:51:32-04:00</published>
+    <updated>2018-04-11T09:51:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watchus.com/products/bride-and-groom-champagne-glasses-charm-bangle-bracelet"/>
+    <title>Bride and Groom Champagne Glasses Charm Bangle Bracelet</title>
+    <s:type>Bangle Bracelet</s:type>
+    <s:vendor>Samandnan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/2801/products/bride-and-groom-champagne-glasses-charm-bangle-bracelet.jpg?v=1527023018"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samandnan<br>
+        <strong>Type: </strong>Bangle Bracelet<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Details: Bride and Groom Champagne Glasses Charm Bangle Bracelet</strong></p>
+<p><strong>Style Number: </strong>B675478S</p>
+<p>Please add (2) weeks delivery time for 24K Gold Plated!</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Expandable</li>
+<li>Size (Diameter): Small-Medium 2<sup>3/8"</sup> or Medium-Large 2<sup>1/2"</sup>
+</li>
+<li>Weight: 12g</li>
+<li>Made in America</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wedding</s:tag>
+    <s:variant>
+      <id>https://watchus.com/products/581071765534</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>B675478S</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+</feed>
